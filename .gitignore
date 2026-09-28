@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+runs/
+hf_cache/
+*.pt
+adapter/
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+.DS_Store

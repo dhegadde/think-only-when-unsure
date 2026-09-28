@@ -1,0 +1,634 @@
+{"task": "imdb", "idx": 25, "label": 0, "probs": [1.0, 1.4247426849411937e-10], "tokens_in": 366, "tokens_out": 240, "forced": false, "think_chars": 969}
+{"task": "imdb", "idx": 84, "label": 1, "probs": [2.5545152798622794e-11, 1.0], "tokens_in": 397, "tokens_out": 811, "forced": false, "think_chars": 3142}
+{"task": "imdb", "idx": 213, "label": 0, "probs": [1.0, 5.36566034659014e-11], "tokens_in": 386, "tokens_out": 215, "forced": false, "think_chars": 861}
+{"task": "imdb", "idx": 275, "label": 1, "probs": [4.00379382425875e-13, 1.0], "tokens_in": 371, "tokens_out": 224, "forced": false, "think_chars": 909}
+{"task": "imdb", "idx": 277, "label": 0, "probs": [1.0241616582584712e-11, 1.0], "tokens_in": 401, "tokens_out": 723, "forced": false, "think_chars": 2832}
+{"task": "imdb", "idx": 331, "label": 0, "probs": [1.0, 6.574157190852858e-11], "tokens_in": 358, "tokens_out": 220, "forced": false, "think_chars": 894}
+{"task": "imdb", "idx": 481, "label": 1, "probs": [4.50934905735223e-12, 1.0], "tokens_in": 390, "tokens_out": 542, "forced": false, "think_chars": 2312}
+{"task": "imdb", "idx": 491, "label": 1, "probs": [3.0692123647278746e-13, 1.0], "tokens_in": 395, "tokens_out": 312, "forced": false, "think_chars": 1230}
+{"task": "imdb", "idx": 93, "label": 0, "probs": [2.6873293087342764e-12, 1.0], "tokens_in": 358, "tokens_out": 297, "forced": false, "think_chars": 1368}
+{"task": "imdb", "idx": 117, "label": 1, "probs": [6.547833564414518e-13, 1.0], "tokens_in": 358, "tokens_out": 325, "forced": false, "think_chars": 1342}
+{"task": "imdb", "idx": 127, "label": 1, "probs": [2.353309333427006e-13, 1.0], "tokens_in": 370, "tokens_out": 148, "forced": false, "think_chars": 556}
+{"task": "imdb", "idx": 134, "label": 1, "probs": [4.790872017677861e-13, 1.0], "tokens_in": 354, "tokens_out": 255, "forced": false, "think_chars": 1015}
+{"task": "imdb", "idx": 164, "label": 0, "probs": [1.0, 2.5148346946557432e-11], "tokens_in": 369, "tokens_out": 196, "forced": false, "think_chars": 798}
+{"task": "imdb", "idx": 184, "label": 1, "probs": [1.8330425881601248e-13, 1.0], "tokens_in": 381, "tokens_out": 316, "forced": false, "think_chars": 1258}
+{"task": "imdb", "idx": 262, "label": 0, "probs": [1.0, 7.992157630143382e-11], "tokens_in": 355, "tokens_out": 222, "forced": false, "think_chars": 917}
+{"task": "imdb", "idx": 343, "label": 0, "probs": [1.0, 7.053014422497839e-11], "tokens_in": 354, "tokens_out": 193, "forced": false, "think_chars": 822}
+{"task": "imdb", "idx": 367, "label": 1, "probs": [3.5467084130713644e-11, 1.0], "tokens_in": 383, "tokens_out": 563, "forced": false, "think_chars": 2240}
+{"task": "imdb", "idx": 375, "label": 1, "probs": [3.820541702014707e-13, 1.0], "tokens_in": 351, "tokens_out": 431, "forced": false, "think_chars": 1886}
+{"task": "imdb", "idx": 458, "label": 1, "probs": [1.8913882504460744e-13, 1.0], "tokens_in": 382, "tokens_out": 172, "forced": false, "think_chars": 655}
+{"task": "imdb", "idx": 492, "label": 0, "probs": [1.0, 4.211531123843315e-11], "tokens_in": 379, "tokens_out": 127, "forced": false, "think_chars": 448}
+{"task": "imdb", "idx": 4, "label": 1, "probs": [4.754513839924646e-13, 1.0], "tokens_in": 385, "tokens_out": 171, "forced": false, "think_chars": 616}
+{"task": "imdb", "idx": 22, "label": 0, "probs": [1.0, 5.365649938249284e-11], "tokens_in": 412, "tokens_out": 176, "forced": false, "think_chars": 708}
+{"task": "imdb", "idx": 103, "label": 0, "probs": [1.0, 8.507494708709373e-11], "tokens_in": 369, "tokens_out": 129, "forced": false, "think_chars": 511}
+{"task": "imdb", "idx": 139, "label": 0, "probs": [1.0, 4.6617400911719287e-11], "tokens_in": 372, "tokens_out": 143, "forced": false, "think_chars": 577}
+{"task": "imdb", "idx": 157, "label": 1, "probs": [1.427776489702423e-13, 1.0], "tokens_in": 373, "tokens_out": 207, "forced": false, "think_chars": 805}
+{"task": "imdb", "idx": 160, "label": 0, "probs": [1.0, 4.6617754795308386e-11], "tokens_in": 385, "tokens_out": 351, "forced": false, "think_chars": 1402}
+{"task": "imdb", "idx": 264, "label": 1, "probs": [3.6732398264564814e-13, 1.0], "tokens_in": 453, "tokens_out": 195, "forced": false, "think_chars": 706}
+{"task": "imdb", "idx": 265, "label": 1, "probs": [2.2114718368181074e-13, 1.0], "tokens_in": 382, "tokens_out": 297, "forced": false, "think_chars": 1234}
+{"task": "imdb", "idx": 288, "label": 1, "probs": [1.0, 2.6729496838129307e-08], "tokens_in": 333, "tokens_out": 849, "forced": false, "think_chars": 3627}
+{"task": "imdb", "idx": 377, "label": 0, "probs": [1.0, 6.421854714666608e-11], "tokens_in": 386, "tokens_out": 338, "forced": false, "think_chars": 1324}
+{"task": "imdb", "idx": 413, "label": 1, "probs": [1.5929515735993438e-13, 1.0], "tokens_in": 371, "tokens_out": 174, "forced": false, "think_chars": 592}
+{"task": "imdb", "idx": 449, "label": 0, "probs": [1.0, 2.3168359591929644e-11], "tokens_in": 392, "tokens_out": 279, "forced": false, "think_chars": 1113}
+{"task": "imdb", "idx": 469, "label": 0, "probs": [1.0, 3.0572495923752996e-11], "tokens_in": 348, "tokens_out": 214, "forced": false, "think_chars": 892}
+{"task": "imdb", "idx": 486, "label": 0, "probs": [1.0, 4.698356287358152e-11], "tokens_in": 397, "tokens_out": 202, "forced": false, "think_chars": 779}
+{"task": "imdb", "idx": 43, "label": 0, "probs": [1.0, 7.123210910009448e-10], "tokens_in": 377, "tokens_out": 699, "forced": false, "think_chars": 2668}
+{"task": "imdb", "idx": 173, "label": 1, "probs": [7.960353838772083e-13, 1.0], "tokens_in": 368, "tokens_out": 227, "forced": false, "think_chars": 928}
+{"task": "imdb", "idx": 188, "label": 0, "probs": [1.0, 5.4928613740790055e-11], "tokens_in": 390, "tokens_out": 193, "forced": false, "think_chars": 799}
+{"task": "imdb", "idx": 263, "label": 1, "probs": [3.7020427413707313e-13, 1.0], "tokens_in": 387, "tokens_out": 188, "forced": false, "think_chars": 693}
+{"task": "imdb", "idx": 274, "label": 1, "probs": [4.981167388284913e-13, 1.0], "tokens_in": 387, "tokens_out": 157, "forced": false, "think_chars": 628}
+{"task": "imdb", "idx": 292, "label": 0, "probs": [1.0, 5.211461817644647e-10], "tokens_in": 364, "tokens_out": 477, "forced": false, "think_chars": 1945}
+{"task": "imdb", "idx": 307, "label": 1, "probs": [6.223319385864623e-13, 1.0], "tokens_in": 379, "tokens_out": 253, "forced": false, "think_chars": 1003}
+{"task": "imdb", "idx": 339, "label": 1, "probs": [1.4057132465428862e-13, 1.0], "tokens_in": 390, "tokens_out": 214, "forced": false, "think_chars": 827}
+{"task": "imdb", "idx": 366, "label": 1, "probs": [1.9513268767739483e-13, 1.0], "tokens_in": 357, "tokens_out": 191, "forced": false, "think_chars": 751}
+{"task": "imdb", "idx": 431, "label": 1, "probs": [1.777171075231787e-13, 1.0], "tokens_in": 342, "tokens_out": 219, "forced": false, "think_chars": 888}
+{"task": "imdb", "idx": 142, "label": 1, "probs": [2.211568872912545e-13, 1.0], "tokens_in": 378, "tokens_out": 302, "forced": false, "think_chars": 1221}
+{"task": "imdb", "idx": 30, "label": 0, "probs": [1.0, 1.0423580748541994e-10], "tokens_in": 354, "tokens_out": 196, "forced": false, "think_chars": 792}
+{"task": "imdb", "idx": 68, "label": 1, "probs": [6.852048632264782e-14, 1.0], "tokens_in": 410, "tokens_out": 191, "forced": false, "think_chars": 662}
+{"task": "imdb", "idx": 129, "label": 0, "probs": [1.0, 6.730033891289011e-11], "tokens_in": 371, "tokens_out": 251, "forced": false, "think_chars": 984}
+{"task": "imdb", "idx": 201, "label": 1, "probs": [1.0, 1.8874810048252755e-10], "tokens_in": 385, "tokens_out": 577, "forced": false, "think_chars": 2265}
+{"task": "imdb", "idx": 24, "label": 1, "probs": [2.0770459462603197e-13, 1.0], "tokens_in": 393, "tokens_out": 181, "forced": false, "think_chars": 663}
+{"task": "imdb", "idx": 493, "label": 1, "probs": [1.861894427697408e-13, 1.0], "tokens_in": 378, "tokens_out": 308, "forced": false, "think_chars": 1089}
+{"task": "imdb", "idx": 247, "label": 0, "probs": [1.0, 7.391467299333598e-11], "tokens_in": 376, "tokens_out": 190, "forced": false, "think_chars": 747}
+{"task": "imdb", "idx": 405, "label": 0, "probs": [3.117973544283781e-13, 1.0], "tokens_in": 385, "tokens_out": 174, "forced": false, "think_chars": 641}
+{"task": "imdb", "idx": 285, "label": 1, "probs": [2.281932780755225e-13, 1.0], "tokens_in": 370, "tokens_out": 194, "forced": false, "think_chars": 758}
+{"task": "imdb", "idx": 415, "label": 0, "probs": [1.0, 6.889710330026944e-11], "tokens_in": 346, "tokens_out": 268, "forced": false, "think_chars": 1019}
+{"task": "imdb", "idx": 317, "label": 0, "probs": [1.0, 7.807123697523011e-11], "tokens_in": 354, "tokens_out": 259, "forced": false, "think_chars": 1089}
+{"task": "imdb", "idx": 436, "label": 1, "probs": [1.617438279664929e-13, 1.0], "tokens_in": 306, "tokens_out": 172, "forced": false, "think_chars": 642}
+{"task": "imdb", "idx": 98, "label": 1, "probs": [1.3626224443490792e-13, 1.0], "tokens_in": 318, "tokens_out": 199, "forced": false, "think_chars": 719}
+{"task": "imdb", "idx": 393, "label": 0, "probs": [1.0, 3.834715878170414e-11], "tokens_in": 321, "tokens_out": 173, "forced": false, "think_chars": 682}
+{"task": "imdb", "idx": 370, "label": 0, "probs": [1.0, 3.5744095183698477e-11], "tokens_in": 288, "tokens_out": 255, "forced": false, "think_chars": 989}
+{"task": "imdb", "idx": 433, "label": 1, "probs": [7.135288453835598e-13, 1.0], "tokens_in": 279, "tokens_out": 136, "forced": false, "think_chars": 516}
+{"task": "imdb", "idx": 452, "label": 0, "probs": [6.4591470193275935e-12, 1.0], "tokens_in": 286, "tokens_out": 310, "forced": false, "think_chars": 1290}
+{"task": "imdb", "idx": 56, "label": 1, "probs": [3.31859702478593e-13, 1.0], "tokens_in": 271, "tokens_out": 135, "forced": false, "think_chars": 529}
+{"task": "imdb", "idx": 150, "label": 1, "probs": [1.2022509181773555e-13, 1.0], "tokens_in": 301, "tokens_out": 209, "forced": false, "think_chars": 733}
+{"task": "imdb", "idx": 199, "label": 1, "probs": [1.9513901670757672e-13, 1.0], "tokens_in": 265, "tokens_out": 203, "forced": false, "think_chars": 793}
+{"task": "imdb", "idx": 27, "label": 0, "probs": [1.0, 9.056319583145012e-11], "tokens_in": 275, "tokens_out": 221, "forced": false, "think_chars": 871}
+{"task": "imdb", "idx": 67, "label": 0, "probs": [1.0, 5.200596550625214e-11], "tokens_in": 270, "tokens_out": 141, "forced": false, "think_chars": 506}
+{"task": "imdb", "idx": 326, "label": 1, "probs": [1.0, 8.865012612879752e-10], "tokens_in": 273, "tokens_out": 500, "forced": false, "think_chars": 1950}
+{"task": "imdb", "idx": 231, "label": 1, "probs": [1.6953001231567039e-13, 1.0], "tokens_in": 258, "tokens_out": 181, "forced": false, "think_chars": 701}
+{"task": "imdb", "idx": 420, "label": 1, "probs": [4.130470650839241e-13, 1.0], "tokens_in": 241, "tokens_out": 217, "forced": false, "think_chars": 832}
+{"task": "imdb", "idx": 196, "label": 0, "probs": [1.0, 6.729981849584732e-11], "tokens_in": 250, "tokens_out": 168, "forced": false, "think_chars": 660}
+{"task": "imdb", "idx": 108, "label": 0, "probs": [7.83653632437098e-13, 1.0], "tokens_in": 254, "tokens_out": 395, "forced": false, "think_chars": 1560}
+{"task": "imdb", "idx": 130, "label": 1, "probs": [1.695688132009182e-13, 1.0], "tokens_in": 246, "tokens_out": 150, "forced": false, "think_chars": 530}
+{"task": "imdb", "idx": 109, "label": 1, "probs": [3.022176150828393e-13, 1.0], "tokens_in": 243, "tokens_out": 145, "forced": false, "think_chars": 520}
+{"task": "imdb", "idx": 26, "label": 0, "probs": [1.0, 2.9864968137394143e-11], "tokens_in": 240, "tokens_out": 190, "forced": false, "think_chars": 708}
+{"task": "imdb", "idx": 177, "label": 1, "probs": [3.4513147548209666e-13, 1.0], "tokens_in": 254, "tokens_out": 153, "forced": false, "think_chars": 537}
+{"task": "imdb", "idx": 100, "label": 1, "probs": [4.607477051797593e-13, 1.0], "tokens_in": 250, "tokens_out": 157, "forced": false, "think_chars": 526}
+{"task": "imdb", "idx": 311, "label": 0, "probs": [1.0, 1.3809052512581133e-10], "tokens_in": 213, "tokens_out": 215, "forced": false, "think_chars": 837}
+{"task": "imdb", "idx": 295, "label": 0, "probs": [1.0, 6.032877669648329e-11], "tokens_in": 219, "tokens_out": 234, "forced": false, "think_chars": 962}
+{"task": "imdb", "idx": 153, "label": 1, "probs": [1.0124237873835457e-13, 1.0], "tokens_in": 228, "tokens_out": 172, "forced": false, "think_chars": 601}
+{"task": "imdb", "idx": 417, "label": 0, "probs": [1.0, 6.523034196126432e-11], "tokens_in": 230, "tokens_out": 222, "forced": false, "think_chars": 854}
+{"task": "imdb", "idx": 333, "label": 0, "probs": [1.0, 4.229268935063146e-09], "tokens_in": 202, "tokens_out": 691, "forced": false, "think_chars": 2769}
+{"task": "rte", "idx": 51, "label": 0, "probs": [1.0, 5.376850631400032e-10], "tokens_in": 210, "tokens_out": 660, "forced": false, "think_chars": 2373}
+{"task": "imdb", "idx": 256, "label": 1, "probs": [2.0132993308521335e-13, 1.0], "tokens_in": 199, "tokens_out": 132, "forced": false, "think_chars": 508}
+{"task": "imdb", "idx": 210, "label": 0, "probs": [1.0, 3.9564202608532995e-11], "tokens_in": 205, "tokens_out": 183, "forced": false, "think_chars": 710}
+{"task": "rte", "idx": 58, "label": 0, "probs": [1.0, 2.0091937835697848e-10], "tokens_in": 187, "tokens_out": 346, "forced": false, "think_chars": 1508}
+{"task": "imdb", "idx": 404, "label": 0, "probs": [1.0, 5.847176909323792e-11], "tokens_in": 196, "tokens_out": 129, "forced": false, "think_chars": 450}
+{"task": "imdb", "idx": 62, "label": 1, "probs": [1.8047580574095945e-13, 1.0], "tokens_in": 202, "tokens_out": 255, "forced": false, "think_chars": 973}
+{"task": "imdb", "idx": 44, "label": 1, "probs": [1.9819158792420966e-13, 1.0], "tokens_in": 186, "tokens_out": 163, "forced": false, "think_chars": 589}
+{"task": "imdb", "idx": 459, "label": 0, "probs": [1.0, 6.677672304000737e-11], "tokens_in": 194, "tokens_out": 135, "forced": false, "think_chars": 517}
+{"task": "imdb", "idx": 64, "label": 1, "probs": [1.0947245578573836e-13, 1.0], "tokens_in": 179, "tokens_out": 149, "forced": false, "think_chars": 497}
+{"task": "rte", "idx": 96, "label": 0, "probs": [1.0, 1.3594884940015817e-10], "tokens_in": 185, "tokens_out": 169, "forced": false, "think_chars": 691}
+{"task": "rte", "idx": 34, "label": 0, "probs": [1.0, 3.6954589388571435e-10], "tokens_in": 188, "tokens_out": 430, "forced": false, "think_chars": 1727}
+{"task": "imdb", "idx": 116, "label": 1, "probs": [1.2598712492099123e-13, 1.0], "tokens_in": 172, "tokens_out": 132, "forced": false, "think_chars": 463}
+{"task": "rte", "idx": 30, "label": 1, "probs": [5.481482455438336e-12, 1.0], "tokens_in": 159, "tokens_out": 241, "forced": false, "think_chars": 1029}
+{"task": "rte", "idx": 40, "label": 1, "probs": [6.929494304752648e-12, 1.0], "tokens_in": 165, "tokens_out": 304, "forced": false, "think_chars": 1323}
+{"task": "rte", "idx": 263, "label": 1, "probs": [2.4183439539110507e-12, 1.0], "tokens_in": 166, "tokens_out": 275, "forced": false, "think_chars": 1038}
+{"task": "rte", "idx": 103, "label": 0, "probs": [1.0, 1.127057752681182e-10], "tokens_in": 164, "tokens_out": 182, "forced": false, "think_chars": 718}
+{"task": "imdb", "idx": 419, "label": 0, "probs": [1.0, 1.1628454449352787e-10], "tokens_in": 165, "tokens_out": 152, "forced": false, "think_chars": 600}
+{"task": "imdb", "idx": 58, "label": 1, "probs": [1.0777627569699341e-13, 1.0], "tokens_in": 164, "tokens_out": 248, "forced": false, "think_chars": 905}
+{"task": "rte", "idx": 153, "label": 1, "probs": [4.715588813528071e-13, 1.0], "tokens_in": 158, "tokens_out": 206, "forced": false, "think_chars": 900}
+{"task": "rte", "idx": 188, "label": 0, "probs": [1.0, 3.364772904745905e-10], "tokens_in": 136, "tokens_out": 380, "forced": false, "think_chars": 1676}
+{"task": "rte", "idx": 68, "label": 0, "probs": [1.0, 1.6398812863194223e-10], "tokens_in": 137, "tokens_out": 305, "forced": false, "think_chars": 1237}
+{"task": "rte", "idx": 46, "label": 0, "probs": [1.0, 2.1724565202330126e-10], "tokens_in": 136, "tokens_out": 237, "forced": false, "think_chars": 1090}
+{"task": "mrpc", "idx": 236, "label": 0, "probs": [1.0, 2.789494746302523e-10], "tokens_in": 129, "tokens_out": 429, "forced": false, "think_chars": 1871}
+{"task": "rte", "idx": 178, "label": 1, "probs": [2.0482959946221957e-12, 1.0], "tokens_in": 126, "tokens_out": 235, "forced": false, "think_chars": 1071}
+{"task": "hellaswag", "idx": 201, "label": 0, "probs": [1.0, 9.146435830942323e-10, 1.1496191554272173e-08, 2.303888200008708e-12], "tokens_in": 292, "tokens_out": 546, "forced": false, "think_chars": 2495}
+{"task": "rte", "idx": 65, "label": 1, "probs": [1.4026539651990078e-10, 1.0], "tokens_in": 128, "tokens_out": 703, "forced": false, "think_chars": 2969}
+{"task": "hellaswag", "idx": 295, "label": 0, "probs": [1.0, 4.099132144830264e-09, 4.012565213429298e-08, 1.1941505076440428e-11], "tokens_in": 277, "tokens_out": 541, "forced": false, "think_chars": 2176}
+{"task": "rte", "idx": 267, "label": 1, "probs": [2.2061729613304104e-12, 1.0], "tokens_in": 123, "tokens_out": 184, "forced": false, "think_chars": 832}
+{"task": "mrpc", "idx": 263, "label": 0, "probs": [1.0, 2.878042804077552e-10], "tokens_in": 136, "tokens_out": 488, "forced": false, "think_chars": 1786}
+{"task": "imdb", "idx": 118, "label": 0, "probs": [1.0, 6.472283820002644e-11], "tokens_in": 120, "tokens_out": 175, "forced": false, "think_chars": 757}
+{"task": "rte", "idx": 225, "label": 1, "probs": [1.9776574041591166e-12, 1.0], "tokens_in": 135, "tokens_out": 304, "forced": false, "think_chars": 1221}
+{"task": "hellaswag", "idx": 177, "label": 1, "probs": [1.8040946341002506e-12, 1.0, 4.457557378767518e-10, 8.228694635403766e-12], "tokens_in": 288, "tokens_out": 456, "forced": false, "think_chars": 1867}
+{"task": "stsb", "idx": 367, "label": 5, "probs": [6.905023774983476e-10, 8.152001740313608e-09, 1.5381654350221652e-07, 2.2637460794783237e-09, 2.8739313506775943e-07, 0.9999995231628418], "tokens_in": 180, "tokens_out": 1042, "forced": true, "think_chars": 4260}
+{"task": "hellaswag", "idx": 343, "label": 2, "probs": [2.5148010410203092e-11, 1.43072416136647e-08, 1.0, 4.320420965431282e-10], "tokens_in": 289, "tokens_out": 273, "forced": false, "think_chars": 1154}
+{"task": "mrpc", "idx": 36, "label": 0, "probs": [1.0, 3.1609115325181847e-10], "tokens_in": 129, "tokens_out": 377, "forced": false, "think_chars": 1518}
+{"task": "rte", "idx": 89, "label": 0, "probs": [1.0, 1.858211223781936e-10], "tokens_in": 130, "tokens_out": 255, "forced": false, "think_chars": 944}
+{"task": "mrpc", "idx": 274, "label": 1, "probs": [3.0335390449609534e-11, 1.0], "tokens_in": 120, "tokens_out": 476, "forced": false, "think_chars": 2100}
+{"task": "rte", "idx": 63, "label": 0, "probs": [1.0, 1.1095885321665833e-10], "tokens_in": 136, "tokens_out": 198, "forced": false, "think_chars": 769}
+{"task": "rte", "idx": 162, "label": 1, "probs": [5.7445554389745634e-12, 1.0], "tokens_in": 109, "tokens_out": 402, "forced": false, "think_chars": 1643}
+{"task": "mrpc", "idx": 372, "label": 0, "probs": [1.1861255089229417e-08, 1.0], "tokens_in": 120, "tokens_out": 532, "forced": false, "think_chars": 2155}
+{"task": "rte", "idx": 94, "label": 1, "probs": [3.826735369555356e-12, 1.0], "tokens_in": 105, "tokens_out": 312, "forced": false, "think_chars": 1447}
+{"task": "hellaswag", "idx": 100, "label": 1, "probs": [3.5045954311328786e-13, 1.0, 2.312550151373216e-10, 4.6160384542526245e-12], "tokens_in": 272, "tokens_out": 525, "forced": false, "think_chars": 2295}
+{"task": "mrpc", "idx": 192, "label": 0, "probs": [0.9999562501907349, 4.376261858851649e-05], "tokens_in": 126, "tokens_out": 1042, "forced": true, "think_chars": 4183}
+{"task": "mrpc", "idx": 93, "label": 0, "probs": [3.956382443881523e-11, 1.0], "tokens_in": 139, "tokens_out": 350, "forced": false, "think_chars": 1322}
+{"task": "mrpc", "idx": 118, "label": 0, "probs": [1.0, 9.343833345942798e-11], "tokens_in": 120, "tokens_out": 293, "forced": false, "think_chars": 1151}
+{"task": "mrpc", "idx": 62, "label": 0, "probs": [9.640493264795325e-11, 1.0], "tokens_in": 119, "tokens_out": 505, "forced": false, "think_chars": 2071}
+{"task": "mrpc", "idx": 270, "label": 1, "probs": [5.961244952529254e-13, 1.0], "tokens_in": 127, "tokens_out": 237, "forced": false, "think_chars": 917}
+{"task": "hellaswag", "idx": 393, "label": 1, "probs": [3.370433001703005e-13, 1.0, 1.5893911187170318e-10, 6.458986991086935e-12], "tokens_in": 330, "tokens_out": 410, "forced": false, "think_chars": 1646}
+{"task": "stsb", "idx": 285, "label": 4, "probs": [9.832819003463555e-09, 1.1253023046720045e-07, 1.5534288877461222e-06, 4.222657480568159e-06, 0.9999712705612183, 2.2827536668046378e-05], "tokens_in": 173, "tokens_out": 1042, "forced": true, "think_chars": 4361}
+{"task": "hellaswag", "idx": 44, "label": 1, "probs": [9.977684910927875e-13, 1.0, 3.364740708278191e-10, 8.556554770278169e-12], "tokens_in": 314, "tokens_out": 624, "forced": false, "think_chars": 2522}
+{"task": "hellaswag", "idx": 164, "label": 2, "probs": [4.944458176225908e-09, 2.8736849344568327e-07, 0.9999996423721313, 5.658622015403125e-08], "tokens_in": 272, "tokens_out": 1042, "forced": true, "think_chars": 4065}
+{"task": "arc_easy", "idx": 196, "label": 3, "probs": [3.36454158262299e-14, 1.0103131525829312e-10, 2.9233598874967015e-10, 1.0], "tokens_in": 114, "tokens_out": 272, "forced": false, "think_chars": 1026}
+{"task": "hellaswag", "idx": 127, "label": 3, "probs": [7.495667498150227e-13, 2.2414561873240757e-10, 4.895678307192952e-10, 1.0], "tokens_in": 313, "tokens_out": 626, "forced": false, "think_chars": 2578}
+{"task": "hellaswag", "idx": 367, "label": 1, "probs": [8.329008056168208e-13, 1.0, 3.581747953784742e-10, 8.164907985830361e-12], "tokens_in": 260, "tokens_out": 552, "forced": false, "think_chars": 2518}
+{"task": "mrpc", "idx": 255, "label": 1, "probs": [1.0, 3.016208949269128e-10], "tokens_in": 123, "tokens_out": 673, "forced": false, "think_chars": 2814}
+{"task": "mrpc", "idx": 53, "label": 0, "probs": [1.0, 2.1056251187090425e-10], "tokens_in": 141, "tokens_out": 948, "forced": false, "think_chars": 3081}
+{"task": "hellaswag", "idx": 420, "label": 3, "probs": [1.6015518718073135e-13, 9.49159223440077e-11, 2.7462318530346863e-10, 1.0], "tokens_in": 267, "tokens_out": 502, "forced": false, "think_chars": 2054}
+{"task": "mrpc", "idx": 6, "label": 0, "probs": [1.0, 1.1270749611380637e-10], "tokens_in": 115, "tokens_out": 243, "forced": false, "think_chars": 959}
+{"task": "stsb", "idx": 196, "label": 4, "probs": [7.082678627617911e-13, 1.004526017922558e-09, 1.876701904990341e-09, 1.461632481714048e-09, 1.0, 1.1861640558663566e-08], "tokens_in": 176, "tokens_out": 626, "forced": false, "think_chars": 2581}
+{"task": "mrpc", "idx": 297, "label": 1, "probs": [6.211510906323214e-12, 1.0], "tokens_in": 109, "tokens_out": 497, "forced": false, "think_chars": 2199}
+{"task": "hellaswag", "idx": 109, "label": 1, "probs": [5.534670486674609e-13, 1.0, 2.620462735691831e-10, 5.6555480784648005e-12], "tokens_in": 303, "tokens_out": 582, "forced": false, "think_chars": 2524}
+{"task": "mrpc", "idx": 335, "label": 0, "probs": [0.9999898672103882, 1.0129981092177331e-05], "tokens_in": 129, "tokens_out": 1042, "forced": true, "think_chars": 3934}
+{"task": "rte", "idx": 127, "label": 1, "probs": [2.8550818393507926e-12, 1.0], "tokens_in": 135, "tokens_out": 259, "forced": false, "think_chars": 822}
+{"task": "hellaswag", "idx": 492, "label": 2, "probs": [3.6022858307394046e-11, 1.5229980832032197e-08, 1.0, 3.6954589388571435e-10], "tokens_in": 259, "tokens_out": 431, "forced": false, "think_chars": 1839}
+{"task": "mrpc", "idx": 137, "label": 0, "probs": [1.309742245214629e-12, 1.0], "tokens_in": 106, "tokens_out": 367, "forced": false, "think_chars": 1590}
+{"task": "mrpc", "idx": 375, "label": 0, "probs": [1.0, 4.5019818983860205e-09], "tokens_in": 120, "tokens_out": 1042, "forced": true, "think_chars": 3974}
+{"task": "rte", "idx": 262, "label": 0, "probs": [0.9999994039535522, 5.368759730117745e-07], "tokens_in": 107, "tokens_out": 1042, "forced": true, "think_chars": 4550}
+{"task": "mrpc", "idx": 81, "label": 0, "probs": [1.0, 1.540520072618179e-10], "tokens_in": 117, "tokens_out": 333, "forced": false, "think_chars": 1319}
+{"task": "rte", "idx": 39, "label": 0, "probs": [1.0, 5.241345205075909e-11], "tokens_in": 123, "tokens_out": 204, "forced": false, "think_chars": 788}
+{"task": "rte", "idx": 270, "label": 0, "probs": [1.0, 1.4026486916396408e-10], "tokens_in": 102, "tokens_out": 164, "forced": false, "think_chars": 792}
+{"task": "mrpc", "idx": 150, "label": 0, "probs": [7.823390824057697e-10, 1.0], "tokens_in": 109, "tokens_out": 878, "forced": false, "think_chars": 3593}
+{"task": "mrpc", "idx": 209, "label": 0, "probs": [1.0, 1.0924006144108489e-10], "tokens_in": 111, "tokens_out": 370, "forced": false, "think_chars": 1477}
+{"task": "mrpc", "idx": 295, "label": 1, "probs": [1.4273245129217682e-13, 1.0], "tokens_in": 112, "tokens_out": 188, "forced": false, "think_chars": 654}
+{"task": "hellaswag", "idx": 493, "label": 1, "probs": [5.654800629487089e-13, 1.0, 2.789468100949932e-10, 3.247813259651955e-12], "tokens_in": 274, "tokens_out": 486, "forced": false, "think_chars": 2097}
+{"task": "rte", "idx": 119, "label": 0, "probs": [1.0, 1.589418180403257e-10], "tokens_in": 109, "tokens_out": 230, "forced": false, "think_chars": 891}
+{"task": "hellaswag", "idx": 366, "label": 2, "probs": [1.6752122258822943e-11, 7.658115031006218e-09, 1.0, 4.187495350471693e-10], "tokens_in": 270, "tokens_out": 554, "forced": false, "think_chars": 2490}
+{"task": "rte", "idx": 116, "label": 0, "probs": [1.0, 1.1811621125623617e-10], "tokens_in": 106, "tokens_out": 179, "forced": false, "think_chars": 766}
+{"task": "rte", "idx": 247, "label": 1, "probs": [1.1007005853644336e-12, 1.0], "tokens_in": 107, "tokens_out": 237, "forced": false, "think_chars": 1019}
+{"task": "hellaswag", "idx": 67, "label": 0, "probs": [1.0, 9.146383650460166e-10, 1.3026892453638084e-08, 2.800804727032258e-12], "tokens_in": 317, "tokens_out": 570, "forced": false, "think_chars": 2515}
+{"task": "hellaswag", "idx": 419, "label": 1, "probs": [4.1941076263027344e-13, 1.0, 1.6918980105806725e-10, 4.439056761063043e-12], "tokens_in": 284, "tokens_out": 518, "forced": false, "think_chars": 2264}
+{"task": "rte", "idx": 42, "label": 0, "probs": [1.0, 6.691611709186418e-10], "tokens_in": 114, "tokens_out": 458, "forced": false, "think_chars": 1964}
+{"task": "rte", "idx": 260, "label": 1, "probs": [4.370243750217995e-12, 1.0], "tokens_in": 104, "tokens_out": 292, "forced": false, "think_chars": 1238}
+{"task": "mrpc", "idx": 219, "label": 1, "probs": [5.260950637804573e-13, 1.0], "tokens_in": 105, "tokens_out": 295, "forced": false, "think_chars": 1270}
+{"task": "rte", "idx": 41, "label": 0, "probs": [1.0, 1.4026593775362528e-10], "tokens_in": 121, "tokens_out": 216, "forced": false, "think_chars": 821}
+{"task": "hellaswag", "idx": 404, "label": 2, "probs": [1.6752186443591555e-11, 6.758262394157555e-09, 1.0, 2.0408262579874048e-10], "tokens_in": 236, "tokens_out": 444, "forced": false, "think_chars": 1839}
+{"task": "hellaswag", "idx": 188, "label": 1, "probs": [1.8148315966345918e-12, 1.0, 8.071593948777434e-10, 1.3461555654903368e-11], "tokens_in": 265, "tokens_out": 536, "forced": false, "think_chars": 2286}
+{"task": "stsb", "idx": 326, "label": 5, "probs": [1.537712665533597e-11, 9.833158287619881e-09, 2.0816795398559407e-08, 6.904078420078008e-10, 2.6731690638825967e-08, 1.0], "tokens_in": 167, "tokens_out": 1042, "forced": true, "think_chars": 4136}
+{"task": "rte", "idx": 273, "label": 1, "probs": [2.2193420712302014e-11, 1.0], "tokens_in": 96, "tokens_out": 238, "forced": false, "think_chars": 1144}
+{"task": "hellaswag", "idx": 17, "label": 0, "probs": [1.0, 4.972935396807543e-10, 1.0145373430248128e-08, 8.69350598453611e-12], "tokens_in": 288, "tokens_out": 647, "forced": false, "think_chars": 2632}
+{"task": "hellaswag", "idx": 431, "label": 0, "probs": [1.0, 3.5061604730657336e-09, 2.0816912638110807e-08, 3.299714017648836e-12], "tokens_in": 262, "tokens_out": 560, "forced": false, "think_chars": 2442}
+{"task": "openbookqa", "idx": 127, "label": 1, "probs": [2.7513237456540385e-13, 1.0, 2.986394465054332e-11, 2.0790682543625483e-12], "tokens_in": 112, "tokens_out": 207, "forced": false, "think_chars": 891}
+{"task": "hellaswag", "idx": 116, "label": 0, "probs": [1.0, 1.069324628844015e-09, 8.152020392060422e-09, 2.1143883085356086e-12], "tokens_in": 280, "tokens_out": 490, "forced": false, "think_chars": 2061}
+{"task": "rte", "idx": 87, "label": 1, "probs": [2.0969979225293756e-12, 1.0], "tokens_in": 100, "tokens_out": 186, "forced": false, "think_chars": 803}
+{"task": "stsb", "idx": 436, "label": 3, "probs": [4.944476586388191e-06, 0.08481868356466293, 0.9118868112564087, 0.0032887773122638464, 6.691666385449935e-07, 9.640268672228558e-08], "tokens_in": 201, "tokens_out": 1042, "forced": true, "think_chars": 3736}
+{"task": "rte", "idx": 35, "label": 0, "probs": [3.65348924447062e-08, 1.0], "tokens_in": 101, "tokens_out": 1042, "forced": true, "think_chars": 4435}
+{"task": "hellaswag", "idx": 196, "label": 3, "probs": [2.0035700529219547e-12, 9.146366442003284e-10, 1.4615739729606503e-09, 1.0], "tokens_in": 273, "tokens_out": 574, "forced": false, "think_chars": 2468}
+{"task": "hellaswag", "idx": 247, "label": 3, "probs": [3.0815950377398316e-13, 4.05873723519079e-10, 4.745053794330545e-10, 1.0], "tokens_in": 250, "tokens_out": 429, "forced": false, "think_chars": 1834}
+{"task": "hellaswag", "idx": 370, "label": 3, "probs": [2.501865659088054e-10, 8.592330180690055e-10, 1.7087595782783183e-09, 1.0], "tokens_in": 270, "tokens_out": 702, "forced": false, "think_chars": 2703}
+{"task": "hellaswag", "idx": 452, "label": 3, "probs": [6.901152566074487e-11, 6.486189918497587e-10, 9.736219608313945e-10, 1.0], "tokens_in": 267, "tokens_out": 529, "forced": false, "think_chars": 2039}
+{"task": "stsb", "idx": 27, "label": 5, "probs": [5.646728202211848e-13, 3.5817684929106974e-10, 5.051083995510908e-10, 7.626461268062101e-11, 1.0, 1.614540307004475e-10], "tokens_in": 164, "tokens_out": 748, "forced": false, "think_chars": 2925}
+{"task": "hellaswag", "idx": 84, "label": 0, "probs": [1.0, 6.69173938483425e-10, 6.348812142675797e-09, 1.8516427540554714e-12], "tokens_in": 281, "tokens_out": 423, "forced": false, "think_chars": 1727}
+{"task": "arc_easy", "idx": 436, "label": 1, "probs": [7.419469227366859e-13, 1.0, 1.1628278201447628e-10, 1.9437424760015976e-12], "tokens_in": 106, "tokens_out": 213, "forced": false, "think_chars": 898}
+{"task": "arc_easy", "idx": 431, "label": 1, "probs": [8.540766835082869e-13, 1.0, 4.2778124792475225e-11, 1.4810697156544816e-12], "tokens_in": 113, "tokens_out": 227, "forced": false, "think_chars": 922}
+{"task": "mrpc", "idx": 392, "label": 1, "probs": [1.0, 2.2767628060638145e-10], "tokens_in": 101, "tokens_out": 335, "forced": false, "think_chars": 1432}
+{"task": "rte", "idx": 117, "label": 0, "probs": [1.0, 3.581782093142749e-10], "tokens_in": 105, "tokens_out": 217, "forced": false, "think_chars": 883}
+{"task": "mrpc", "idx": 29, "label": 1, "probs": [3.797114966203052e-12, 1.0], "tokens_in": 100, "tokens_out": 273, "forced": false, "think_chars": 1154}
+{"task": "mrpc", "idx": 160, "label": 1, "probs": [4.952305059091611e-12, 1.0], "tokens_in": 120, "tokens_out": 266, "forced": false, "think_chars": 854}
+{"task": "rte", "idx": 19, "label": 0, "probs": [1.0, 3.1609234674156994e-10], "tokens_in": 100, "tokens_out": 214, "forced": false, "think_chars": 954}
+{"task": "rte", "idx": 110, "label": 0, "probs": [1.0, 2.9694130487811776e-10], "tokens_in": 100, "tokens_out": 238, "forced": false, "think_chars": 1021}
+{"task": "arc_easy", "idx": 116, "label": 0, "probs": [1.0, 4.457565982995959e-10, 1.7257828943684217e-08, 5.1900111812386296e-12], "tokens_in": 124, "tokens_out": 338, "forced": false, "think_chars": 1494}
+{"task": "mrpc", "idx": 103, "label": 1, "probs": [1.519320964610965e-13, 1.0], "tokens_in": 105, "tokens_out": 231, "forced": false, "think_chars": 947}
+{"task": "mrpc", "idx": 121, "label": 0, "probs": [1.0, 2.2414434197592925e-10], "tokens_in": 108, "tokens_out": 308, "forced": false, "think_chars": 1179}
+{"task": "hellaswag", "idx": 26, "label": 3, "probs": [1.1410316051382874e-12, 3.2612434974765847e-10, 7.123156509081241e-10, 1.0], "tokens_in": 300, "tokens_out": 608, "forced": false, "think_chars": 2674}
+{"task": "hellaswag", "idx": 333, "label": 3, "probs": [4.4144841861853967e-13, 1.5405669795409693e-10, 4.457565982995959e-10, 1.0], "tokens_in": 292, "tokens_out": 406, "forced": false, "think_chars": 1734}
+{"task": "hellaswag", "idx": 256, "label": 2, "probs": [1.0, 1.0693226304425707e-09, 1.223763312907522e-08, 3.797614566564134e-12], "tokens_in": 250, "tokens_out": 689, "forced": false, "think_chars": 2649}
+{"task": "rte", "idx": 49, "label": 0, "probs": [1.0, 1.3176638946621466e-10], "tokens_in": 98, "tokens_out": 183, "forced": false, "think_chars": 785}
+{"task": "mrpc", "idx": 188, "label": 1, "probs": [2.708425660396391e-13, 1.0], "tokens_in": 135, "tokens_out": 286, "forced": false, "think_chars": 806}
+{"task": "rte", "idx": 13, "label": 0, "probs": [0.9999991655349731, 8.375560014428629e-07], "tokens_in": 92, "tokens_out": 1042, "forced": true, "think_chars": 4748}
+{"task": "hellaswag", "idx": 436, "label": 3, "probs": [6.599784087291116e-12, 9.73659042280417e-10, 1.93628202360685e-09, 1.0], "tokens_in": 265, "tokens_out": 726, "forced": false, "think_chars": 2975}
+{"task": "rte", "idx": 249, "label": 1, "probs": [3.324794866504943e-12, 1.0], "tokens_in": 90, "tokens_out": 269, "forced": false, "think_chars": 1268}
+{"task": "hellaswag", "idx": 481, "label": 2, "probs": [5.667191368963209e-11, 6.348800152267131e-09, 1.0, 3.933810499567869e-10], "tokens_in": 249, "tokens_out": 534, "forced": false, "think_chars": 2331}
+{"task": "hellaswag", "idx": 62, "label": 2, "probs": [2.0525402558146943e-11, 4.363462480228009e-09, 1.0, 3.2612434974765847e-10], "tokens_in": 288, "tokens_out": 574, "forced": false, "think_chars": 2357}
+{"task": "mrpc", "idx": 383, "label": 1, "probs": [2.3997680578813352e-11, 1.0], "tokens_in": 111, "tokens_out": 700, "forced": false, "think_chars": 2760}
+{"task": "mrpc", "idx": 306, "label": 1, "probs": [2.974362835021782e-13, 1.0], "tokens_in": 106, "tokens_out": 243, "forced": false, "think_chars": 955}
+{"task": "hellaswag", "idx": 153, "label": 2, "probs": [2.849637192881005e-11, 9.23744991609965e-09, 1.0, 5.547540760098002e-10], "tokens_in": 251, "tokens_out": 437, "forced": false, "think_chars": 1822}
+{"task": "stsb", "idx": 419, "label": 3, "probs": [2.7756449482579937e-12, 1.9977424159378643e-09, 1.7630014115255221e-09, 1.0, 1.1630451463018332e-10, 6.930565062818195e-12], "tokens_in": 167, "tokens_out": 880, "forced": false, "think_chars": 3177}
+{"task": "mrpc", "idx": 70, "label": 1, "probs": [9.237502318626412e-09, 1.0], "tokens_in": 106, "tokens_out": 1033, "forced": false, "think_chars": 3868}
+{"task": "rte", "idx": 53, "label": 1, "probs": [5.3128248328482286e-12, 1.0], "tokens_in": 96, "tokens_out": 175, "forced": false, "think_chars": 775}
+{"task": "stsb", "idx": 343, "label": 3, "probs": [1.1185858284079586e-07, 0.00010825315257534385, 0.005910422187298536, 0.9939810633659363, 1.2675612026669114e-07, 1.943849703422984e-08], "tokens_in": 160, "tokens_out": 1042, "forced": true, "think_chars": 4192}
+{"task": "mrpc", "idx": 254, "label": 1, "probs": [1.3574423007867154e-07, 0.9999998807907104], "tokens_in": 101, "tokens_out": 993, "forced": false, "think_chars": 3725}
+{"task": "hellaswag", "idx": 58, "label": 2, "probs": [6.83591169781117e-11, 1.43072416136647e-08, 1.0, 4.457565982995959e-10], "tokens_in": 266, "tokens_out": 489, "forced": false, "think_chars": 1959}
+{"task": "stsb", "idx": 64, "label": 2, "probs": [1.0557597107663241e-07, 1.667927426751703e-05, 0.001324999611824751, 0.9986581802368164, 4.987265000977459e-08, 2.9028919268370146e-09], "tokens_in": 190, "tokens_out": 1042, "forced": true, "think_chars": 3545}
+{"task": "rte", "idx": 136, "label": 1, "probs": [1.0, 1.9555718822061863e-08], "tokens_in": 92, "tokens_out": 772, "forced": false, "think_chars": 3447}
+{"task": "rte", "idx": 129, "label": 1, "probs": [3.0508577435195416e-12, 1.0], "tokens_in": 90, "tokens_out": 226, "forced": false, "think_chars": 1010}
+{"task": "rte", "idx": 255, "label": 0, "probs": [1.0, 1.7731174861701504e-10], "tokens_in": 113, "tokens_out": 362, "forced": false, "think_chars": 1289}
+{"task": "hellaswag", "idx": 98, "label": 3, "probs": [4.889445335720666e-05, 6.835446697550651e-07, 0.0008040452958084643, 0.9991463422775269], "tokens_in": 235, "tokens_out": 1042, "forced": true, "think_chars": 4178}
+{"task": "hellaswag", "idx": 326, "label": 1, "probs": [6.445335259432083e-13, 1.0, 2.620462735691831e-10, 1.0003416497927908e-11], "tokens_in": 327, "tokens_out": 564, "forced": false, "think_chars": 2147}
+{"task": "mrpc", "idx": 4, "label": 1, "probs": [3.4774022853942266e-13, 1.0], "tokens_in": 98, "tokens_out": 160, "forced": false, "think_chars": 617}
+{"task": "mrpc", "idx": 129, "label": 1, "probs": [1.0, 5.49296649832165e-11], "tokens_in": 129, "tokens_out": 524, "forced": false, "think_chars": 1551}
+{"task": "mrpc", "idx": 247, "label": 0, "probs": [5.001354885791898e-11, 1.0], "tokens_in": 106, "tokens_out": 157, "forced": false, "think_chars": 532}
+{"task": "stsb", "idx": 100, "label": 1, "probs": [2.998977954860038e-09, 1.0, 3.3982678893096363e-09, 7.276942937117781e-11, 6.663839185322429e-12, 5.029966027025878e-12], "tokens_in": 164, "tokens_out": 406, "forced": false, "think_chars": 1614}
+{"task": "hellaswag", "idx": 27, "label": 2, "probs": [9.695458845493388e-12, 9.23744991609965e-09, 1.0, 2.789483921628033e-10], "tokens_in": 279, "tokens_out": 552, "forced": false, "think_chars": 2439}
+{"task": "mrpc", "idx": 167, "label": 1, "probs": [2.645477966464055e-13, 1.0], "tokens_in": 97, "tokens_out": 209, "forced": false, "think_chars": 844}
+{"task": "rte", "idx": 108, "label": 1, "probs": [2.519437566558813e-12, 1.0], "tokens_in": 108, "tokens_out": 270, "forced": false, "think_chars": 904}
+{"task": "rte", "idx": 253, "label": 1, "probs": [8.775801266236449e-13, 1.0], "tokens_in": 104, "tokens_out": 224, "forced": false, "think_chars": 748}
+{"task": "mrpc", "idx": 69, "label": 0, "probs": [1.0, 4.1875514167344363e-10], "tokens_in": 99, "tokens_out": 313, "forced": false, "think_chars": 1223}
+{"task": "stsb", "idx": 188, "label": 2, "probs": [6.023537224564279e-08, 0.9999957084655762, 4.2228330130456015e-06, 4.139920051215995e-08, 2.0611841122786245e-09, 1.4166080530841896e-09], "tokens_in": 154, "tokens_out": 1042, "forced": true, "think_chars": 4262}
+{"task": "mrpc", "idx": 199, "label": 1, "probs": [1.0, 9.146330914866496e-10], "tokens_in": 100, "tokens_out": 992, "forced": false, "think_chars": 3843}
+{"task": "stsb", "idx": 164, "label": 1, "probs": [3.8950447034391544e-11, 1.0, 1.7087563586315468e-09, 4.413764492783301e-11, 1.2256791935560951e-11, 4.370127090064235e-12], "tokens_in": 197, "tokens_out": 789, "forced": false, "think_chars": 2654}
+{"task": "stsb", "idx": 404, "label": 2, "probs": [3.6591396579410684e-11, 1.0, 2.335593052293916e-09, 3.22926546614255e-11, 7.67038255827801e-12, 4.87526642320435e-12], "tokens_in": 156, "tokens_out": 625, "forced": false, "think_chars": 2477}
+{"task": "mrpc", "idx": 369, "label": 1, "probs": [2.2497804400695154e-12, 1.0], "tokens_in": 98, "tokens_out": 497, "forced": false, "think_chars": 2040}
+{"task": "stsb", "idx": 405, "label": 0, "probs": [3.331595416211641e-11, 1.0, 1.2501528701136522e-09, 1.8688805711319922e-11, 3.948148665638973e-12, 1.8217261466696444e-12], "tokens_in": 157, "tokens_out": 424, "forced": false, "think_chars": 1782}
+{"task": "rte", "idx": 101, "label": 1, "probs": [1.6305321893020364e-12, 1.0], "tokens_in": 93, "tokens_out": 258, "forced": false, "think_chars": 1106}
+{"task": "arc_easy", "idx": 481, "label": 0, "probs": [0.9999998807907104, 1.0423579360763213e-10, 1.6373769540223293e-07, 6.626182675467662e-12], "tokens_in": 101, "tokens_out": 765, "forced": false, "think_chars": 3127}
+{"task": "mrpc", "idx": 337, "label": 0, "probs": [1.3176891522359568e-10, 1.0], "tokens_in": 95, "tokens_out": 748, "forced": false, "think_chars": 2883}
+{"task": "stsb", "idx": 109, "label": 1, "probs": [4.0586756178129235e-10, 1.0, 1.2626097500856304e-08, 3.9338254875787015e-10, 8.245872040735236e-11, 2.940105797710757e-11], "tokens_in": 178, "tokens_out": 932, "forced": false, "think_chars": 3266}
+{"task": "mrpc", "idx": 377, "label": 1, "probs": [1.264740157221056e-12, 1.0], "tokens_in": 89, "tokens_out": 227, "forced": false, "think_chars": 961}
+{"task": "wic", "idx": 343, "label": 1, "probs": [1.0, 1.8294721293443672e-10], "tokens_in": 92, "tokens_out": 144, "forced": false, "think_chars": 597}
+{"task": "stsb", "idx": 311, "label": 2, "probs": [2.1177313375142504e-11, 1.0, 4.745044912546348e-10, 9.848740746554174e-12, 4.302620759677467e-12, 2.451433153694005e-12], "tokens_in": 160, "tokens_out": 329, "forced": false, "think_chars": 1358}
+{"task": "rte", "idx": 99, "label": 0, "probs": [1.0, 6.092816806635426e-10], "tokens_in": 87, "tokens_out": 303, "forced": false, "think_chars": 1416}
+{"task": "rte", "idx": 259, "label": 1, "probs": [1.0, 7.582618422041776e-10], "tokens_in": 97, "tokens_out": 421, "forced": false, "think_chars": 1591}
+{"task": "mrpc", "idx": 180, "label": 0, "probs": [1.0, 3.1119298804505036e-10], "tokens_in": 99, "tokens_out": 244, "forced": false, "think_chars": 950}
+{"task": "stsb", "idx": 370, "label": 2, "probs": [2.0868577621513396e-07, 0.9324524402618408, 0.06754662841558456, 6.427974881262344e-07, 1.823502060460669e-08, 1.8234882048773216e-08], "tokens_in": 159, "tokens_out": 1042, "forced": true, "think_chars": 4027}
+{"task": "mrpc", "idx": 360, "label": 1, "probs": [1.0, 2.5651518686942154e-09], "tokens_in": 111, "tokens_out": 1042, "forced": true, "think_chars": 3498}
+{"task": "stsb", "idx": 84, "label": 3, "probs": [6.45776367491635e-07, 0.00280090537853539, 0.9971913695335388, 6.942750133021036e-06, 3.878203003182534e-08, 3.2151437068250743e-08], "tokens_in": 160, "tokens_out": 1042, "forced": true, "think_chars": 3784}
+{"task": "mrpc", "idx": 193, "label": 1, "probs": [6.023630305662664e-08, 0.9999998807907104], "tokens_in": 88, "tokens_out": 472, "forced": false, "think_chars": 1906}
+{"task": "mrpc", "idx": 259, "label": 1, "probs": [5.160134819437445e-11, 1.0], "tokens_in": 99, "tokens_out": 866, "forced": false, "think_chars": 3237}
+{"task": "stsb", "idx": 433, "label": 3, "probs": [2.1699981221645626e-12, 8.677728757788827e-09, 9.237394849037628e-09, 2.1233763618511148e-06, 0.9999978542327881, 1.9781756788184168e-10], "tokens_in": 157, "tokens_out": 598, "forced": false, "think_chars": 2261}
+{"task": "mrpc", "idx": 54, "label": 0, "probs": [6.509471347365681e-12, 1.0], "tokens_in": 100, "tokens_out": 320, "forced": false, "think_chars": 1213}
+{"task": "wic", "idx": 130, "label": 0, "probs": [1.0, 4.457650915057343e-10], "tokens_in": 100, "tokens_out": 267, "forced": false, "think_chars": 1038}
+{"task": "mrpc", "idx": 366, "label": 1, "probs": [6.470907251872327e-13, 1.0], "tokens_in": 99, "tokens_out": 162, "forced": false, "think_chars": 615}
+{"task": "rte", "idx": 10, "label": 1, "probs": [1.0022030948186877e-12, 1.0], "tokens_in": 88, "tokens_out": 175, "forced": false, "think_chars": 768}
+{"task": "mrpc", "idx": 125, "label": 1, "probs": [3.331760561886554e-11, 1.0], "tokens_in": 92, "tokens_out": 491, "forced": false, "think_chars": 2108}
+{"task": "rte", "idx": 112, "label": 1, "probs": [7.789698790519606e-13, 1.0], "tokens_in": 95, "tokens_out": 218, "forced": false, "think_chars": 896}
+{"task": "mrpc", "idx": 28, "label": 0, "probs": [0.9999998807907104, 1.125349484709659e-07], "tokens_in": 100, "tokens_out": 1042, "forced": true, "think_chars": 3978}
+{"task": "mrpc", "idx": 231, "label": 0, "probs": [1.0, 6.224382120834093e-11], "tokens_in": 100, "tokens_out": 494, "forced": false, "think_chars": 1826}
+{"task": "wic", "idx": 188, "label": 0, "probs": [1.0, 1.069324628844015e-09], "tokens_in": 94, "tokens_out": 259, "forced": false, "think_chars": 1095}
+{"task": "rte", "idx": 92, "label": 1, "probs": [1.501722010632811e-11, 1.0], "tokens_in": 93, "tokens_out": 298, "forced": false, "think_chars": 1230}
+{"task": "rte", "idx": 223, "label": 0, "probs": [1.0, 1.257326187609209e-10], "tokens_in": 82, "tokens_out": 207, "forced": false, "think_chars": 956}
+{"task": "arc_easy", "idx": 56, "label": 2, "probs": [1.4022566744917309e-12, 9.146313151298102e-10, 1.0, 1.1628366325400208e-10], "tokens_in": 108, "tokens_out": 311, "forced": false, "think_chars": 1311}
+{"task": "imdb", "idx": 17, "label": 1, "probs": [1.0, 4.5991782604559717e-10], "tokens_in": 92, "tokens_out": 220, "forced": false, "think_chars": 914}
+{"task": "wic", "idx": 419, "label": 1, "probs": [7.960748488362868e-13, 1.0], "tokens_in": 94, "tokens_out": 189, "forced": false, "think_chars": 709}
+{"task": "hellaswag", "idx": 108, "label": 3, "probs": [6.215169980235136e-13, 3.4178060381861997e-10, 3.581754892678646e-10, 1.0], "tokens_in": 275, "tokens_out": 566, "forced": false, "think_chars": 2091}
+{"task": "mrpc", "idx": 339, "label": 0, "probs": [2.6465938329778282e-09, 1.0], "tokens_in": 98, "tokens_out": 809, "forced": false, "think_chars": 3012}
+{"task": "mrpc", "idx": 324, "label": 0, "probs": [1.2831973981650147e-12, 1.0], "tokens_in": 100, "tokens_out": 146, "forced": false, "think_chars": 516}
+{"task": "arc_easy", "idx": 231, "label": 3, "probs": [6.06802002850633e-14, 1.691939921499852e-10, 3.6954658777510474e-10, 1.0], "tokens_in": 96, "tokens_out": 227, "forced": false, "think_chars": 956}
+{"task": "stsb", "idx": 58, "label": 2, "probs": [3.058537458855426e-07, 0.999840259552002, 0.000158435563207604, 1.002854901344108e-06, 2.358601136620564e-08, 9.831868652554476e-09], "tokens_in": 158, "tokens_out": 1042, "forced": true, "think_chars": 3977}
+{"task": "hellaswag", "idx": 130, "label": 3, "probs": [1.016092158329096e-12, 1.0, 2.0408223722068186e-10, 1.478465440352128e-11], "tokens_in": 156, "tokens_out": 349, "forced": false, "think_chars": 1478}
+{"task": "rte", "idx": 189, "label": 0, "probs": [1.0, 1.4699744199653253e-10], "tokens_in": 94, "tokens_out": 201, "forced": false, "think_chars": 842}
+{"task": "mrpc", "idx": 92, "label": 0, "probs": [4.202958727578254e-12, 1.0], "tokens_in": 90, "tokens_out": 324, "forced": false, "think_chars": 1232}
+{"task": "mrpc", "idx": 212, "label": 0, "probs": [1.0, 1.1448172965167203e-10], "tokens_in": 111, "tokens_out": 277, "forced": false, "think_chars": 787}
+{"task": "mrpc", "idx": 310, "label": 0, "probs": [1.0, 1.1997695892329574e-10], "tokens_in": 94, "tokens_out": 230, "forced": false, "think_chars": 856}
+{"task": "stsb", "idx": 201, "label": 2, "probs": [9.736255135450733e-10, 0.9999998807907104, 9.329492201004541e-08, 1.0693245178217126e-09, 9.344081064455168e-11, 5.3238635722152594e-11], "tokens_in": 157, "tokens_out": 1042, "forced": true, "think_chars": 3778}
+{"task": "rte", "idx": 118, "label": 0, "probs": [1.0, 6.032716687309758e-11], "tokens_in": 86, "tokens_out": 165, "forced": false, "think_chars": 683}
+{"task": "rte", "idx": 246, "label": 0, "probs": [7.276804159239703e-11, 1.0], "tokens_in": 85, "tokens_out": 269, "forced": false, "think_chars": 1125}
+{"task": "stsb", "idx": 118, "label": 1, "probs": [6.485769143971254e-10, 1.0, 2.998960857425459e-09, 3.546606758275672e-11, 1.3461375243661866e-11, 5.6997418937387856e-12], "tokens_in": 152, "tokens_out": 392, "forced": false, "think_chars": 1604}
+{"task": "stsb", "idx": 277, "label": 1, "probs": [0.9813268780708313, 0.0006969089154154062, 0.017973517999053, 2.6755481030704686e-06, 7.999767070998587e-09, 5.16504750081026e-09], "tokens_in": 154, "tokens_out": 1042, "forced": true, "think_chars": 4011}
+{"task": "hellaswag", "idx": 64, "label": 3, "probs": [5.327459307036264e-11, 5.9641904748275465e-09, 7.734421103577915e-08, 0.9999998807907104], "tokens_in": 144, "tokens_out": 1042, "forced": true, "think_chars": 4121}
+{"task": "stsb", "idx": 256, "label": 4, "probs": [6.566596084667253e-07, 0.9525620341300964, 0.047425270080566406, 1.1639569493127055e-05, 1.8813685187524243e-07, 8.348522584356033e-08], "tokens_in": 147, "tokens_out": 1042, "forced": true, "think_chars": 4008}
+{"task": "arc_easy", "idx": 285, "label": 0, "probs": [1.0, 1.424769885405297e-10, 3.732281594892584e-09, 1.3762707336620328e-12], "tokens_in": 96, "tokens_out": 237, "forced": false, "think_chars": 1084}
+{"task": "wic", "idx": 67, "label": 1, "probs": [2.795263749199445e-13, 1.0], "tokens_in": 91, "tokens_out": 164, "forced": false, "think_chars": 637}
+{"task": "wic", "idx": 370, "label": 0, "probs": [1.0, 1.4931858527411634e-10], "tokens_in": 88, "tokens_out": 209, "forced": false, "think_chars": 841}
+{"task": "stsb", "idx": 493, "label": 4, "probs": [1.6434107492826339e-13, 3.1118885246428363e-10, 2.661744435972224e-10, 5.623410764821202e-11, 1.0, 8.916441196493707e-11], "tokens_in": 153, "tokens_out": 497, "forced": false, "think_chars": 1909}
+{"task": "hellaswag", "idx": 150, "label": 0, "probs": [1.0, 8.592231925952376e-10, 6.758262394157555e-09, 5.893261573186592e-11], "tokens_in": 147, "tokens_out": 341, "forced": false, "think_chars": 1408}
+{"task": "mrpc", "idx": 115, "label": 1, "probs": [1.3225373487329994e-12, 1.0], "tokens_in": 90, "tokens_out": 163, "forced": false, "think_chars": 642}
+{"task": "rte", "idx": 84, "label": 1, "probs": [4.875545280003113e-12, 1.0], "tokens_in": 96, "tokens_out": 187, "forced": false, "think_chars": 646}
+{"task": "rte", "idx": 199, "label": 1, "probs": [7.958972565204336e-13, 1.0], "tokens_in": 98, "tokens_out": 272, "forced": false, "think_chars": 931}
+{"task": "wic", "idx": 436, "label": 0, "probs": [1.0, 2.040888569254662e-10], "tokens_in": 90, "tokens_out": 285, "forced": false, "think_chars": 1121}
+{"task": "arc_easy", "idx": 247, "label": 2, "probs": [1.5016533155831624e-11, 5.602796449011294e-09, 1.0, 3.956337341071148e-11], "tokens_in": 85, "tokens_out": 373, "forced": false, "think_chars": 1911}
+{"task": "wic", "idx": 199, "label": 1, "probs": [1.8983727784194215e-11, 1.0], "tokens_in": 93, "tokens_out": 213, "forced": false, "think_chars": 887}
+{"task": "winogrande", "idx": 247, "label": 0, "probs": [1.8165527675834126e-12, 1.0], "tokens_in": 82, "tokens_out": 353, "forced": false, "think_chars": 1514}
+{"task": "stsb", "idx": 44, "label": 0, "probs": [1.0, 1.2116919689830752e-09, 6.153467957403791e-09, 5.836220829530392e-12, 9.233960167678856e-13, 7.136336335235305e-13], "tokens_in": 155, "tokens_out": 191, "forced": false, "think_chars": 776}
+{"task": "wic", "idx": 84, "label": 1, "probs": [2.5450729848261466e-13, 1.0], "tokens_in": 91, "tokens_out": 179, "forced": false, "think_chars": 628}
+{"task": "wic", "idx": 118, "label": 1, "probs": [1.0, 6.286235976205035e-10], "tokens_in": 91, "tokens_out": 946, "forced": false, "think_chars": 3315}
+{"task": "arc_easy", "idx": 17, "label": 3, "probs": [2.4730112163813545e-13, 2.461753301208347e-10, 2.4235505269309954e-10, 1.0], "tokens_in": 89, "tokens_out": 252, "forced": false, "think_chars": 982}
+{"task": "stsb", "idx": 116, "label": 4, "probs": [2.3557614525770987e-08, 2.2573271962755825e-06, 0.0013250188203528523, 0.9986727237701416, 2.8416557995569747e-08, 1.4597064668109283e-09], "tokens_in": 149, "tokens_out": 1042, "forced": true, "think_chars": 3692}
+{"task": "wic", "idx": 307, "label": 0, "probs": [1.0, 2.8780758332125345e-10], "tokens_in": 95, "tokens_out": 183, "forced": false, "think_chars": 643}
+{"task": "hellaswag", "idx": 199, "label": 1, "probs": [6.781698141423986e-13, 1.0, 2.8780208771728155e-10, 6.875791602745096e-12], "tokens_in": 129, "tokens_out": 271, "forced": false, "think_chars": 996}
+{"task": "arc_easy", "idx": 26, "label": 2, "probs": [1.3888102473602615e-11, 3.6174372386454934e-09, 1.0, 2.9693847380940497e-10], "tokens_in": 141, "tokens_out": 461, "forced": false, "think_chars": 2029}
+{"task": "hellaswag", "idx": 24, "label": 2, "probs": [3.279925289700891e-11, 6.758262394157555e-09, 1.0, 1.9362784708931713e-09], "tokens_in": 124, "tokens_out": 324, "forced": false, "think_chars": 1176}
+{"task": "stsb", "idx": 24, "label": 1, "probs": [1.1628410734321193e-10, 1.0, 7.349269526280011e-10, 1.6237674399510738e-11, 4.952200975683052e-12, 1.8360456384425294e-12], "tokens_in": 150, "tokens_out": 379, "forced": false, "think_chars": 1493}
+{"task": "wic", "idx": 405, "label": 0, "probs": [1.0, 4.2536013600269484e-10], "tokens_in": 90, "tokens_out": 686, "forced": false, "think_chars": 2766}
+{"task": "wic", "idx": 44, "label": 0, "probs": [2.975014982628532e-13, 1.0], "tokens_in": 90, "tokens_out": 212, "forced": false, "think_chars": 829}
+{"task": "wic", "idx": 150, "label": 1, "probs": [1.0, 3.3650168762555666e-10], "tokens_in": 89, "tokens_out": 234, "forced": false, "think_chars": 854}
+{"task": "arc_easy", "idx": 404, "label": 0, "probs": [1.0, 5.293571136988362e-10, 6.153479503723247e-09, 4.954100064208378e-12], "tokens_in": 96, "tokens_out": 277, "forced": false, "think_chars": 1241}
+{"task": "stsb", "idx": 153, "label": 2, "probs": [3.2874267544280578e-12, 1.069314525814491e-09, 1.9977384191349756e-09, 1.0, 5.848001943808967e-11, 1.869653303704366e-12], "tokens_in": 151, "tokens_out": 716, "forced": false, "think_chars": 2786}
+{"task": "wic", "idx": 196, "label": 1, "probs": [1.0, 8.865113643174993e-10], "tokens_in": 86, "tokens_out": 196, "forced": false, "think_chars": 801}
+{"task": "stsb", "idx": 452, "label": 2, "probs": [3.0863068332109833e-06, 0.9989632368087769, 0.001032226369716227, 1.3695430425286759e-06, 3.221058975100277e-08, 1.6196347374375364e-08], "tokens_in": 146, "tokens_out": 1042, "forced": true, "think_chars": 3959}
+{"task": "stsb", "idx": 134, "label": 1, "probs": [1.0, 9.73623737188234e-10, 8.152036379271976e-09, 5.031060203858351e-12, 1.546418050037135e-12, 9.602678895104244e-13], "tokens_in": 155, "tokens_out": 282, "forced": false, "think_chars": 1042}
+{"task": "hellaswag", "idx": 231, "label": 2, "probs": [1.2449286393434456e-11, 5.263340430161634e-09, 1.0, 2.1724648469056973e-10], "tokens_in": 137, "tokens_out": 321, "forced": false, "think_chars": 1378}
+{"task": "mrpc", "idx": 357, "label": 1, "probs": [2.2103290877283077e-13, 1.0], "tokens_in": 83, "tokens_out": 147, "forced": false, "think_chars": 608}
+{"task": "wic", "idx": 433, "label": 1, "probs": [3.3193695188338257e-13, 1.0], "tokens_in": 88, "tokens_out": 165, "forced": false, "think_chars": 630}
+{"task": "stsb", "idx": 231, "label": 0, "probs": [0.012430906295776367, 5.7566514442441985e-05, 0.9875091910362244, 2.376053771513398e-06, 1.0336655975606845e-08, 4.882699577990479e-09], "tokens_in": 153, "tokens_out": 1042, "forced": true, "think_chars": 3909}
+{"task": "rte", "idx": 105, "label": 1, "probs": [2.4862447656204267e-09, 1.0], "tokens_in": 79, "tokens_out": 354, "forced": false, "think_chars": 1518}
+{"task": "arc_easy", "idx": 108, "label": 3, "probs": [2.540357857340643e-14, 7.334198526276481e-11, 9.056267541440732e-11, 1.0], "tokens_in": 82, "tokens_out": 201, "forced": false, "think_chars": 757}
+{"task": "wic", "idx": 127, "label": 0, "probs": [3.8795960259456475e-13, 1.0], "tokens_in": 89, "tokens_out": 188, "forced": false, "think_chars": 651}
+{"task": "stsb", "idx": 415, "label": 4, "probs": [1.862082672299606e-13, 2.0408262579874048e-10, 1.7731073553850507e-10, 2.0208534498578068e-11, 1.0, 1.3730688808166747e-09], "tokens_in": 146, "tokens_out": 503, "forced": false, "think_chars": 1823}
+{"task": "arc_easy", "idx": 343, "label": 1, "probs": [4.828355597286116e-13, 1.0, 6.224191995141126e-11, 1.216497497354141e-12], "tokens_in": 80, "tokens_out": 106, "forced": false, "think_chars": 449}
+{"task": "arc_easy", "idx": 415, "label": 0, "probs": [1.0, 8.466491396852405e-11, 1.8476273844214575e-09, 1.072636337390298e-12], "tokens_in": 86, "tokens_out": 238, "forced": false, "think_chars": 1008}
+{"task": "stsb", "idx": 199, "label": 1, "probs": [2.137673982360866e-05, 0.0031725894659757614, 0.9967979788780212, 7.864062354201451e-06, 9.899432029669697e-08, 4.9777469257605844e-08], "tokens_in": 149, "tokens_out": 1042, "forced": true, "think_chars": 3643}
+{"task": "wic", "idx": 100, "label": 0, "probs": [1.0, 5.366161681674697e-11], "tokens_in": 91, "tokens_out": 137, "forced": false, "think_chars": 451}
+{"task": "wic", "idx": 317, "label": 1, "probs": [2.5054719583750273e-13, 1.0], "tokens_in": 85, "tokens_out": 218, "forced": false, "think_chars": 776}
+{"task": "wic", "idx": 393, "label": 1, "probs": [3.0692123647278746e-13, 1.0], "tokens_in": 83, "tokens_out": 209, "forced": false, "think_chars": 802}
+{"task": "arc_easy", "idx": 24, "label": 1, "probs": [5.778696206444611e-13, 1.0, 1.0102803316147657e-10, 1.665630849391475e-12], "tokens_in": 92, "tokens_out": 305, "forced": false, "think_chars": 1441}
+{"task": "mrpc", "idx": 177, "label": 0, "probs": [1.0, 2.7462945806355776e-10], "tokens_in": 88, "tokens_out": 173, "forced": false, "think_chars": 629}
+{"task": "winogrande", "idx": 343, "label": 0, "probs": [1.0, 2.5398638747731184e-10], "tokens_in": 76, "tokens_out": 164, "forced": false, "think_chars": 653}
+{"task": "arc_easy", "idx": 134, "label": 1, "probs": [9.82884346828472e-13, 1.0, 6.421744386253536e-11, 2.5421537704767294e-12], "tokens_in": 92, "tokens_out": 272, "forced": false, "think_chars": 1080}
+{"task": "wic", "idx": 27, "label": 1, "probs": [1.0, 2.061161463728922e-09], "tokens_in": 86, "tokens_out": 1042, "forced": true, "think_chars": 3842}
+{"task": "stsb", "idx": 17, "label": 3, "probs": [1.0573215831755078e-06, 0.009708317928016186, 0.9902758598327637, 1.459587201679824e-05, 7.195190221409575e-08, 2.8176717847827604e-08], "tokens_in": 140, "tokens_out": 1042, "forced": true, "think_chars": 3871}
+{"task": "mrpc", "idx": 203, "label": 0, "probs": [1.0, 9.0564576671337e-11], "tokens_in": 78, "tokens_out": 223, "forced": false, "think_chars": 875}
+{"task": "hellaswag", "idx": 459, "label": 2, "probs": [1.3252119887563474e-11, 6.348800152267131e-09, 1.0, 1.1997466908830745e-10], "tokens_in": 144, "tokens_out": 287, "forced": false, "think_chars": 1162}
+{"task": "wic", "idx": 295, "label": 1, "probs": [6.758404502704707e-09, 1.0], "tokens_in": 85, "tokens_out": 690, "forced": false, "think_chars": 2643}
+{"task": "wic", "idx": 311, "label": 0, "probs": [1.0, 3.812888893506283e-10], "tokens_in": 83, "tokens_out": 214, "forced": false, "think_chars": 839}
+{"task": "winogrande", "idx": 153, "label": 0, "probs": [1.0, 2.746247673712787e-10], "tokens_in": 79, "tokens_out": 272, "forced": false, "think_chars": 1026}
+{"task": "arc_easy", "idx": 317, "label": 1, "probs": [2.7512660118883536e-13, 1.0, 6.943574881734804e-11, 3.512286165033296e-12], "tokens_in": 91, "tokens_out": 193, "forced": false, "think_chars": 797}
+{"task": "mrpc", "idx": 65, "label": 1, "probs": [2.4374797319426378e-11, 1.0], "tokens_in": 83, "tokens_out": 1010, "forced": false, "think_chars": 3658}
+{"task": "wic", "idx": 285, "label": 0, "probs": [1.0, 8.246123228694557e-11], "tokens_in": 88, "tokens_out": 170, "forced": false, "think_chars": 578}
+{"task": "winogrande", "idx": 210, "label": 0, "probs": [1.0, 1.6463372332076176e-10], "tokens_in": 77, "tokens_out": 187, "forced": false, "think_chars": 733}
+{"task": "wic", "idx": 177, "label": 0, "probs": [1.0, 2.105693536202935e-10], "tokens_in": 88, "tokens_out": 161, "forced": false, "think_chars": 602}
+{"task": "stsb", "idx": 481, "label": 2, "probs": [4.320426516546405e-10, 6.083590733396704e-07, 0.9999994039535522, 1.0467395838986704e-08, 1.5894051352827177e-10, 7.052942951890628e-11], "tokens_in": 146, "tokens_out": 880, "forced": false, "think_chars": 3285}
+{"task": "arc_easy", "idx": 433, "label": 1, "probs": [2.8831535141098097e-13, 1.0, 5.160026225747849e-11, 2.256695481525628e-12], "tokens_in": 78, "tokens_out": 239, "forced": false, "think_chars": 885}
+{"task": "wic", "idx": 326, "label": 1, "probs": [2.554596941969911e-12, 1.0], "tokens_in": 84, "tokens_out": 262, "forced": false, "think_chars": 921}
+{"task": "winogrande", "idx": 134, "label": 1, "probs": [5.892176395232152e-13, 1.0], "tokens_in": 77, "tokens_out": 168, "forced": false, "think_chars": 612}
+{"task": "winogrande", "idx": 419, "label": 0, "probs": [0.9999983310699463, 1.6536896509933285e-06], "tokens_in": 80, "tokens_out": 1042, "forced": true, "think_chars": 4101}
+{"task": "rte", "idx": 151, "label": 1, "probs": [5.059851192548703e-13, 1.0], "tokens_in": 72, "tokens_out": 216, "forced": false, "think_chars": 900}
+{"task": "winogrande", "idx": 26, "label": 0, "probs": [1.0, 8.310688248691633e-11], "tokens_in": 79, "tokens_out": 90, "forced": false, "think_chars": 306}
+{"task": "arc_easy", "idx": 130, "label": 3, "probs": [9.167375924134732e-14, 1.0671644123938506e-10, 1.1009662626015881e-10, 1.0], "tokens_in": 96, "tokens_out": 220, "forced": false, "think_chars": 1003}
+{"task": "winogrande", "idx": 67, "label": 1, "probs": [5.020283234263845e-13, 1.0], "tokens_in": 75, "tokens_out": 214, "forced": false, "think_chars": 876}
+{"task": "winogrande", "idx": 333, "label": 0, "probs": [0.0001584442361490801, 0.999841570854187], "tokens_in": 70, "tokens_out": 1042, "forced": true, "think_chars": 4399}
+{"task": "openbookqa", "idx": 436, "label": 2, "probs": [2.086636419207366e-12, 1.5558403454463132e-09, 1.0, 2.3125723558337086e-10], "tokens_in": 83, "tokens_out": 217, "forced": false, "think_chars": 945}
+{"task": "wic", "idx": 247, "label": 0, "probs": [1.0, 1.4472149867383877e-10], "tokens_in": 83, "tokens_out": 152, "forced": false, "think_chars": 593}
+{"task": "wic", "idx": 404, "label": 0, "probs": [6.599578739399647e-13, 1.0], "tokens_in": 85, "tokens_out": 422, "forced": false, "think_chars": 1557}
+{"task": "wic", "idx": 366, "label": 0, "probs": [1.0, 2.349093142228753e-10], "tokens_in": 84, "tokens_out": 238, "forced": false, "think_chars": 893}
+{"task": "winogrande", "idx": 370, "label": 0, "probs": [1.0, 1.8874593554762953e-10], "tokens_in": 71, "tokens_out": 157, "forced": false, "think_chars": 656}
+{"task": "stsb", "idx": 274, "label": 1, "probs": [4.777892172569409e-06, 0.9984891414642334, 0.0015011669602245092, 4.777892172569409e-06, 1.1236794250635285e-07, 4.684184062853092e-08], "tokens_in": 144, "tokens_out": 1042, "forced": true, "think_chars": 3803}
+{"task": "openbookqa", "idx": 116, "label": 0, "probs": [1.0, 3.8728370510554555e-10, 2.409737520636668e-09, 3.9488568664980406e-12], "tokens_in": 90, "tokens_out": 192, "forced": false, "think_chars": 734}
+{"task": "winogrande", "idx": 27, "label": 1, "probs": [2.50532369372794e-13, 1.0], "tokens_in": 79, "tokens_out": 197, "forced": false, "think_chars": 712}
+{"task": "wic", "idx": 24, "label": 1, "probs": [1.8624840981539686e-13, 1.0], "tokens_in": 81, "tokens_out": 125, "forced": false, "think_chars": 416}
+{"task": "stsb", "idx": 56, "label": 1, "probs": [3.850745056155347e-09, 0.999998927116394, 1.0677028967620572e-06, 8.677822016522896e-09, 5.211734932508705e-10, 2.2414196887421411e-10], "tokens_in": 144, "tokens_out": 1042, "forced": true, "think_chars": 3741}
+{"task": "stsb", "idx": 62, "label": 4, "probs": [2.282751082344908e-13, 5.051102869302326e-10, 3.1609356798689703e-10, 1.0045624332377656e-09, 1.0, 4.346164400592656e-11], "tokens_in": 142, "tokens_out": 574, "forced": false, "think_chars": 1948}
+{"task": "arc_easy", "idx": 109, "label": 0, "probs": [1.0, 3.4315494890080345e-10, 3.4518290448204425e-09, 3.9857379549590455e-12], "tokens_in": 103, "tokens_out": 225, "forced": false, "think_chars": 918}
+{"task": "arc_easy", "idx": 452, "label": 2, "probs": [2.4229563667932386e-12, 1.2898370149727612e-09, 1.0, 1.1997627891169316e-10], "tokens_in": 101, "tokens_out": 196, "forced": false, "think_chars": 945}
+{"task": "winogrande", "idx": 277, "label": 0, "probs": [1.0, 2.8334226631621107e-10], "tokens_in": 72, "tokens_out": 238, "forced": false, "think_chars": 989}
+{"task": "arc_easy", "idx": 177, "label": 3, "probs": [2.535541289189376e-14, 3.6878174125565266e-11, 1.0423540502957351e-10, 1.0], "tokens_in": 79, "tokens_out": 156, "forced": false, "think_chars": 557}
+{"task": "wic", "idx": 417, "label": 0, "probs": [1.0, 1.447231501305879e-10], "tokens_in": 81, "tokens_out": 155, "forced": false, "think_chars": 557}
+{"task": "winogrande", "idx": 231, "label": 0, "probs": [1.0, 5.211492348777824e-10], "tokens_in": 76, "tokens_out": 194, "forced": false, "think_chars": 700}
+{"task": "arc_easy", "idx": 210, "label": 1, "probs": [7.477946755742038e-13, 1.0, 1.0754418883207606e-10, 2.8956318679634885e-12], "tokens_in": 73, "tokens_out": 175, "forced": false, "think_chars": 832}
+{"task": "wic", "idx": 231, "label": 1, "probs": [1.0, 1.9781309923416757e-10], "tokens_in": 80, "tokens_out": 467, "forced": false, "think_chars": 1764}
+{"task": "arc_easy", "idx": 188, "label": 3, "probs": [3.15035405531669e-14, 7.746309843570387e-11, 1.1997466908830745e-10, 1.0], "tokens_in": 82, "tokens_out": 230, "forced": false, "think_chars": 823}
+{"task": "arc_easy", "idx": 405, "label": 1, "probs": [5.302951545764489e-13, 1.0, 8.641385523810996e-11, 3.0815027179248444e-12], "tokens_in": 83, "tokens_out": 199, "forced": false, "think_chars": 823}
+{"task": "wic", "idx": 256, "label": 1, "probs": [1.617759067982713e-13, 1.0], "tokens_in": 82, "tokens_out": 236, "forced": false, "think_chars": 874}
+{"task": "wic", "idx": 415, "label": 0, "probs": [1.0, 1.3177217650373052e-10], "tokens_in": 83, "tokens_out": 142, "forced": false, "think_chars": 516}
+{"task": "stsb", "idx": 26, "label": 2, "probs": [2.101405556231839e-07, 0.0004878562758676708, 0.9995108842849731, 1.0671817562979413e-06, 4.6426182898073876e-09, 8.148049346345942e-09], "tokens_in": 140, "tokens_out": 1042, "forced": true, "think_chars": 3717}
+{"task": "rte", "idx": 214, "label": 0, "probs": [1.0, 1.3176816582305406e-10], "tokens_in": 75, "tokens_out": 202, "forced": false, "think_chars": 776}
+{"task": "openbookqa", "idx": 150, "label": 0, "probs": [1.0, 1.1858009019150018e-10, 2.952477595741243e-09, 2.1317277370397347e-12], "tokens_in": 89, "tokens_out": 236, "forced": false, "think_chars": 973}
+{"task": "wic", "idx": 58, "label": 0, "probs": [1.0, 1.162901025475449e-10], "tokens_in": 80, "tokens_out": 177, "forced": false, "think_chars": 692}
+{"task": "wic", "idx": 367, "label": 0, "probs": [0.9999985694885254, 1.4593721289202222e-06], "tokens_in": 82, "tokens_out": 1042, "forced": true, "think_chars": 3728}
+{"task": "wic", "idx": 420, "label": 0, "probs": [1.0, 8.916254540247692e-11], "tokens_in": 82, "tokens_out": 142, "forced": false, "think_chars": 485}
+{"task": "hellaswag", "idx": 405, "label": 3, "probs": [1.8190865480605112e-09, 1.892516593215987e-05, 9.931004996133197e-08, 0.9999809265136719], "tokens_in": 147, "tokens_out": 1042, "forced": true, "think_chars": 3932}
+{"task": "wic", "idx": 153, "label": 1, "probs": [2.839163637264469e-13, 1.0], "tokens_in": 84, "tokens_out": 194, "forced": false, "think_chars": 664}
+{"task": "stsb", "idx": 127, "label": 4, "probs": [9.400201292919519e-07, 0.0001791359536582604, 0.9976372718811035, 0.002182323718443513, 1.970432350617557e-07, 3.2166301622282845e-08], "tokens_in": 142, "tokens_out": 1042, "forced": true, "think_chars": 3912}
+{"task": "wic", "idx": 56, "label": 0, "probs": [1.0, 2.7463367691105134e-10], "tokens_in": 81, "tokens_out": 175, "forced": false, "think_chars": 691}
+{"task": "wic", "idx": 108, "label": 0, "probs": [1.0, 1.402707533459946e-10], "tokens_in": 81, "tokens_out": 136, "forced": false, "think_chars": 477}
+{"task": "winogrande", "idx": 417, "label": 1, "probs": [1.0122577689258838e-13, 1.0], "tokens_in": 73, "tokens_out": 220, "forced": false, "think_chars": 880}
+{"task": "winogrande", "idx": 452, "label": 0, "probs": [1.0, 1.2922322933928143e-10], "tokens_in": 70, "tokens_out": 182, "forced": false, "think_chars": 680}
+{"task": "stsb", "idx": 150, "label": 5, "probs": [1.8639624078161526e-13, 2.3859902942291455e-10, 1.2091817824799733e-10, 3.602897841181729e-11, 1.0, 3.499122172567759e-11], "tokens_in": 140, "tokens_out": 453, "forced": false, "think_chars": 1793}
+{"task": "wic", "idx": 431, "label": 0, "probs": [1.0, 2.969452739254308e-10], "tokens_in": 82, "tokens_out": 234, "forced": false, "think_chars": 847}
+{"task": "winogrande", "idx": 130, "label": 1, "probs": [4.4660778439169213e-13, 1.0], "tokens_in": 69, "tokens_out": 241, "forced": false, "think_chars": 1048}
+{"task": "stsb", "idx": 317, "label": 5, "probs": [2.64407051808746e-10, 9.767401110138962e-09, 8.178128751978875e-08, 2.5480322296544955e-09, 0.9933070540428162, 0.006692834198474884], "tokens_in": 141, "tokens_out": 1042, "forced": true, "think_chars": 4009}
+{"task": "stsb", "idx": 366, "label": 3, "probs": [4.3790598169834993e-07, 0.00022684091527480632, 0.9838699698448181, 0.015902776271104813, 2.980010549435974e-08, 1.0298660590990494e-08], "tokens_in": 141, "tokens_out": 1042, "forced": true, "think_chars": 3684}
+{"task": "winogrande", "idx": 84, "label": 0, "probs": [1.0, 2.2946369804266453e-10], "tokens_in": 72, "tokens_out": 227, "forced": false, "think_chars": 828}
+{"task": "winogrande", "idx": 317, "label": 1, "probs": [9.640181014569649e-11, 1.0], "tokens_in": 69, "tokens_out": 1042, "forced": true, "think_chars": 4710}
+{"task": "hellaswag", "idx": 277, "label": 0, "probs": [8.407007186760074e-13, 1.0, 4.3204126387585973e-10, 5.9277209876751336e-12], "tokens_in": 118, "tokens_out": 516, "forced": false, "think_chars": 1979}
+{"task": "winogrande", "idx": 109, "label": 0, "probs": [1.0, 3.1610020156946916e-10], "tokens_in": 74, "tokens_out": 170, "forced": false, "think_chars": 647}
+{"task": "stsb", "idx": 67, "label": 3, "probs": [4.677999143609668e-08, 1.2970681382284965e-05, 0.002800886519253254, 0.997186005115509, 8.740003210050418e-08, 1.6008085967911256e-09], "tokens_in": 140, "tokens_out": 1042, "forced": true, "think_chars": 3957}
+{"task": "stsb", "idx": 210, "label": 0, "probs": [0.014064216986298561, 1.1317442840663716e-05, 0.9859165549278259, 7.307061878236709e-06, 5.635176307805523e-07, 1.1731293270145216e-08], "tokens_in": 140, "tokens_out": 1042, "forced": true, "think_chars": 3731}
+{"task": "stsb", "idx": 247, "label": 0, "probs": [1.0, 1.004529903703144e-09, 7.658115031006218e-09, 1.695233883824976e-11, 1.6460027785214493e-12, 1.6207466141740512e-12], "tokens_in": 137, "tokens_out": 234, "forced": false, "think_chars": 900}
+{"task": "hellaswag", "idx": 134, "label": 3, "probs": [1.1450727172013231e-10, 2.565161860701437e-09, 6.758262394157555e-09, 1.0], "tokens_in": 104, "tokens_out": 1042, "forced": true, "think_chars": 4003}
+{"task": "winogrande", "idx": 481, "label": 1, "probs": [4.003442542754865e-13, 1.0], "tokens_in": 67, "tokens_out": 304, "forced": false, "think_chars": 1273}
+{"task": "arc_easy", "idx": 164, "label": 1, "probs": [1.2184691190048058e-12, 1.0, 2.312550151373216e-10, 4.219738707761378e-12], "tokens_in": 134, "tokens_out": 336, "forced": false, "think_chars": 1562}
+{"task": "winogrande", "idx": 100, "label": 1, "probs": [1.7491414675170625e-13, 1.0], "tokens_in": 74, "tokens_out": 140, "forced": false, "think_chars": 515}
+{"task": "winogrande", "idx": 404, "label": 0, "probs": [1.0565673336238035e-11, 1.0], "tokens_in": 73, "tokens_out": 1015, "forced": false, "think_chars": 3910}
+{"task": "hellaswag", "idx": 274, "label": 2, "probs": [7.433766276154774e-12, 4.099093509069007e-09, 1.0, 7.99206673063324e-11], "tokens_in": 117, "tokens_out": 355, "forced": false, "think_chars": 1321}
+{"task": "arc_easy", "idx": 311, "label": 2, "probs": [2.8998381387118632e-12, 9.146313151298102e-10, 1.0, 8.777601562259818e-11], "tokens_in": 127, "tokens_out": 175, "forced": false, "think_chars": 805}
+{"task": "openbookqa", "idx": 285, "label": 1, "probs": [1.240234721562941e-13, 1.0, 3.4373320162428556e-11, 4.307530894476219e-12], "tokens_in": 74, "tokens_out": 250, "forced": false, "think_chars": 1086}
+{"task": "wic", "idx": 277, "label": 0, "probs": [1.0, 1.2771797508470684e-10], "tokens_in": 86, "tokens_out": 176, "forced": false, "think_chars": 623}
+{"task": "winogrande", "idx": 24, "label": 0, "probs": [1.0, 1.8189929562595353e-09], "tokens_in": 69, "tokens_out": 383, "forced": false, "think_chars": 1645}
+{"task": "stsb", "idx": 177, "label": 0, "probs": [1.0, 6.691611709186418e-10, 8.67778116031559e-09, 9.678036150262415e-12, 1.5829695410377043e-12, 1.1314569073328506e-12], "tokens_in": 139, "tokens_out": 295, "forced": false, "think_chars": 1119}
+{"task": "arc_easy", "idx": 295, "label": 3, "probs": [2.8032953562628915e-12, 3.6954941884381753e-10, 2.461711112733411e-10, 1.0], "tokens_in": 80, "tokens_out": 383, "forced": false, "think_chars": 1677}
+{"task": "wic", "idx": 64, "label": 1, "probs": [8.897715030042885e-12, 1.0], "tokens_in": 79, "tokens_out": 570, "forced": false, "think_chars": 2062}
+{"task": "winogrande", "idx": 118, "label": 0, "probs": [1.0, 6.032935262467731e-11], "tokens_in": 73, "tokens_out": 170, "forced": false, "think_chars": 626}
+{"task": "winogrande", "idx": 433, "label": 0, "probs": [1.7640549394501437e-12, 1.0], "tokens_in": 67, "tokens_out": 292, "forced": false, "think_chars": 1274}
+{"task": "openbookqa", "idx": 177, "label": 3, "probs": [1.571441138022503e-13, 5.450323872779883e-11, 5.6672343901054134e-11, 1.0], "tokens_in": 74, "tokens_out": 134, "forced": false, "think_chars": 537}
+{"task": "winogrande", "idx": 108, "label": 0, "probs": [1.0, 2.4811366849952776e-10], "tokens_in": 72, "tokens_out": 234, "forced": false, "think_chars": 874}
+{"task": "stsb", "idx": 492, "label": 1, "probs": [1.0, 1.8189650896616172e-09, 2.6729447100137804e-08, 2.2194945534237398e-11, 2.197571985496083e-12, 2.0325535959181407e-12], "tokens_in": 142, "tokens_out": 428, "forced": false, "think_chars": 1590}
+{"task": "wic", "idx": 17, "label": 0, "probs": [1.0, 2.4617721749997656e-10], "tokens_in": 81, "tokens_out": 170, "forced": false, "think_chars": 662}
+{"task": "winogrande", "idx": 98, "label": 0, "probs": [1.0, 1.801060689476941e-10], "tokens_in": 72, "tokens_out": 131, "forced": false, "think_chars": 479}
+{"task": "winogrande", "idx": 150, "label": 1, "probs": [8.914935304728255e-13, 1.0], "tokens_in": 69, "tokens_out": 125, "forced": false, "think_chars": 472}
+{"task": "winogrande", "idx": 285, "label": 1, "probs": [6.412072650618938e-08, 0.9999998807907104], "tokens_in": 70, "tokens_out": 1042, "forced": true, "think_chars": 3935}
+{"task": "winogrande", "idx": 436, "label": 0, "probs": [1.0, 2.9694072201102983e-10], "tokens_in": 72, "tokens_out": 242, "forced": false, "think_chars": 947}
+{"task": "stsb", "idx": 333, "label": 3, "probs": [7.676017807489721e-12, 1.250157644072658e-09, 3.192383468686444e-09, 1.0, 2.1185837806303454e-11, 8.347965873255203e-13], "tokens_in": 139, "tokens_out": 714, "forced": false, "think_chars": 2766}
+{"task": "stsb", "idx": 417, "label": 5, "probs": [9.468288783218148e-14, 3.6954589388571435e-10, 2.9233598874967015e-10, 4.47561345623404e-12, 1.1456472576165666e-10, 1.0], "tokens_in": 138, "tokens_out": 368, "forced": false, "think_chars": 1302}
+{"task": "wic", "idx": 201, "label": 0, "probs": [3.76133830028505e-13, 1.0], "tokens_in": 79, "tokens_out": 251, "forced": false, "think_chars": 980}
+{"task": "wic", "idx": 493, "label": 1, "probs": [0.9999921321868896, 7.889232620073017e-06], "tokens_in": 80, "tokens_out": 1042, "forced": true, "think_chars": 3844}
+{"task": "winogrande", "idx": 116, "label": 0, "probs": [1.0, 1.0587990900701172e-10], "tokens_in": 68, "tokens_out": 140, "forced": false, "think_chars": 538}
+{"task": "winogrande", "idx": 420, "label": 1, "probs": [3.6441821240316974e-13, 1.0], "tokens_in": 70, "tokens_out": 158, "forced": false, "think_chars": 613}
+{"task": "wic", "idx": 109, "label": 1, "probs": [1.0, 3.9338857171777875e-10], "tokens_in": 79, "tokens_out": 145, "forced": false, "think_chars": 605}
+{"task": "wic", "idx": 452, "label": 1, "probs": [3.3378777172798912e-12, 1.0], "tokens_in": 81, "tokens_out": 539, "forced": false, "think_chars": 1935}
+{"task": "wic", "idx": 492, "label": 1, "probs": [1.0, 7.508525051713733e-11], "tokens_in": 81, "tokens_out": 239, "forced": false, "think_chars": 901}
+{"task": "winogrande", "idx": 127, "label": 1, "probs": [2.353749248458492e-13, 1.0], "tokens_in": 74, "tokens_out": 221, "forced": false, "think_chars": 790}
+{"task": "winogrande", "idx": 366, "label": 0, "probs": [1.0, 2.3125987236305434e-10], "tokens_in": 70, "tokens_out": 150, "forced": false, "think_chars": 543}
+{"task": "stsb", "idx": 420, "label": 3, "probs": [7.19437576179871e-09, 3.0590183541789884e-07, 2.1233777260931674e-06, 0.9999974966049194, 2.2164043045336257e-08, 6.093394122608231e-10], "tokens_in": 138, "tokens_out": 1042, "forced": true, "think_chars": 3953}
+{"task": "hellaswag", "idx": 210, "label": 3, "probs": [1.3248644260659137e-13, 5.2008446160822785e-11, 8.245730487299596e-11, 1.0], "tokens_in": 112, "tokens_out": 203, "forced": false, "think_chars": 759}
+{"task": "wic", "idx": 459, "label": 0, "probs": [1.0, 2.3126119075289608e-10], "tokens_in": 78, "tokens_out": 187, "forced": false, "think_chars": 724}
+{"task": "winogrande", "idx": 295, "label": 1, "probs": [1.427240704093835e-12, 1.0], "tokens_in": 69, "tokens_out": 248, "forced": false, "think_chars": 950}
+{"task": "winogrande", "idx": 393, "label": 1, "probs": [5.051112861309548e-10, 1.0], "tokens_in": 68, "tokens_out": 1042, "forced": true, "think_chars": 4419}
+{"task": "winogrande", "idx": 493, "label": 0, "probs": [1.0, 5.263390168153137e-09], "tokens_in": 69, "tokens_out": 244, "forced": false, "think_chars": 900}
+{"task": "stsb", "idx": 393, "label": 4, "probs": [2.7103428008878883e-13, 6.587867473761833e-10, 2.1387919213466944e-10, 7.392157719277037e-11, 1.0, 1.9475818180403337e-10], "tokens_in": 135, "tokens_out": 382, "forced": false, "think_chars": 1466}
+{"task": "wic", "idx": 62, "label": 1, "probs": [2.6670609080611807e-13, 1.0], "tokens_in": 80, "tokens_out": 179, "forced": false, "think_chars": 618}
+{"task": "wic", "idx": 210, "label": 1, "probs": [1.2211720079157579e-13, 1.0], "tokens_in": 83, "tokens_out": 207, "forced": false, "think_chars": 650}
+{"task": "winogrande", "idx": 64, "label": 0, "probs": [1.0, 9.146348123323378e-10], "tokens_in": 71, "tokens_out": 494, "forced": false, "think_chars": 1833}
+{"task": "winogrande", "idx": 274, "label": 0, "probs": [1.0, 2.5798754799133405e-10], "tokens_in": 67, "tokens_out": 195, "forced": false, "think_chars": 794}
+{"task": "stsb", "idx": 108, "label": 5, "probs": [1.9710262068317608e-12, 4.2534153976703237e-10, 3.850691321360955e-09, 6.944635144723321e-11, 0.9999810457229614, 1.8925184122053906e-05], "tokens_in": 139, "tokens_out": 888, "forced": false, "think_chars": 3039}
+{"task": "stsb", "idx": 431, "label": 0, "probs": [1.0, 8.864928235929881e-10, 6.972793009651923e-09, 1.0082682085077455e-11, 1.724910470533858e-12, 1.3970855722300612e-12], "tokens_in": 136, "tokens_out": 231, "forced": false, "think_chars": 874}
+{"task": "openbookqa", "idx": 274, "label": 3, "probs": [4.8980032540685975e-14, 1.1183616532850493e-10, 6.27328397562188e-11, 1.0], "tokens_in": 80, "tokens_out": 199, "forced": false, "think_chars": 794}
+{"task": "openbookqa", "idx": 404, "label": 2, "probs": [3.2477388833829224e-12, 2.7305848693259804e-09, 1.0, 2.3859902942291455e-10], "tokens_in": 73, "tokens_out": 242, "forced": false, "think_chars": 1059}
+{"task": "winogrande", "idx": 196, "label": 1, "probs": [1.9206823089444602e-13, 1.0], "tokens_in": 72, "tokens_out": 201, "forced": false, "think_chars": 745}
+{"task": "winogrande", "idx": 256, "label": 0, "probs": [1.0, 9.290453961696699e-10], "tokens_in": 69, "tokens_out": 248, "forced": false, "think_chars": 962}
+{"task": "winogrande", "idx": 326, "label": 0, "probs": [1.0, 2.0408730261323171e-10], "tokens_in": 65, "tokens_out": 142, "forced": false, "think_chars": 535}
+{"task": "winogrande", "idx": 492, "label": 1, "probs": [1.6460875631313376e-12, 1.0], "tokens_in": 68, "tokens_out": 230, "forced": false, "think_chars": 903}
+{"task": "hellaswag", "idx": 311, "label": 2, "probs": [4.268999216627822e-12, 1.876701904990341e-09, 1.0, 1.1628410734321193e-10], "tokens_in": 125, "tokens_out": 228, "forced": false, "think_chars": 914}
+{"task": "wic", "idx": 26, "label": 0, "probs": [1.0, 4.1876072054414237e-10], "tokens_in": 78, "tokens_out": 180, "forced": false, "think_chars": 646}
+{"task": "winogrande", "idx": 201, "label": 0, "probs": [1.0, 4.3205281019531583e-10], "tokens_in": 70, "tokens_out": 199, "forced": false, "think_chars": 773}
+{"task": "arc_easy", "idx": 44, "label": 1, "probs": [5.689323252962286e-13, 1.0, 1.0587686977148181e-10, 5.74585908366676e-12], "tokens_in": 70, "tokens_out": 215, "forced": false, "think_chars": 958}
+{"task": "arc_easy", "idx": 58, "label": 0, "probs": [1.0, 2.767902851363857e-10, 4.3634953428295375e-09, 3.5144305000900378e-12], "tokens_in": 85, "tokens_out": 247, "forced": false, "think_chars": 951}
+{"task": "openbookqa", "idx": 153, "label": 2, "probs": [8.308397372869258e-13, 8.071593948777434e-10, 1.0, 2.703660628711191e-10], "tokens_in": 74, "tokens_out": 203, "forced": false, "think_chars": 789}
+{"task": "openbookqa", "idx": 199, "label": 3, "probs": [4.443423371760201e-14, 1.2573525554060438e-10, 1.4471762677104039e-10, 1.0], "tokens_in": 71, "tokens_out": 166, "forced": false, "think_chars": 621}
+{"task": "openbookqa", "idx": 256, "label": 0, "probs": [1.0, 4.97281216205181e-10, 6.153467957403791e-09, 4.65329857979313e-12], "tokens_in": 72, "tokens_out": 216, "forced": false, "think_chars": 817}
+{"task": "winogrande", "idx": 311, "label": 0, "probs": [1.0, 1.6144972858622708e-10], "tokens_in": 66, "tokens_out": 328, "forced": false, "think_chars": 1318}
+{"task": "stsb", "idx": 98, "label": 5, "probs": [2.885326526314014e-13, 2.2767236707021965e-10, 2.276727972816417e-10, 2.2900755944355033e-11, 1.0, 1.5896335636700343e-10], "tokens_in": 139, "tokens_out": 557, "forced": false, "think_chars": 2168}
+{"task": "wic", "idx": 134, "label": 0, "probs": [1.0, 1.2574245811247664e-10], "tokens_in": 77, "tokens_out": 228, "forced": false, "think_chars": 850}
+{"task": "winogrande", "idx": 405, "label": 0, "probs": [1.0, 7.823465209000346e-10], "tokens_in": 66, "tokens_out": 214, "forced": false, "think_chars": 895}
+{"task": "hellaswag", "idx": 56, "label": 2, "probs": [3.1790185067714916e-11, 2.8453348122070565e-08, 1.0, 1.8010365421261554e-10], "tokens_in": 117, "tokens_out": 381, "forced": false, "think_chars": 1428}
+{"task": "arc_easy", "idx": 307, "label": 0, "probs": [1.0, 2.0892429453134298e-10, 3.0941640360993006e-09, 2.4521766995438954e-12], "tokens_in": 80, "tokens_out": 228, "forced": false, "think_chars": 940}
+{"task": "openbookqa", "idx": 333, "label": 2, "probs": [1.1513641602622915e-11, 7.194133289090132e-09, 1.0, 6.691611709186418e-10], "tokens_in": 73, "tokens_out": 239, "forced": false, "think_chars": 863}
+{"task": "wic", "idx": 274, "label": 1, "probs": [1.8333746250754485e-13, 1.0], "tokens_in": 80, "tokens_out": 164, "forced": false, "think_chars": 566}
+{"task": "winogrande", "idx": 44, "label": 1, "probs": [3.216120403846945e-13, 1.0], "tokens_in": 68, "tokens_out": 267, "forced": false, "think_chars": 1035}
+{"task": "winogrande", "idx": 56, "label": 0, "probs": [1.0, 7.946651670032168e-10], "tokens_in": 70, "tokens_out": 193, "forced": false, "think_chars": 720}
+{"task": "winogrande", "idx": 164, "label": 1, "probs": [7.318837376424359e-12, 1.0], "tokens_in": 67, "tokens_out": 683, "forced": false, "think_chars": 2817}
+{"task": "arc_easy", "idx": 127, "label": 0, "probs": [1.0, 1.3384934827165296e-10, 2.160086776115122e-09, 4.802374643786411e-12], "tokens_in": 78, "tokens_out": 190, "forced": false, "think_chars": 830}
+{"task": "wic", "idx": 333, "label": 1, "probs": [4.3285142722719605e-13, 1.0], "tokens_in": 79, "tokens_out": 190, "forced": false, "think_chars": 614}
+{"task": "winogrande", "idx": 17, "label": 0, "probs": [1.0, 2.1056370536065572e-10], "tokens_in": 65, "tokens_out": 218, "forced": false, "think_chars": 867}
+{"task": "winogrande", "idx": 62, "label": 1, "probs": [2.245483801070064e-13, 1.0], "tokens_in": 68, "tokens_out": 209, "forced": false, "think_chars": 783}
+{"task": "winogrande", "idx": 307, "label": 0, "probs": [1.0, 9.528432903804784e-11], "tokens_in": 69, "tokens_out": 227, "forced": false, "think_chars": 827}
+{"task": "winogrande", "idx": 415, "label": 0, "probs": [2.7942936593056134e-13, 1.0], "tokens_in": 65, "tokens_out": 452, "forced": false, "think_chars": 1936}
+{"task": "wic", "idx": 481, "label": 1, "probs": [8.071809332044211e-10, 1.0], "tokens_in": 80, "tokens_out": 377, "forced": false, "think_chars": 1337}
+{"task": "winogrande", "idx": 188, "label": 0, "probs": [1.0, 5.211492348777824e-10], "tokens_in": 69, "tokens_out": 127, "forced": false, "think_chars": 455}
+{"task": "winogrande", "idx": 367, "label": 1, "probs": [7.218680948134493e-13, 1.0], "tokens_in": 66, "tokens_out": 164, "forced": false, "think_chars": 673}
+{"task": "winogrande", "idx": 459, "label": 0, "probs": [1.0, 2.2414818612315202e-10], "tokens_in": 68, "tokens_out": 198, "forced": false, "think_chars": 707}
+{"task": "stsb", "idx": 307, "label": 1, "probs": [1.605230948165115e-09, 9.931193289958173e-08, 0.9999998807907104, 1.9362782488485664e-09, 7.27681734313812e-11, 6.032681992840239e-11], "tokens_in": 136, "tokens_out": 842, "forced": false, "think_chars": 2874}
+{"task": "winogrande", "idx": 199, "label": 1, "probs": [7.56596391440767e-13, 1.0], "tokens_in": 66, "tokens_out": 197, "forced": false, "think_chars": 774}
+{"task": "winogrande", "idx": 58, "label": 1, "probs": [5.396705651805611e-12, 1.0], "tokens_in": 68, "tokens_out": 957, "forced": false, "think_chars": 3588}
+{"task": "winogrande", "idx": 431, "label": 1, "probs": [9.833232894607136e-09, 1.0], "tokens_in": 69, "tokens_out": 1042, "forced": true, "think_chars": 3858}
+{"task": "arc_easy", "idx": 492, "label": 3, "probs": [9.105650939202417e-14, 1.257347698180311e-10, 1.7456244782998454e-10, 1.0], "tokens_in": 74, "tokens_out": 283, "forced": false, "think_chars": 1205}
+{"task": "wic", "idx": 116, "label": 0, "probs": [0.9999998807907104, 7.265884960361291e-08], "tokens_in": 77, "tokens_out": 587, "forced": false, "think_chars": 2042}
+{"task": "hellaswag", "idx": 285, "label": 0, "probs": [1.0, 1.858243142693894e-10, 1.87670545770402e-09, 7.262657489293112e-12], "tokens_in": 104, "tokens_out": 315, "forced": false, "think_chars": 1271}
+{"task": "stsb", "idx": 459, "label": 4, "probs": [2.0742401574125324e-08, 2.2299693114291586e-07, 8.285340982183698e-07, 0.003593576606363058, 0.9964053630828857, 4.125197250459678e-08], "tokens_in": 133, "tokens_out": 1042, "forced": true, "think_chars": 3973}
+{"task": "hellaswag", "idx": 317, "label": 2, "probs": [0.9999974966049194, 6.3487841650555765e-09, 2.561282371971174e-06, 1.4026371730757603e-10], "tokens_in": 121, "tokens_out": 1042, "forced": true, "think_chars": 4383}
+{"task": "openbookqa", "idx": 326, "label": 2, "probs": [4.875387420166799e-12, 1.7087563586315468e-09, 1.0, 8.24582485625669e-11], "tokens_in": 76, "tokens_out": 189, "forced": false, "think_chars": 692}
+{"task": "wic", "idx": 98, "label": 1, "probs": [6.020575531173744e-12, 1.0], "tokens_in": 76, "tokens_out": 607, "forced": false, "think_chars": 2445}
+{"task": "stsb", "idx": 295, "label": 5, "probs": [1.0885432095639191e-12, 2.4862254477397983e-09, 2.565146761668302e-09, 1.2898810908268388e-09, 0.9999998807907104, 1.5382320839307795e-07], "tokens_in": 133, "tokens_out": 550, "forced": false, "think_chars": 2154}
+{"task": "arc_easy", "idx": 333, "label": 2, "probs": [1.3667533901515205e-13, 3.0636779224657573e-10, 2.579851055006799e-10, 1.0], "tokens_in": 71, "tokens_out": 389, "forced": false, "think_chars": 1639}
+{"task": "openbookqa", "idx": 134, "label": 2, "probs": [1.3888659319838403e-11, 5.263340430161634e-09, 1.0, 8.375790339076872e-11], "tokens_in": 77, "tokens_out": 217, "forced": false, "think_chars": 865}
+{"task": "arc_easy", "idx": 153, "label": 3, "probs": [3.826950421056269e-14, 1.0924360721586979e-10, 9.71606753386034e-11, 1.0], "tokens_in": 73, "tokens_out": 138, "forced": false, "think_chars": 628}
+{"task": "arc_easy", "idx": 256, "label": 1, "probs": [6.651010579956929e-13, 1.0, 1.257318971159549e-10, 3.3125340578171736e-12], "tokens_in": 71, "tokens_out": 159, "forced": false, "think_chars": 652}
+{"task": "arc_easy", "idx": 84, "label": 3, "probs": [4.333336193671454e-14, 2.2067646321399792e-10, 1.801050281136085e-10, 1.0], "tokens_in": 97, "tokens_out": 195, "forced": false, "think_chars": 740}
+{"task": "openbookqa", "idx": 109, "label": 1, "probs": [4.302628999613978e-12, 1.0, 5.211412412720051e-10, 1.4556272853738506e-11], "tokens_in": 77, "tokens_out": 576, "forced": false, "think_chars": 1744}
+{"task": "openbookqa", "idx": 433, "label": 1, "probs": [1.0457144048250933e-12, 1.0, 1.745607963732354e-10, 4.837713996758142e-12], "tokens_in": 76, "tokens_out": 190, "forced": false, "think_chars": 730}
+{"task": "openbookqa", "idx": 17, "label": 3, "probs": [6.304248572827631e-13, 8.864962097732132e-10, 6.691598941621635e-10, 1.0], "tokens_in": 84, "tokens_out": 415, "forced": false, "think_chars": 1515}
+{"task": "winogrande", "idx": 177, "label": 0, "probs": [1.0, 1.1719837600399075e-10], "tokens_in": 66, "tokens_out": 219, "forced": false, "think_chars": 842}
+{"task": "arc_easy", "idx": 274, "label": 3, "probs": [7.097252473220461e-14, 1.6398749025370307e-10, 2.0408379153291634e-10, 1.0], "tokens_in": 76, "tokens_out": 204, "forced": false, "think_chars": 884}
+{"task": "arc_easy", "idx": 493, "label": 0, "probs": [1.839906178802142e-11, 1.0, 4.0586597971348226e-10, 1.7017194944846104e-11], "tokens_in": 70, "tokens_out": 447, "forced": false, "think_chars": 1843}
+{"task": "stsb", "idx": 130, "label": 0, "probs": [1.0, 3.933832981584118e-10, 5.2633502001242505e-09, 2.5303596024039976e-12, 8.607572662445995e-13, 5.222430018818336e-13], "tokens_in": 134, "tokens_out": 243, "forced": false, "think_chars": 865}
+{"task": "arc_easy", "idx": 459, "label": 2, "probs": [1.5493268126776094e-11, 2.565146983712907e-09, 1.0, 2.789483921628033e-10], "tokens_in": 138, "tokens_out": 384, "forced": false, "think_chars": 1867}
+{"task": "wic", "idx": 164, "label": 1, "probs": [3.0932784003505354e-13, 1.0], "tokens_in": 75, "tokens_out": 134, "forced": false, "think_chars": 452}
+{"task": "arc_easy", "idx": 67, "label": 1, "probs": [6.755400275629264e-13, 1.0, 5.579308542946748e-11, 1.9934381836200776e-12], "tokens_in": 93, "tokens_out": 191, "forced": false, "think_chars": 656}
+{"task": "arc_easy", "idx": 326, "label": 3, "probs": [2.4642758333589566e-14, 3.069279899681199e-11, 5.492934926354387e-11, 1.0], "tokens_in": 67, "tokens_out": 131, "forced": false, "think_chars": 587}
+{"task": "arc_easy", "idx": 419, "label": 3, "probs": [2.0954964922558633e-14, 6.322208728759549e-11, 7.276776403664087e-11, 1.0], "tokens_in": 66, "tokens_out": 236, "forced": false, "think_chars": 809}
+{"task": "openbookqa", "idx": 62, "label": 3, "probs": [6.108850404695776e-14, 1.1998108062627466e-10, 1.1448194475738305e-10, 1.0], "tokens_in": 93, "tokens_out": 341, "forced": false, "think_chars": 1192}
+{"task": "hellaswag", "idx": 307, "label": 0, "probs": [1.0, 1.7630148452241201e-09, 2.4862307768103165e-09, 2.1308252471513578e-12], "tokens_in": 105, "tokens_out": 301, "forced": false, "think_chars": 1136}
+{"task": "arc_easy", "idx": 370, "label": 1, "probs": [5.364795521885235e-13, 1.0, 9.343584239651648e-11, 4.5449065518010645e-12], "tokens_in": 72, "tokens_out": 148, "forced": false, "think_chars": 531}
+{"task": "arc_easy", "idx": 277, "label": 0, "probs": [1.0, 1.1788978127036387e-10, 9.889787877526146e-10, 4.1733227117146665e-12], "tokens_in": 67, "tokens_out": 113, "forced": false, "think_chars": 469}
+{"task": "openbookqa", "idx": 420, "label": 3, "probs": [2.702794043261958e-14, 3.5467084130713644e-11, 7.80694536794968e-11, 1.0], "tokens_in": 79, "tokens_out": 199, "forced": false, "think_chars": 825}
+{"task": "openbookqa", "idx": 493, "label": 1, "probs": [4.753163466118815e-13, 1.0, 4.1461979682910766e-11, 2.5796565404634375e-12], "tokens_in": 88, "tokens_out": 162, "forced": false, "think_chars": 751}
+{"task": "arc_easy", "idx": 199, "label": 0, "probs": [1.0, 4.895753247247114e-10, 4.792334973302559e-09, 5.356107918297326e-12], "tokens_in": 72, "tokens_out": 284, "forced": false, "think_chars": 1122}
+{"task": "arc_easy", "idx": 201, "label": 1, "probs": [1.0, 7.349522102018113e-10, 6.153491494131913e-09, 5.19295153753041e-12], "tokens_in": 65, "tokens_out": 762, "forced": false, "think_chars": 3145}
+{"task": "openbookqa", "idx": 58, "label": 1, "probs": [1.5429701244983052e-13, 1.0, 3.129702400017642e-11, 8.276621575598053e-13], "tokens_in": 70, "tokens_out": 193, "forced": false, "think_chars": 912}
+{"task": "hellaswag", "idx": 415, "label": 2, "probs": [3.7266418075887486e-06, 3.059010680317442e-07, 0.9999959468841553, 6.412034991853943e-08], "tokens_in": 112, "tokens_out": 1042, "forced": true, "think_chars": 4122}
+{"task": "arc_easy", "idx": 62, "label": 3, "probs": [5.713930440994289e-14, 5.6233892542500996e-11, 9.490849772753052e-11, 1.0], "tokens_in": 69, "tokens_out": 107, "forced": false, "think_chars": 408}
+{"task": "arc_easy", "idx": 366, "label": 3, "probs": [3.384705710152147e-11, 1.4307269147195711e-08, 3.192377251437506e-09, 1.0], "tokens_in": 95, "tokens_out": 798, "forced": false, "think_chars": 3081}
+{"task": "copa", "idx": 57, "label": 1, "probs": [9.380287345484017e-13, 1.0], "tokens_in": 69, "tokens_out": 146, "forced": false, "think_chars": 618}
+{"task": "hellaswag", "idx": 417, "label": 2, "probs": [6.0201735090081865e-12, 2.1940866901104528e-09, 1.0, 9.946306278596495e-11], "tokens_in": 112, "tokens_out": 182, "forced": false, "think_chars": 689}
+{"task": "openbookqa", "idx": 67, "label": 0, "probs": [1.0, 9.868979244931353e-11, 9.736256245673758e-10, 2.8224811810667605e-12], "tokens_in": 70, "tokens_out": 120, "forced": false, "think_chars": 471}
+{"task": "openbookqa", "idx": 452, "label": 2, "probs": [5.567771504261243e-12, 1.2501528701136522e-09, 1.0, 1.9780556359538792e-10], "tokens_in": 77, "tokens_out": 259, "forced": false, "think_chars": 1029}
+{"task": "openbookqa", "idx": 118, "label": 1, "probs": [2.0769310208300362e-13, 1.0, 3.5464509801075295e-11, 1.7020043143953223e-12], "tokens_in": 66, "tokens_out": 306, "forced": false, "think_chars": 952}
+{"task": "openbookqa", "idx": 459, "label": 2, "probs": [5.149337119897401e-12, 1.8189616479702408e-09, 1.0, 7.746235597405615e-11], "tokens_in": 81, "tokens_out": 163, "forced": false, "think_chars": 659}
+{"task": "arc_easy", "idx": 420, "label": 0, "probs": [1.0, 2.3860449727131083e-10, 1.7630148452241201e-09, 1.3337620938247419e-12], "tokens_in": 63, "tokens_out": 96, "forced": false, "think_chars": 407}
+{"task": "copa", "idx": 93, "label": 1, "probs": [2.3539107945821924e-13, 1.0], "tokens_in": 70, "tokens_out": 188, "forced": false, "think_chars": 845}
+{"task": "hellaswag", "idx": 118, "label": 0, "probs": [1.0, 2.7036917149558803e-10, 2.409737520636668e-09, 8.611036688387086e-13], "tokens_in": 107, "tokens_out": 224, "forced": false, "think_chars": 872}
+{"task": "arc_easy", "idx": 64, "label": 2, "probs": [4.07342952771228e-12, 2.8172628674383304e-09, 1.0, 7.992097261766418e-11], "tokens_in": 92, "tokens_out": 172, "forced": false, "think_chars": 790}
+{"task": "openbookqa", "idx": 343, "label": 1, "probs": [2.7510245058544325e-13, 1.0, 6.224203791260763e-11, 1.5802846227777612e-12], "tokens_in": 65, "tokens_out": 109, "forced": false, "think_chars": 361}
+{"task": "openbookqa", "idx": 277, "label": 3, "probs": [1.5499549614692715e-13, 1.5894364990831633e-10, 9.792085198245815e-11, 1.0], "tokens_in": 67, "tokens_out": 185, "forced": false, "think_chars": 688}
+{"task": "copa", "idx": 16, "label": 0, "probs": [1.0, 1.6657501766825789e-10], "tokens_in": 67, "tokens_out": 132, "forced": false, "think_chars": 528}
+{"task": "hellaswag", "idx": 433, "label": 3, "probs": [1.6268945825931302e-12, 1.0, 4.895678307192952e-10, 1.6052585927184282e-09], "tokens_in": 107, "tokens_out": 621, "forced": false, "think_chars": 2368}
+{"task": "arc_easy", "idx": 417, "label": 2, "probs": [8.211711475733519e-13, 1.4615767485182118e-09, 1.0, 7.391495054909214e-11], "tokens_in": 65, "tokens_out": 166, "forced": false, "think_chars": 653}
+{"task": "openbookqa", "idx": 431, "label": 2, "probs": [1.6696223781309527e-07, 0.042087722569704056, 0.9579121470451355, 5.7700546562955424e-08], "tokens_in": 80, "tokens_out": 1042, "forced": true, "think_chars": 3871}
+{"task": "copa", "idx": 21, "label": 0, "probs": [1.0, 1.5108561624010974e-10], "tokens_in": 72, "tokens_out": 161, "forced": false, "think_chars": 646}
+{"task": "openbookqa", "idx": 26, "label": 1, "probs": [3.819405187087399e-13, 1.0, 7.868086043805178e-11, 2.6613962769705957e-12], "tokens_in": 96, "tokens_out": 255, "forced": false, "think_chars": 1111}
+{"task": "copa", "idx": 34, "label": 0, "probs": [1.0, 2.3307589192000933e-10], "tokens_in": 66, "tokens_out": 506, "forced": false, "think_chars": 2042}
+{"task": "copa", "idx": 63, "label": 1, "probs": [6.358679641854659e-12, 1.0], "tokens_in": 69, "tokens_out": 444, "forced": false, "think_chars": 1759}
+{"task": "arc_easy", "idx": 98, "label": 3, "probs": [1.2433960856913194e-14, 2.476015573127377e-11, 9.490831731628901e-11, 1.0], "tokens_in": 77, "tokens_out": 199, "forced": false, "think_chars": 869}
+{"task": "openbookqa", "idx": 201, "label": 3, "probs": [4.06799837955954e-14, 4.4140423954841523e-11, 1.0423739649212393e-10, 1.0], "tokens_in": 87, "tokens_out": 195, "forced": false, "think_chars": 828}
+{"task": "openbookqa", "idx": 311, "label": 0, "probs": [1.0, 1.691923684488117e-10, 1.9362784708931713e-09, 1.8800200111968035e-12], "tokens_in": 71, "tokens_out": 184, "forced": false, "think_chars": 619}
+{"task": "openbookqa", "idx": 295, "label": 3, "probs": [3.4605415863593614e-14, 5.893058957484598e-11, 5.2413851037158565e-11, 1.0], "tokens_in": 70, "tokens_out": 206, "forced": false, "think_chars": 835}
+{"task": "openbookqa", "idx": 370, "label": 0, "probs": [1.0, 1.181173353570486e-10, 1.7907748617318475e-09, 3.513029927723621e-12], "tokens_in": 70, "tokens_out": 272, "forced": false, "think_chars": 1031}
+{"task": "arc_easy", "idx": 150, "label": 1, "probs": [2.7084722810898076e-13, 1.0, 4.772253772711288e-11, 2.698089147934457e-12], "tokens_in": 64, "tokens_out": 97, "forced": false, "think_chars": 356}
+{"task": "copa", "idx": 37, "label": 1, "probs": [1.25244216039877e-12, 1.0], "tokens_in": 64, "tokens_out": 217, "forced": false, "think_chars": 958}
+{"task": "copa", "idx": 84, "label": 1, "probs": [1.6699816984995508e-13, 1.0], "tokens_in": 62, "tokens_out": 153, "forced": false, "think_chars": 656}
+{"task": "arc_easy", "idx": 100, "label": 2, "probs": [4.439056761063043e-12, 2.646573848963385e-09, 1.0, 9.640309384106871e-11], "tokens_in": 101, "tokens_out": 159, "forced": false, "think_chars": 643}
+{"task": "openbookqa", "idx": 64, "label": 1, "probs": [0.9999963045120239, 2.536012573273183e-07, 3.500850425552926e-06, 6.972833421770019e-09], "tokens_in": 75, "tokens_out": 1042, "forced": true, "think_chars": 3380}
+{"task": "openbookqa", "idx": 367, "label": 0, "probs": [1.0, 7.053216344310442e-11, 1.8767125631313775e-09, 5.3980955989907375e-12], "tokens_in": 64, "tokens_out": 217, "forced": false, "think_chars": 826}
+{"task": "copa", "idx": 30, "label": 1, "probs": [2.7954773370274244e-13, 1.0], "tokens_in": 70, "tokens_out": 182, "forced": false, "think_chars": 782}
+{"task": "arc_easy", "idx": 393, "label": 1, "probs": [7.191539573049577e-13, 1.0, 6.522885009907498e-11, 4.18724386760938e-12], "tokens_in": 77, "tokens_out": 181, "forced": false, "think_chars": 812}
+{"task": "openbookqa", "idx": 56, "label": 2, "probs": [2.064376664404066e-12, 1.8189616479702408e-09, 1.0, 1.0102957359592324e-10], "tokens_in": 80, "tokens_out": 136, "forced": false, "think_chars": 517}
+{"task": "openbookqa", "idx": 108, "label": 1, "probs": [4.293912230987629e-13, 1.0, 1.1628255996987136e-10, 3.797491401197339e-12], "tokens_in": 63, "tokens_out": 270, "forced": false, "think_chars": 1016}
+{"task": "openbookqa", "idx": 307, "label": 2, "probs": [7.476833822211981e-13, 1.0693124163907441e-09, 1.0, 1.3594989023424375e-10], "tokens_in": 65, "tokens_out": 178, "forced": false, "think_chars": 660}
+{"task": "copa", "idx": 19, "label": 0, "probs": [1.0, 1.5049228530017444e-10], "tokens_in": 74, "tokens_out": 187, "forced": false, "think_chars": 753}
+{"task": "openbookqa", "idx": 419, "label": 1, "probs": [5.261894435795722e-13, 1.0, 7.992004974477496e-11, 4.122475798229441e-12], "tokens_in": 84, "tokens_out": 275, "forced": false, "think_chars": 1228}
+{"task": "copa", "idx": 14, "label": 0, "probs": [1.0, 1.0609257222737867e-10], "tokens_in": 67, "tokens_out": 155, "forced": false, "think_chars": 620}
+{"task": "copa", "idx": 47, "label": 1, "probs": [4.866697865014979e-13, 1.0], "tokens_in": 66, "tokens_out": 129, "forced": false, "think_chars": 509}
+{"task": "openbookqa", "idx": 188, "label": 3, "probs": [5.650509899389478e-13, 1.8010468116891332e-10, 4.058667846251751e-10, 1.0], "tokens_in": 65, "tokens_out": 155, "forced": false, "think_chars": 494}
+{"task": "copa", "idx": 15, "label": 1, "probs": [2.9296628057534635e-13, 1.0], "tokens_in": 63, "tokens_out": 157, "forced": false, "think_chars": 618}
+{"task": "copa", "idx": 80, "label": 0, "probs": [1.0, 1.9627482972239818e-10], "tokens_in": 70, "tokens_out": 133, "forced": false, "think_chars": 525}
+{"task": "copa", "idx": 94, "label": 0, "probs": [1.0, 1.317744385831432e-10], "tokens_in": 68, "tokens_out": 164, "forced": false, "think_chars": 630}
+{"task": "arc_easy", "idx": 27, "label": 1, "probs": [3.6160779774176144e-13, 1.0, 4.211482898530683e-11, 1.5433800071296133e-12], "tokens_in": 66, "tokens_out": 115, "forced": false, "think_chars": 487}
+{"task": "copa", "idx": 69, "label": 0, "probs": [1.0, 5.051392082400241e-10], "tokens_in": 64, "tokens_out": 142, "forced": false, "think_chars": 506}
+{"task": "copa", "idx": 72, "label": 1, "probs": [4.829211574901293e-13, 1.0], "tokens_in": 69, "tokens_out": 208, "forced": false, "think_chars": 864}
+{"task": "openbookqa", "idx": 366, "label": 2, "probs": [1.058766685435586e-10, 1.9555681518568235e-08, 1.0, 1.1032601499039174e-09], "tokens_in": 73, "tokens_out": 602, "forced": false, "think_chars": 2331}
+{"task": "copa", "idx": 43, "label": 1, "probs": [6.200203653446146e-13, 1.0], "tokens_in": 70, "tokens_out": 103, "forced": false, "think_chars": 375}
+{"task": "copa", "idx": 52, "label": 0, "probs": [1.0, 7.292420833859836e-11], "tokens_in": 72, "tokens_out": 121, "forced": false, "think_chars": 485}
+{"task": "copa", "idx": 67, "label": 0, "probs": [1.0, 1.2428603979319774e-10], "tokens_in": 68, "tokens_out": 194, "forced": false, "think_chars": 775}
+{"task": "copa", "idx": 91, "label": 1, "probs": [4.1310927118357044e-13, 1.0], "tokens_in": 64, "tokens_out": 171, "forced": false, "think_chars": 716}
+{"task": "openbookqa", "idx": 196, "label": 3, "probs": [1.5723343850873595e-13, 5.365732164142045e-11, 8.245777671778143e-11, 1.0], "tokens_in": 63, "tokens_out": 126, "forced": false, "think_chars": 472}
+{"task": "openbookqa", "idx": 317, "label": 0, "probs": [1.0, 2.74638395358906e-10, 3.732295805747299e-09, 5.112500700565903e-12], "tokens_in": 67, "tokens_out": 225, "forced": false, "think_chars": 837}
+{"task": "openbookqa", "idx": 393, "label": 3, "probs": [2.053066917862001e-13, 4.717060075876134e-11, 7.929992773547667e-11, 1.0], "tokens_in": 62, "tokens_out": 217, "forced": false, "think_chars": 796}
+{"task": "openbookqa", "idx": 492, "label": 3, "probs": [1.0641808208299366e-13, 2.5005153503343536e-10, 2.0730002436852857e-10, 1.0], "tokens_in": 62, "tokens_out": 197, "forced": false, "think_chars": 730}
+{"task": "copa", "idx": 44, "label": 0, "probs": [1.0, 9.092735592242107e-11], "tokens_in": 60, "tokens_out": 177, "forced": false, "think_chars": 704}
+{"task": "copa", "idx": 73, "label": 1, "probs": [8.212463369940137e-13, 1.0], "tokens_in": 69, "tokens_out": 164, "forced": false, "think_chars": 659}
+{"task": "openbookqa", "idx": 210, "label": 3, "probs": [1.4114573496527144e-13, 1.2771603219441374e-10, 1.338414240548147e-10, 1.0], "tokens_in": 84, "tokens_out": 221, "forced": false, "think_chars": 1014}
+{"task": "openbookqa", "idx": 231, "label": 3, "probs": [1.5152035442306255e-12, 9.491338964773277e-11, 2.500510631886499e-10, 1.0], "tokens_in": 61, "tokens_out": 242, "forced": false, "think_chars": 966}
+{"task": "copa", "idx": 48, "label": 0, "probs": [1.0, 2.2946676503377006e-10], "tokens_in": 71, "tokens_out": 137, "forced": false, "think_chars": 479}
+{"task": "copa", "idx": 99, "label": 0, "probs": [1.0, 2.1641560765672807e-10], "tokens_in": 64, "tokens_out": 214, "forced": false, "think_chars": 853}
+{"task": "openbookqa", "idx": 44, "label": 2, "probs": [1.6014946530376606e-12, 1.211689748537026e-09, 1.0, 8.24582485625669e-11], "tokens_in": 65, "tokens_out": 93, "forced": false, "think_chars": 396}
+{"task": "copa", "idx": 22, "label": 1, "probs": [1.7766727488082584e-13, 1.0], "tokens_in": 68, "tokens_out": 170, "forced": false, "think_chars": 630}
+{"task": "copa", "idx": 86, "label": 0, "probs": [1.0, 2.1057978971672497e-10], "tokens_in": 60, "tokens_out": 149, "forced": false, "think_chars": 682}
+{"task": "copa", "idx": 87, "label": 0, "probs": [1.0, 1.3783553465263054e-10], "tokens_in": 67, "tokens_out": 124, "forced": false, "think_chars": 462}
+{"task": "openbookqa", "idx": 130, "label": 0, "probs": [1.0, 1.3176740254472463e-10, 1.461582299633335e-09, 5.612574641156165e-12], "tokens_in": 69, "tokens_out": 150, "forced": false, "think_chars": 536}
+{"task": "openbookqa", "idx": 417, "label": 0, "probs": [1.0, 7.746752545001456e-11, 3.732274045376016e-09, 3.431500092757056e-12], "tokens_in": 76, "tokens_out": 238, "forced": false, "think_chars": 919}
+{"task": "copa", "idx": 8, "label": 0, "probs": [1.0, 3.261318159974991e-10], "tokens_in": 66, "tokens_out": 157, "forced": false, "think_chars": 638}
+{"task": "copa", "idx": 41, "label": 0, "probs": [1.0, 2.0411417001042764e-10], "tokens_in": 61, "tokens_out": 191, "forced": false, "think_chars": 773}
+{"task": "openbookqa", "idx": 415, "label": 0, "probs": [1.0, 4.058799407680169e-10, 1.5079894000180616e-09, 2.1652647123199253e-12], "tokens_in": 62, "tokens_out": 167, "forced": false, "think_chars": 588}
+{"task": "copa", "idx": 11, "label": 0, "probs": [1.0, 1.1812545386291617e-10], "tokens_in": 70, "tokens_out": 156, "forced": false, "think_chars": 636}
+{"task": "copa", "idx": 88, "label": 1, "probs": [1.7770861008865185e-13, 1.0], "tokens_in": 66, "tokens_out": 162, "forced": false, "think_chars": 612}
+{"task": "openbookqa", "idx": 481, "label": 2, "probs": [7.052947115226971e-11, 1.8370862164829305e-08, 1.0, 2.789505293421257e-10], "tokens_in": 62, "tokens_out": 222, "forced": false, "think_chars": 870}
+{"task": "copa", "idx": 54, "label": 1, "probs": [2.4663742727824844e-13, 1.0], "tokens_in": 63, "tokens_out": 251, "forced": false, "think_chars": 988}
+{"task": "copa", "idx": 96, "label": 1, "probs": [6.055686551167949e-13, 1.0], "tokens_in": 63, "tokens_out": 203, "forced": false, "think_chars": 795}
+{"task": "openbookqa", "idx": 100, "label": 0, "probs": [1.0, 1.004529903703144e-09, 5.780648404396516e-09, 1.257366988305364e-10], "tokens_in": 61, "tokens_out": 180, "forced": false, "think_chars": 735}
+{"task": "openbookqa", "idx": 247, "label": 3, "probs": [2.2430980819521454e-14, 1.2091933010438538e-10, 9.565543496181661e-11, 1.0], "tokens_in": 61, "tokens_out": 241, "forced": false, "think_chars": 912}
+{"task": "copa", "idx": 6, "label": 0, "probs": [1.0, 3.1610139505922064e-10], "tokens_in": 66, "tokens_out": 137, "forced": false, "think_chars": 462}
+{"task": "copa", "idx": 24, "label": 0, "probs": [1.0, 6.189118662014437e-10], "tokens_in": 64, "tokens_out": 142, "forced": false, "think_chars": 524}
+{"task": "copa", "idx": 25, "label": 0, "probs": [1.0, 1.0204009859293706e-10], "tokens_in": 69, "tokens_out": 280, "forced": false, "think_chars": 1097}
+{"task": "copa", "idx": 50, "label": 0, "probs": [1.0, 2.0330986894023795e-10], "tokens_in": 60, "tokens_out": 131, "forced": false, "think_chars": 526}
+{"task": "arc_easy", "idx": 367, "label": 3, "probs": [4.19312987923106e-14, 9.198952710676167e-11, 8.574269072525453e-11, 1.0], "tokens_in": 70, "tokens_out": 188, "forced": false, "think_chars": 578}
+{"task": "copa", "idx": 46, "label": 1, "probs": [4.634042715528919e-12, 1.0], "tokens_in": 73, "tokens_out": 980, "forced": false, "think_chars": 3977}
+{"task": "arc_easy", "idx": 118, "label": 3, "probs": [9.995009106391478e-15, 4.698571393069173e-11, 1.0024393121144115e-10, 1.0], "tokens_in": 64, "tokens_out": 204, "forced": false, "think_chars": 864}
+{"task": "openbookqa", "idx": 84, "label": 0, "probs": [1.0, 2.923465913795553e-10, 2.861656023256387e-09, 2.7379027864316008e-12], "tokens_in": 82, "tokens_out": 279, "forced": false, "think_chars": 1118}
+{"task": "copa", "idx": 13, "label": 0, "probs": [1.0, 4.671640296827206e-10], "tokens_in": 67, "tokens_out": 135, "forced": false, "think_chars": 542}
+{"task": "copa", "idx": 70, "label": 0, "probs": [1.0, 1.3075944493845526e-10], "tokens_in": 68, "tokens_out": 155, "forced": false, "think_chars": 585}
+{"task": "copa", "idx": 35, "label": 0, "probs": [1.0, 2.725073500187136e-10], "tokens_in": 63, "tokens_out": 150, "forced": false, "think_chars": 578}
+{"task": "openbookqa", "idx": 27, "label": 0, "probs": [1.0, 6.286283715795093e-10, 4.792334973302559e-09, 9.289647176502491e-12], "tokens_in": 67, "tokens_out": 241, "forced": false, "think_chars": 1039}
+{"task": "openbookqa", "idx": 405, "label": 2, "probs": [1.3968217858414955e-12, 1.1382771392121072e-09, 1.0, 5.667267002906762e-11], "tokens_in": 70, "tokens_out": 189, "forced": false, "think_chars": 681}
+{"task": "copa", "idx": 98, "label": 1, "probs": [3.4243717887336156e-13, 1.0], "tokens_in": 64, "tokens_out": 165, "forced": false, "think_chars": 632}
+{"task": "openbookqa", "idx": 98, "label": 1, "probs": [1.730030723713638e-12, 1.0, 1.3176564006567304e-10, 5.3556174252344935e-12], "tokens_in": 60, "tokens_out": 555, "forced": false, "think_chars": 2013}
+{"task": "copa", "idx": 1, "label": 0, "probs": [1.0, 1.4873730025399823e-10], "tokens_in": 62, "tokens_out": 271, "forced": false, "think_chars": 1109}
+{"task": "copa", "idx": 31, "label": 1, "probs": [3.7034831039568783e-13, 1.0], "tokens_in": 70, "tokens_out": 103, "forced": false, "think_chars": 406}
+{"task": "copa", "idx": 78, "label": 1, "probs": [1.7768590960566544e-13, 1.0], "tokens_in": 65, "tokens_out": 163, "forced": false, "think_chars": 624}
+{"task": "copa", "idx": 10, "label": 0, "probs": [1.0, 1.5049400614586261e-10], "tokens_in": 64, "tokens_out": 227, "forced": false, "think_chars": 877}
+{"task": "copa", "idx": 59, "label": 1, "probs": [2.4289888134708393e-13, 1.0], "tokens_in": 64, "tokens_out": 143, "forced": false, "think_chars": 520}
+{"task": "openbookqa", "idx": 164, "label": 0, "probs": [1.0, 8.512233973245742e-11, 1.0145373430248128e-08, 1.7699302093387992e-11], "tokens_in": 59, "tokens_out": 709, "forced": false, "think_chars": 2741}
+{"task": "copa", "idx": 4, "label": 0, "probs": [1.0, 1.5527357177802514e-10], "tokens_in": 60, "tokens_out": 143, "forced": false, "think_chars": 580}
+{"task": "copa", "idx": 76, "label": 0, "probs": [1.0, 1.1539083577538634e-10], "tokens_in": 59, "tokens_out": 130, "forced": false, "think_chars": 516}
+{"task": "copa", "idx": 0, "label": 1, "probs": [2.3909615064730827e-13, 1.0], "tokens_in": 66, "tokens_out": 171, "forced": false, "think_chars": 709}
+{"task": "copa", "idx": 7, "label": 1, "probs": [2.1104709505611469e-13, 1.0], "tokens_in": 58, "tokens_out": 136, "forced": false, "think_chars": 533}
+{"task": "copa", "idx": 81, "label": 1, "probs": [1.6951125561808639e-13, 1.0], "tokens_in": 62, "tokens_out": 136, "forced": false, "think_chars": 505}
+{"task": "copa", "idx": 29, "label": 1, "probs": [2.281719463977788e-13, 1.0], "tokens_in": 63, "tokens_out": 109, "forced": false, "think_chars": 374}
+{"task": "copa", "idx": 2, "label": 1, "probs": [3.533450387751408e-13, 1.0], "tokens_in": 60, "tokens_out": 123, "forced": false, "think_chars": 484}
+{"task": "copa", "idx": 23, "label": 1, "probs": [2.1434771817728515e-13, 1.0], "tokens_in": 64, "tokens_out": 204, "forced": false, "think_chars": 840}
+{"task": "openbookqa", "idx": 24, "label": 0, "probs": [1.0, 5.756776999543689e-11, 2.0611694573346995e-09, 5.483908466219489e-12], "tokens_in": 59, "tokens_out": 109, "forced": false, "think_chars": 448}
+{"task": "copa", "idx": 20, "label": 1, "probs": [2.9296628057534635e-13, 1.0], "tokens_in": 64, "tokens_out": 154, "forced": false, "think_chars": 631}
+{"task": "copa", "idx": 66, "label": 0, "probs": [1.0, 2.703820500826737e-10], "tokens_in": 64, "tokens_out": 132, "forced": false, "think_chars": 453}
+{"task": "copa", "idx": 83, "label": 0, "probs": [1.0, 1.8728854578320409e-10], "tokens_in": 60, "tokens_out": 143, "forced": false, "think_chars": 549}
+{"task": "copa", "idx": 28, "label": 0, "probs": [1.0, 2.2592644421948194e-10], "tokens_in": 57, "tokens_out": 155, "forced": false, "think_chars": 568}

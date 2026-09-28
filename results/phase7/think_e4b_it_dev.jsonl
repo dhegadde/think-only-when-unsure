@@ -1,0 +1,400 @@
+{"task": "boolq", "idx": 17, "label": 0, "probs": [1.0, 2.335593052293916e-09], "tokens_in": 327, "tokens_out": 386, "forced": false, "think_chars": 1749}
+{"task": "yelp", "idx": 643, "label": 4, "probs": [7.582560135332983e-10, 8.071593948777434e-10, 1.2378190139550327e-10, 4.139937814784389e-08, 1.0], "tokens_in": 446, "tokens_out": 399, "forced": false, "think_chars": 1650}
+{"task": "yelp", "idx": 646, "label": 2, "probs": [2.1940866901104528e-09, 1.3440409674103648e-08, 1.0, 4.1874875789105204e-10, 1.6052279505629485e-09], "tokens_in": 444, "tokens_out": 253, "forced": false, "think_chars": 885}
+{"task": "yelp", "idx": 697, "label": 1, "probs": [9.931193289958173e-08, 0.9999998807907104, 5.492787821803624e-11, 1.7257827167327378e-08, 1.7257827167327378e-08], "tokens_in": 409, "tokens_out": 664, "forced": false, "think_chars": 2818}
+{"task": "boolq", "idx": 86, "label": 0, "probs": [0.9999995231628418, 4.450850212833757e-07], "tokens_in": 410, "tokens_out": 359, "forced": false, "think_chars": 1375}
+{"task": "yelp", "idx": 731, "label": 1, "probs": [2.6729447100137804e-08, 4.3204126387585973e-10, 1.0, 7.349269526280011e-10, 1.8189616479702408e-09], "tokens_in": 417, "tokens_out": 670, "forced": false, "think_chars": 2704}
+{"task": "boolq", "idx": 20, "label": 0, "probs": [1.0, 5.315785500670245e-08], "tokens_in": 332, "tokens_out": 284, "forced": false, "think_chars": 1226}
+{"task": "yelp", "idx": 705, "label": 1, "probs": [2.536016268095409e-07, 0.9999988079071045, 4.993712110490378e-08, 9.931182631817137e-08, 7.338206842177897e-07], "tokens_in": 419, "tokens_out": 690, "forced": false, "think_chars": 2563}
+{"task": "yelp", "idx": 694, "label": 0, "probs": [1.0, 1.8189616479702408e-09, 5.611236735675318e-12, 1.493094675675266e-10, 4.457557378767518e-10], "tokens_in": 406, "tokens_out": 450, "forced": false, "think_chars": 1718}
+{"task": "yelp", "idx": 748, "label": 2, "probs": [1.9555660202286163e-08, 2.3588629716186915e-08, 3.192373920768432e-09, 1.0677028967620572e-06, 0.999998927116394], "tokens_in": 426, "tokens_out": 776, "forced": false, "think_chars": 3075}
+{"task": "yelp", "idx": 689, "label": 4, "probs": [3.471548881694986e-10, 1.6052277285183436e-09, 9.946152929041219e-11, 9.329492201004541e-08, 0.9999998807907104], "tokens_in": 402, "tokens_out": 567, "forced": false, "think_chars": 2235}
+{"task": "yelp", "idx": 641, "label": 0, "probs": [1.0, 2.646573848963385e-09, 5.323793142442135e-11, 1.9362746961348876e-09, 1.2501528701136522e-09], "tokens_in": 396, "tokens_out": 197, "forced": false, "think_chars": 689}
+{"task": "yelp", "idx": 709, "label": 2, "probs": [4.745044912546348e-10, 7.123156509081241e-10, 1.0, 1.8189616479702408e-09, 6.758262394157555e-09], "tokens_in": 353, "tokens_out": 242, "forced": false, "think_chars": 865}
+{"task": "boolq", "idx": 5, "label": 1, "probs": [1.1744099026600452e-09, 1.0], "tokens_in": 269, "tokens_out": 384, "forced": false, "think_chars": 1646}
+{"task": "yelp", "idx": 602, "label": 2, "probs": [2.8736855028910213e-07, 6.758260617800715e-09, 0.9999997615814209, 4.944448850352501e-09, 8.152018615703582e-09], "tokens_in": 356, "tokens_out": 718, "forced": false, "think_chars": 3004}
+{"task": "boolq", "idx": 26, "label": 0, "probs": [1.0, 1.5229980832032197e-08], "tokens_in": 289, "tokens_out": 502, "forced": false, "think_chars": 1917}
+{"task": "boolq", "idx": 69, "label": 0, "probs": [1.0, 8.152020392060422e-09], "tokens_in": 284, "tokens_out": 636, "forced": false, "think_chars": 2598}
+{"task": "boolq", "idx": 108, "label": 1, "probs": [5.66714800087631e-11, 1.0], "tokens_in": 312, "tokens_out": 251, "forced": false, "think_chars": 917}
+{"task": "yelp", "idx": 686, "label": 3, "probs": [9.23744813974281e-09, 1.1861117421574363e-08, 9.833211578325063e-09, 2.238028713463791e-07, 0.9999997615814209], "tokens_in": 320, "tokens_out": 484, "forced": false, "think_chars": 1936}
+{"task": "yelp", "idx": 680, "label": 4, "probs": [4.895668870297243e-10, 8.592166977905435e-10, 3.9337808011019604e-10, 1.1861120086109622e-08, 1.0], "tokens_in": 293, "tokens_out": 283, "forced": false, "think_chars": 1142}
+{"task": "yelp", "idx": 728, "label": 3, "probs": [1.6052279505629485e-09, 1.1744099026600452e-09, 1.7257828943684217e-08, 1.0, 2.8453348122070565e-08], "tokens_in": 292, "tokens_out": 668, "forced": false, "think_chars": 2840}
+{"task": "yelp", "idx": 746, "label": 0, "probs": [0.9999998807907104, 7.734421103577915e-08, 1.9362744740902826e-09, 3.6174367945562835e-09, 5.964144733638932e-09], "tokens_in": 317, "tokens_out": 347, "forced": false, "think_chars": 1400}
+{"task": "yelp", "idx": 673, "label": 1, "probs": [6.092758519926633e-10, 1.0, 8.29286986303579e-12, 3.063631570654479e-10, 2.2414005373949664e-10], "tokens_in": 286, "tokens_out": 226, "forced": false, "think_chars": 838}
+{"task": "yelp", "idx": 621, "label": 2, "probs": [7.734414708693294e-08, 8.764239822767195e-08, 0.9999990463256836, 3.689882817070611e-07, 3.466324187684222e-07], "tokens_in": 292, "tokens_out": 328, "forced": false, "think_chars": 1176}
+{"task": "boolq", "idx": 78, "label": 0, "probs": [0.9999998807907104, 8.764247638737288e-08], "tokens_in": 250, "tokens_out": 212, "forced": false, "think_chars": 884}
+{"task": "yelp", "idx": 725, "label": 0, "probs": [1.0, 1.5229980832032197e-08, 5.905304023556823e-10, 1.7087563586315468e-09, 1.6212228004519602e-08], "tokens_in": 263, "tokens_out": 243, "forced": false, "think_chars": 1041}
+{"task": "yelp", "idx": 667, "label": 0, "probs": [1.0, 1.7257828943684217e-08, 1.004526017922558e-09, 1.7087563586315468e-09, 2.3588654585182667e-08], "tokens_in": 286, "tokens_out": 358, "forced": false, "think_chars": 1500}
+{"task": "yelp", "idx": 612, "label": 0, "probs": [1.0, 1.8010158642223217e-10, 9.545034901359273e-12, 1.9780291293791663e-10, 4.1874875789105204e-10], "tokens_in": 266, "tokens_out": 427, "forced": false, "think_chars": 1625}
+{"task": "boolq", "idx": 94, "label": 1, "probs": [1.4166087192180044e-09, 1.0], "tokens_in": 260, "tokens_out": 311, "forced": false, "think_chars": 1061}
+{"task": "yelp", "idx": 690, "label": 0, "probs": [1.0, 2.2159490242756874e-08, 5.211412412720051e-10, 2.1940866901104528e-09, 4.94445018262013e-09], "tokens_in": 273, "tokens_out": 354, "forced": false, "think_chars": 1356}
+{"task": "yelp", "idx": 683, "label": 2, "probs": [2.2159490242756874e-08, 1.9555681518568235e-08, 1.0, 1.1744099026600452e-09, 3.6174372386454934e-09], "tokens_in": 266, "tokens_out": 399, "forced": false, "think_chars": 1574}
+{"task": "boolq", "idx": 45, "label": 1, "probs": [0.9999991655349731, 8.851569646139978e-07], "tokens_in": 177, "tokens_out": 543, "forced": false, "think_chars": 2265}
+{"task": "yelp", "idx": 719, "label": 4, "probs": [5.263335989269535e-09, 5.602791564029985e-09, 6.348794823196613e-09, 8.851569646139978e-07, 0.9999991655349731], "tokens_in": 241, "tokens_out": 443, "forced": false, "think_chars": 1903}
+{"task": "boolq", "idx": 99, "label": 0, "probs": [1.0, 2.510999053129126e-08], "tokens_in": 260, "tokens_out": 216, "forced": false, "think_chars": 785}
+{"task": "yelp", "idx": 678, "label": 1, "probs": [1.0, 8.67778116031559e-09, 7.99195987166712e-11, 1.2501528701136522e-09, 2.8172628674383304e-09], "tokens_in": 249, "tokens_out": 301, "forced": false, "think_chars": 1185}
+{"task": "boolq", "idx": 54, "label": 0, "probs": [0.9999990463256836, 9.422445828022319e-07], "tokens_in": 170, "tokens_out": 285, "forced": false, "think_chars": 1384}
+{"task": "boolq", "idx": 107, "label": 0, "probs": [0.999995231628418, 4.7850949158601e-06], "tokens_in": 246, "tokens_out": 655, "forced": false, "think_chars": 2704}
+{"task": "boolq", "idx": 52, "label": 1, "probs": [1.277111610908932e-10, 1.0], "tokens_in": 205, "tokens_out": 182, "forced": false, "think_chars": 751}
+{"task": "yelp", "idx": 744, "label": 1, "probs": [0.9999970197677612, 2.7264695745543577e-06, 1.1142457623236623e-08, 1.5229934646754373e-08, 2.3823625383556646e-07], "tokens_in": 234, "tokens_out": 690, "forced": false, "think_chars": 2859}
+{"task": "boolq", "idx": 24, "label": 0, "probs": [0.9999998807907104, 7.734421103577915e-08], "tokens_in": 182, "tokens_out": 197, "forced": false, "think_chars": 791}
+{"task": "yelp", "idx": 614, "label": 2, "probs": [1.4738353456777986e-05, 0.9999426603317261, 1.8924420146504417e-05, 8.9392633526586e-06, 1.4738353456777986e-05], "tokens_in": 260, "tokens_out": 623, "forced": false, "think_chars": 2734}
+{"task": "yelp", "idx": 654, "label": 0, "probs": [0.9999998807907104, 7.734421103577915e-08, 7.349268416056987e-10, 1.818961425925636e-09, 5.602795560832874e-09], "tokens_in": 243, "tokens_out": 294, "forced": false, "think_chars": 1113}
+{"task": "boolq", "idx": 67, "label": 1, "probs": [3.9337808011019604e-10, 1.0], "tokens_in": 189, "tokens_out": 315, "forced": false, "think_chars": 1292}
+{"task": "boolq", "idx": 81, "label": 1, "probs": [8.507396870305328e-11, 1.0], "tokens_in": 194, "tokens_out": 297, "forced": false, "think_chars": 1155}
+{"task": "boolq", "idx": 89, "label": 0, "probs": [1.0, 1.1861120086109622e-08], "tokens_in": 204, "tokens_out": 407, "forced": false, "think_chars": 1658}
+{"task": "boolq", "idx": 90, "label": 0, "probs": [0.9999998807907104, 8.233248394162729e-08], "tokens_in": 170, "tokens_out": 358, "forced": false, "think_chars": 1375}
+{"task": "boolq", "idx": 11, "label": 0, "probs": [6.41206057139243e-08, 0.9999998807907104], "tokens_in": 170, "tokens_out": 651, "forced": false, "think_chars": 2798}
+{"task": "yelp", "idx": 677, "label": 3, "probs": [7.194133289090132e-09, 2.998960857425459e-09, 9.23744991609965e-09, 1.0, 1.3307807078533074e-09], "tokens_in": 246, "tokens_out": 355, "forced": false, "think_chars": 1392}
+{"task": "yelp", "idx": 639, "label": 1, "probs": [7.582560135332983e-10, 1.0, 1.3176514046531196e-10, 1.7087563586315468e-09, 1.0364131775020269e-09], "tokens_in": 225, "tokens_out": 189, "forced": false, "think_chars": 650}
+{"task": "boolq", "idx": 34, "label": 1, "probs": [6.962256520637311e-06, 0.999993085861206], "tokens_in": 167, "tokens_out": 791, "forced": false, "think_chars": 3365}
+{"task": "boolq", "idx": 76, "label": 1, "probs": [3.850741947530878e-09, 1.0], "tokens_in": 194, "tokens_out": 280, "forced": false, "think_chars": 1051}
+{"task": "boolq", "idx": 134, "label": 0, "probs": [0.9999988079071045, 1.2098656725356705e-06], "tokens_in": 177, "tokens_out": 418, "forced": false, "think_chars": 1208}
+{"task": "boolq", "idx": 139, "label": 0, "probs": [0.9999985694885254, 1.4593763353332179e-06], "tokens_in": 217, "tokens_out": 343, "forced": false, "think_chars": 1433}
+{"task": "yelp", "idx": 642, "label": 1, "probs": [5.4222018661675975e-06, 0.9999914169311523, 1.4593658761441475e-06, 4.737867129733786e-07, 1.2098568049623282e-06], "tokens_in": 210, "tokens_out": 521, "forced": false, "think_chars": 2339}
+{"task": "yelp", "idx": 619, "label": 1, "probs": [1.0, 9.23744991609965e-09, 3.8127509482954736e-10, 3.192377251437506e-09, 1.3440409674103648e-08], "tokens_in": 214, "tokens_out": 532, "forced": false, "think_chars": 2274}
+{"task": "boolq", "idx": 147, "label": 1, "probs": [9.146313151298102e-10, 1.0], "tokens_in": 166, "tokens_out": 260, "forced": false, "think_chars": 1151}
+{"task": "boolq", "idx": 125, "label": 1, "probs": [2.2414005373949664e-10, 1.0], "tokens_in": 202, "tokens_out": 364, "forced": false, "think_chars": 1282}
+{"task": "yelp", "idx": 661, "label": 2, "probs": [3.432128892200126e-08, 2.0408184864262324e-10, 1.0, 2.8453348122070565e-08, 6.348800152267131e-09], "tokens_in": 205, "tokens_out": 449, "forced": false, "think_chars": 1842}
+{"task": "boolq", "idx": 10, "label": 0, "probs": [1.0, 4.691164434689199e-08], "tokens_in": 156, "tokens_out": 175, "forced": false, "think_chars": 648}
+{"task": "yelp", "idx": 730, "label": 1, "probs": [7.265813906087715e-08, 0.9999996423721313, 3.88911018944782e-08, 7.734418971949708e-08, 7.265813906087715e-08], "tokens_in": 199, "tokens_out": 481, "forced": false, "think_chars": 2044}
+{"task": "yelp", "idx": 710, "label": 3, "probs": [5.723616025576916e-10, 3.4715483265834735e-10, 2.8215062664732615e-12, 2.6995778057425923e-07, 0.9999997615814209], "tokens_in": 212, "tokens_out": 347, "forced": false, "think_chars": 1338}
+{"task": "yelp", "idx": 648, "label": 3, "probs": [4.5990555808117506e-10, 4.457557378767518e-10, 8.507396870305328e-11, 3.028842954222455e-08, 1.0], "tokens_in": 187, "tokens_out": 308, "forced": false, "think_chars": 1192}
+{"task": "boolq", "idx": 56, "label": 0, "probs": [1.0, 1.7257828943684217e-08], "tokens_in": 158, "tokens_out": 216, "forced": false, "think_chars": 912}
+{"task": "mnli", "idx": 378, "label": 2, "probs": [2.873683229154267e-07, 0.9999990463256836, 6.475946179307357e-07], "tokens_in": 183, "tokens_out": 503, "forced": false, "think_chars": 2259}
+{"task": "yelp", "idx": 692, "label": 0, "probs": [1.0, 1.1861120086109622e-08, 2.020683967374204e-11, 1.2378190139550327e-10, 9.146313151298102e-10], "tokens_in": 199, "tokens_out": 213, "forced": false, "think_chars": 789}
+{"task": "boolq", "idx": 48, "label": 0, "probs": [0.9999994039535522, 5.36874949830235e-07], "tokens_in": 152, "tokens_out": 130, "forced": false, "think_chars": 507}
+{"task": "mnli", "idx": 337, "label": 2, "probs": [7.734421103577915e-08, 2.998960413336249e-09, 0.9999998807907104], "tokens_in": 200, "tokens_out": 583, "forced": false, "think_chars": 2291}
+{"task": "mnli", "idx": 304, "label": 0, "probs": [1.0, 1.6398438162923412e-10, 6.691586174056852e-10], "tokens_in": 151, "tokens_out": 462, "forced": false, "think_chars": 2261}
+{"task": "boolq", "idx": 137, "label": 0, "probs": [0.9999990463256836, 9.422445828022319e-07], "tokens_in": 150, "tokens_out": 298, "forced": false, "think_chars": 1178}
+{"task": "boolq", "idx": 115, "label": 0, "probs": [0.9999997615814209, 1.855391076333035e-07], "tokens_in": 135, "tokens_out": 332, "forced": false, "think_chars": 1434}
+{"task": "boolq", "idx": 87, "label": 1, "probs": [9.736200734522527e-10, 1.0], "tokens_in": 154, "tokens_out": 456, "forced": false, "think_chars": 1921}
+{"task": "boolq", "idx": 7, "label": 1, "probs": [2.789468100949932e-10, 1.0], "tokens_in": 146, "tokens_out": 270, "forced": false, "think_chars": 1011}
+{"task": "boolq", "idx": 109, "label": 1, "probs": [3.6954450610693357e-10, 1.0], "tokens_in": 171, "tokens_out": 305, "forced": false, "think_chars": 1191}
+{"task": "boolq", "idx": 146, "label": 0, "probs": [1.0, 3.6174372386454934e-09], "tokens_in": 138, "tokens_out": 257, "forced": false, "think_chars": 1029}
+{"task": "yelp", "idx": 666, "label": 0, "probs": [9.931193289958173e-08, 1.1744097916377427e-09, 0.9999998807907104, 9.436647019356315e-10, 1.3440407897746809e-08], "tokens_in": 182, "tokens_out": 541, "forced": false, "think_chars": 2338}
+{"task": "boolq", "idx": 28, "label": 0, "probs": [0.9999997615814209, 1.855391076333035e-07], "tokens_in": 141, "tokens_out": 115, "forced": false, "think_chars": 505}
+{"task": "boolq", "idx": 6, "label": 0, "probs": [0.9999992847442627, 7.338210252783028e-07], "tokens_in": 131, "tokens_out": 534, "forced": false, "think_chars": 2075}
+{"task": "mnli", "idx": 417, "label": 0, "probs": [1.0, 1.9780291293791663e-10, 7.582560135332983e-10], "tokens_in": 168, "tokens_out": 456, "forced": false, "think_chars": 1819}
+{"task": "coherence", "idx": 758, "label": 0, "probs": [1.0, 1.1159276627759063e-11, 2.2319958381533667e-12, 7.99195987166712e-11], "tokens_in": 245, "tokens_out": 595, "forced": false, "think_chars": 2906}
+{"task": "boolq", "idx": 104, "label": 0, "probs": [0.9999994039535522, 6.083590733396704e-07], "tokens_in": 176, "tokens_out": 487, "forced": false, "think_chars": 1648}
+{"task": "coherence", "idx": 888, "label": 3, "probs": [1.0261879540562902e-10, 4.018610097467068e-11, 3.8949701103296874e-11, 1.0], "tokens_in": 245, "tokens_out": 517, "forced": false, "think_chars": 2600}
+{"task": "coherence", "idx": 785, "label": 0, "probs": [1.0, 6.032647298370719e-11, 1.3460657068142812e-11, 7.746073227288264e-11], "tokens_in": 242, "tokens_out": 534, "forced": false, "think_chars": 2567}
+{"task": "coherence", "idx": 795, "label": 0, "probs": [1.0, 4.691164434689199e-08, 4.099093509069007e-09, 2.998960857425459e-09], "tokens_in": 241, "tokens_out": 587, "forced": false, "think_chars": 2886}
+{"task": "coherence", "idx": 878, "label": 3, "probs": [3.0334058181979984e-11, 2.312550151373216e-10, 8.423464183116014e-12, 1.0], "tokens_in": 239, "tokens_out": 540, "forced": false, "think_chars": 2771}
+{"task": "yelp", "idx": 653, "label": 1, "probs": [0.9999996423721313, 3.689884806590271e-07, 1.1744094585708353e-09, 1.818960981836426e-09, 1.344040523321155e-08], "tokens_in": 171, "tokens_out": 304, "forced": false, "think_chars": 1257}
+{"task": "boolq", "idx": 140, "label": 0, "probs": [0.9999998807907104, 8.764247638737288e-08], "tokens_in": 148, "tokens_out": 307, "forced": false, "think_chars": 1212}
+{"task": "yelp", "idx": 670, "label": 2, "probs": [3.6954450610693357e-10, 1.7087563586315468e-09, 3.129696501957824e-11, 4.406940945500537e-08, 1.0], "tokens_in": 171, "tokens_out": 254, "forced": false, "think_chars": 1049}
+{"task": "boolq", "idx": 92, "label": 0, "probs": [0.9999995231628418, 4.1811870232777437e-07], "tokens_in": 178, "tokens_out": 337, "forced": false, "think_chars": 1277}
+{"task": "boolq", "idx": 128, "label": 0, "probs": [1.0, 1.43072416136647e-08], "tokens_in": 134, "tokens_out": 255, "forced": false, "think_chars": 1041}
+{"task": "yelp", "idx": 735, "label": 3, "probs": [1.9362746961348876e-09, 1.0364131775020269e-09, 5.271269098300335e-12, 2.061153470123145e-09, 1.0], "tokens_in": 173, "tokens_out": 321, "forced": false, "think_chars": 1225}
+{"task": "coherence", "idx": 756, "label": 1, "probs": [7.823256487071717e-10, 1.0, 4.018610097467068e-11, 2.646573848963385e-09], "tokens_in": 238, "tokens_out": 593, "forced": false, "think_chars": 2716}
+{"task": "yelp", "idx": 618, "label": 0, "probs": [0.999998927116394, 1.0030140629169182e-06, 7.658107037400441e-09, 7.194125739573565e-09, 6.825596443604809e-08], "tokens_in": 167, "tokens_out": 303, "forced": false, "think_chars": 1200}
+{"task": "coherence", "idx": 771, "label": 3, "probs": [2.4616969573898473e-10, 7.276762525876279e-11, 7.669650504971148e-12, 1.0], "tokens_in": 247, "tokens_out": 585, "forced": false, "think_chars": 2829}
+{"task": "mnli", "idx": 415, "label": 1, "probs": [1.1979305725162703e-07, 0.9999998807907104, 7.1941324009117125e-09], "tokens_in": 161, "tokens_out": 367, "forced": false, "think_chars": 1540}
+{"task": "coherence", "idx": 798, "label": 3, "probs": [1.742978383845184e-07, 3.028842243679719e-08, 2.6729439994710447e-08, 0.9999997615814209], "tokens_in": 242, "tokens_out": 562, "forced": false, "think_chars": 2663}
+{"task": "boolq", "idx": 38, "label": 0, "probs": [0.9988304972648621, 0.0011695085559040308], "tokens_in": 166, "tokens_out": 858, "forced": false, "think_chars": 3795}
+{"task": "boolq", "idx": 57, "label": 0, "probs": [0.9999984502792358, 1.5534978956566192e-06], "tokens_in": 123, "tokens_out": 247, "forced": false, "think_chars": 964}
+{"task": "coherence", "idx": 827, "label": 2, "probs": [6.758262394157555e-09, 1.8189616479702408e-09, 1.0, 3.063631570654479e-10], "tokens_in": 244, "tokens_out": 410, "forced": false, "think_chars": 2093}
+{"task": "mnli", "idx": 334, "label": 1, "probs": [2.1024331431362953e-07, 0.9999996423721313, 9.931191158329966e-08], "tokens_in": 159, "tokens_out": 396, "forced": false, "think_chars": 1815}
+{"task": "coherence", "idx": 805, "label": 1, "probs": [2.020683967374204e-11, 1.0, 4.6982310403231864e-11, 7.507751365043447e-11], "tokens_in": 242, "tokens_out": 329, "forced": false, "think_chars": 1598}
+{"task": "coherence", "idx": 788, "label": 0, "probs": [1.0, 5.37684063939281e-10, 1.2378190139550327e-10, 1.3176514046531196e-10], "tokens_in": 241, "tokens_out": 518, "forced": false, "think_chars": 2591}
+{"task": "coherence", "idx": 885, "label": 3, "probs": [1.7087563586315468e-09, 4.895668870297243e-10, 2.4611955811056074e-13, 1.0], "tokens_in": 244, "tokens_out": 535, "forced": false, "think_chars": 2469}
+{"task": "coherence", "idx": 859, "label": 3, "probs": [1.277111610908932e-10, 9.146313151298102e-10, 2.940077695190446e-11, 1.0], "tokens_in": 243, "tokens_out": 315, "forced": false, "think_chars": 1436}
+{"task": "boolq", "idx": 29, "label": 1, "probs": [1.1861120086109622e-08, 1.0], "tokens_in": 112, "tokens_out": 232, "forced": false, "think_chars": 1090}
+{"task": "yelp", "idx": 707, "label": 4, "probs": [1.7257827167327378e-08, 7.1941324009117125e-09, 1.0693123053684417e-09, 1.2751904421293148e-07, 0.9999998807907104], "tokens_in": 170, "tokens_out": 375, "forced": false, "think_chars": 1627}
+{"task": "coherence", "idx": 823, "label": 0, "probs": [1.0, 9.146313151298102e-10, 1.3307807078533074e-09, 5.905304023556823e-10], "tokens_in": 241, "tokens_out": 657, "forced": false, "think_chars": 3153}
+{"task": "boolq", "idx": 35, "label": 0, "probs": [9.329492201004541e-08, 0.9999998807907104], "tokens_in": 159, "tokens_out": 500, "forced": false, "think_chars": 2108}
+{"task": "coherence", "idx": 766, "label": 2, "probs": [4.6448813684207835e-09, 2.335593052293916e-09, 1.0, 2.0848274495666175e-11], "tokens_in": 245, "tokens_out": 512, "forced": false, "think_chars": 2449}
+{"task": "coherence", "idx": 842, "label": 2, "probs": [8.152020392060422e-09, 4.6448813684207835e-09, 1.0, 2.2542356870047797e-11], "tokens_in": 243, "tokens_out": 525, "forced": false, "think_chars": 2470}
+{"task": "coherence", "idx": 754, "label": 3, "probs": [2.6769711447549582e-11, 3.364740708278191e-10, 7.99195987166712e-11, 1.0], "tokens_in": 244, "tokens_out": 407, "forced": false, "think_chars": 1935}
+{"task": "coherence", "idx": 899, "label": 0, "probs": [1.0, 6.835885330014335e-11, 5.323793142442135e-11, 3.364740708278191e-10], "tokens_in": 246, "tokens_out": 508, "forced": false, "think_chars": 2315}
+{"task": "coherence", "idx": 882, "label": 3, "probs": [4.94445018262013e-09, 2.020683967374204e-11, 1.3460657068142812e-11, 1.0], "tokens_in": 236, "tokens_out": 581, "forced": false, "think_chars": 2569}
+{"task": "yelp", "idx": 704, "label": 1, "probs": [2.5360185418321635e-07, 0.9999996423721313, 9.23744636338597e-09, 1.2626093059964205e-08, 5.3157837243134054e-08], "tokens_in": 164, "tokens_out": 574, "forced": false, "think_chars": 2226}
+{"task": "coherence", "idx": 816, "label": 2, "probs": [3.3982678893096363e-09, 1.0693124163907441e-09, 1.0, 1.8217018605409807e-12], "tokens_in": 245, "tokens_out": 505, "forced": false, "think_chars": 2371}
+{"task": "coherence", "idx": 880, "label": 3, "probs": [1.83985361668082e-11, 1.0261879540562902e-10, 7.052879807956103e-11, 1.0], "tokens_in": 246, "tokens_out": 498, "forced": false, "think_chars": 2226}
+{"task": "coherence", "idx": 860, "label": 2, "probs": [8.071593948777434e-10, 4.363462480228009e-09, 1.0, 6.663508286819386e-12], "tokens_in": 246, "tokens_out": 463, "forced": false, "think_chars": 2263}
+{"task": "coherence", "idx": 772, "label": 0, "probs": [1.0, 1.7456046330632802e-10, 2.219287080496013e-11, 2.312550151373216e-10], "tokens_in": 239, "tokens_out": 536, "forced": false, "think_chars": 2376}
+{"task": "mnli", "idx": 311, "label": 0, "probs": [1.0, 1.3307807078533074e-09, 1.0261879540562902e-10], "tokens_in": 149, "tokens_out": 392, "forced": false, "think_chars": 1550}
+{"task": "coherence", "idx": 833, "label": 1, "probs": [1.6052279505629485e-09, 1.0, 6.3583643558629e-12, 2.8172628674383304e-09], "tokens_in": 247, "tokens_out": 527, "forced": false, "think_chars": 2412}
+{"task": "coherence", "idx": 856, "label": 1, "probs": [7.582560135332983e-10, 1.0, 2.514781785589726e-11, 3.9337808011019604e-10], "tokens_in": 244, "tokens_out": 427, "forced": false, "think_chars": 1913}
+{"task": "mnli", "idx": 407, "label": 1, "probs": [5.315784790127509e-08, 0.9999998807907104, 1.8370860388472465e-08], "tokens_in": 145, "tokens_out": 496, "forced": false, "think_chars": 1991}
+{"task": "boolq", "idx": 96, "label": 0, "probs": [1.0, 2.510999053129126e-08], "tokens_in": 181, "tokens_out": 254, "forced": false, "think_chars": 909}
+{"task": "coherence", "idx": 893, "label": 1, "probs": [1.7456046330632802e-10, 1.0, 1.5893911187170318e-10, 4.895668870297243e-10], "tokens_in": 244, "tokens_out": 472, "forced": false, "think_chars": 2245}
+{"task": "coherence", "idx": 791, "label": 1, "probs": [1.573710259328287e-11, 1.0, 9.056077415747765e-11, 9.736200734522527e-10], "tokens_in": 240, "tokens_out": 497, "forced": false, "think_chars": 2411}
+{"task": "coherence", "idx": 777, "label": 3, "probs": [6.075525220694544e-07, 6.884471872581344e-07, 0.998673677444458, 0.0013250206829980016], "tokens_in": 244, "tokens_out": 1042, "forced": true, "think_chars": 4979}
+{"task": "coherence", "idx": 830, "label": 0, "probs": [1.0, 7.99195987166712e-11, 3.063631570654479e-10, 5.847042988671447e-11], "tokens_in": 242, "tokens_out": 488, "forced": false, "think_chars": 2308}
+{"task": "yelp", "idx": 687, "label": 4, "probs": [4.993717439560896e-08, 2.0816910861753968e-08, 5.315784790127509e-08, 0.9999998807907104, 5.658623436488597e-08], "tokens_in": 160, "tokens_out": 660, "forced": false, "think_chars": 2718}
+{"task": "coherence", "idx": 770, "label": 3, "probs": [1.783247334519178e-11, 1.8010158642223217e-10, 1.4026325934057837e-10, 1.0], "tokens_in": 237, "tokens_out": 343, "forced": false, "think_chars": 1543}
+{"task": "yelp", "idx": 606, "label": 1, "probs": [0.9999995231628418, 4.450850212833757e-07, 2.9989595251578294e-09, 5.263337765626375e-09, 1.725782006190002e-08], "tokens_in": 177, "tokens_out": 358, "forced": false, "think_chars": 1388}
+{"task": "coherence", "idx": 896, "label": 2, "probs": [7.658115031006218e-09, 1.9362746961348876e-09, 1.0, 1.7556005260654928e-11], "tokens_in": 246, "tokens_out": 537, "forced": false, "think_chars": 2515}
+{"task": "mnli", "idx": 392, "label": 1, "probs": [1.6212228004519602e-08, 1.0, 3.192377251437506e-09], "tokens_in": 137, "tokens_out": 489, "forced": false, "think_chars": 2271}
+{"task": "coherence", "idx": 826, "label": 2, "probs": [7.658115031006218e-09, 8.592166977905435e-10, 1.0, 2.0525052144004796e-11], "tokens_in": 243, "tokens_out": 649, "forced": false, "think_chars": 2962}
+{"task": "coherence", "idx": 794, "label": 1, "probs": [9.43664812957934e-10, 1.0, 3.3315444153414475e-11, 7.582560135332983e-10], "tokens_in": 244, "tokens_out": 523, "forced": false, "think_chars": 2428}
+{"task": "yelp", "idx": 651, "label": 4, "probs": [3.6534796521436874e-08, 2.8453328582145332e-08, 5.315781592685198e-08, 6.475947884609923e-07, 0.9999992847442627], "tokens_in": 167, "tokens_out": 272, "forced": false, "think_chars": 1072}
+{"task": "boolq", "idx": 129, "label": 1, "probs": [3.432128892200126e-08, 1.0], "tokens_in": 117, "tokens_out": 348, "forced": false, "think_chars": 1452}
+{"task": "coherence", "idx": 804, "label": 3, "probs": [3.192377251437506e-09, 6.758262394157555e-09, 2.061153470123145e-09, 1.0], "tokens_in": 243, "tokens_out": 464, "forced": false, "think_chars": 2179}
+{"task": "yelp", "idx": 630, "label": 2, "probs": [6.758262394157555e-09, 6.092758519926633e-10, 1.0, 2.8172628674383304e-09, 1.1744099026600452e-09], "tokens_in": 159, "tokens_out": 399, "forced": false, "think_chars": 1772}
+{"task": "coherence", "idx": 750, "label": 1, "probs": [1.7556005260654928e-11, 1.0, 1.4026325934057837e-10, 3.471549159250742e-10], "tokens_in": 239, "tokens_out": 433, "forced": false, "think_chars": 2101}
+{"task": "yelp", "idx": 657, "label": 2, "probs": [4.363462480228009e-09, 1.50797219156118e-09, 1.0, 2.539839727422333e-10, 2.646573848963385e-09], "tokens_in": 162, "tokens_out": 472, "forced": false, "think_chars": 1963}
+{"task": "coherence", "idx": 886, "label": 1, "probs": [1.50797219156118e-09, 1.0, 5.547519665860534e-10, 4.099093509069007e-09], "tokens_in": 247, "tokens_out": 674, "forced": false, "think_chars": 3159}
+{"task": "coherence", "idx": 764, "label": 1, "probs": [1.0587626608771217e-10, 1.0, 2.080448660568557e-12, 1.211689748537026e-09], "tokens_in": 241, "tokens_out": 496, "forced": false, "think_chars": 2184}
+{"task": "coherence", "idx": 797, "label": 0, "probs": [1.0, 3.581747953784742e-10, 1.0320643645256311e-11, 1.493094675675266e-10], "tokens_in": 246, "tokens_out": 503, "forced": false, "think_chars": 2305}
+{"task": "coherence", "idx": 884, "label": 1, "probs": [1.7456046330632802e-10, 1.0, 2.0481942964584166e-12, 2.9693733583080473e-10], "tokens_in": 245, "tokens_out": 492, "forced": false, "think_chars": 2126}
+{"task": "boolq", "idx": 123, "label": 0, "probs": [0.9999983310699463, 1.6536896509933285e-06], "tokens_in": 104, "tokens_out": 180, "forced": false, "think_chars": 828}
+{"task": "mnli", "idx": 307, "label": 0, "probs": [1.0, 4.363462480228009e-09, 9.736200734522527e-10], "tokens_in": 147, "tokens_out": 322, "forced": false, "think_chars": 1397}
+{"task": "yelp", "idx": 638, "label": 1, "probs": [3.6174372386454934e-09, 4.457557378767518e-10, 1.0, 5.905304023556823e-10, 3.6954450610693357e-10], "tokens_in": 159, "tokens_out": 365, "forced": false, "think_chars": 1385}
+{"task": "mnli", "idx": 409, "label": 0, "probs": [1.0, 3.6534821390432626e-08, 1.9362746961348876e-09], "tokens_in": 147, "tokens_out": 488, "forced": false, "think_chars": 2004}
+{"task": "coherence", "idx": 840, "label": 0, "probs": [1.0, 1.1744099026600452e-09, 3.063631570654479e-10, 2.2414005373949664e-10], "tokens_in": 243, "tokens_out": 484, "forced": false, "think_chars": 2142}
+{"task": "coherence", "idx": 897, "label": 2, "probs": [4.457557378767518e-10, 3.16088155649652e-10, 1.0, 8.966731003534623e-12], "tokens_in": 242, "tokens_out": 466, "forced": false, "think_chars": 2053}
+{"task": "mnli", "idx": 401, "label": 1, "probs": [1.0677028967620572e-06, 0.999998927116394, 9.736190742515305e-10], "tokens_in": 128, "tokens_out": 561, "forced": false, "think_chars": 2640}
+{"task": "boolq", "idx": 130, "label": 0, "probs": [0.9999998807907104, 1.1253527532062435e-07], "tokens_in": 115, "tokens_out": 223, "forced": false, "think_chars": 838}
+{"task": "mnli", "idx": 314, "label": 2, "probs": [1.209864649354131e-06, 0.9999979734420776, 7.811473778929212e-07], "tokens_in": 130, "tokens_out": 686, "forced": false, "think_chars": 2843}
+{"task": "mnli", "idx": 389, "label": 2, "probs": [1.9780291293791663e-10, 3.2612185174585306e-10, 1.0], "tokens_in": 139, "tokens_out": 341, "forced": false, "think_chars": 1436}
+{"task": "coherence", "idx": 813, "label": 1, "probs": [3.028842598951087e-08, 0.9999998807907104, 7.734421103577915e-08, 9.833213354681902e-09], "tokens_in": 242, "tokens_out": 776, "forced": false, "think_chars": 3323}
+{"task": "coherence", "idx": 855, "label": 2, "probs": [5.37684063939281e-10, 5.37684063939281e-10, 1.0, 4.018610097467068e-11], "tokens_in": 243, "tokens_out": 447, "forced": false, "think_chars": 2045}
+{"task": "coherence", "idx": 883, "label": 0, "probs": [0.9999998807907104, 1.5381733931008057e-07, 2.5398394498665766e-10, 8.071592838554409e-10], "tokens_in": 242, "tokens_out": 319, "forced": false, "think_chars": 1399}
+{"task": "coherence", "idx": 761, "label": 0, "probs": [1.0, 1.3176514046531196e-10, 1.359478224438604e-10, 2.940077695190446e-11], "tokens_in": 240, "tokens_out": 345, "forced": false, "think_chars": 1670}
+{"task": "coherence", "idx": 801, "label": 0, "probs": [1.0, 1.0461153427884784e-12, 8.507396870305328e-11, 3.229043421537625e-11], "tokens_in": 244, "tokens_out": 552, "forced": false, "think_chars": 2412}
+{"task": "boolq", "idx": 25, "label": 0, "probs": [8.67778116031559e-09, 1.0], "tokens_in": 116, "tokens_out": 248, "forced": false, "think_chars": 999}
+{"task": "boolq", "idx": 116, "label": 0, "probs": [0.9999990463256836, 9.422445828022319e-07], "tokens_in": 104, "tokens_out": 158, "forced": false, "think_chars": 625}
+{"task": "mnli", "idx": 301, "label": 1, "probs": [1.2751903000207676e-07, 0.9999997615814209, 1.1979304304077232e-07], "tokens_in": 134, "tokens_out": 657, "forced": false, "think_chars": 2945}
+{"task": "coherence", "idx": 848, "label": 0, "probs": [1.0, 3.850741947530878e-09, 2.998960857425459e-09, 1.6052279505629485e-09], "tokens_in": 242, "tokens_out": 572, "forced": false, "think_chars": 2640}
+{"task": "coherence", "idx": 852, "label": 1, "probs": [1.7087563586315468e-09, 1.0, 1.3460657068142812e-11, 1.8189616479702408e-09], "tokens_in": 240, "tokens_out": 538, "forced": false, "think_chars": 2542}
+{"task": "mnli", "idx": 390, "label": 2, "probs": [1.0, 4.363462480228009e-09, 4.94445018262013e-09], "tokens_in": 133, "tokens_out": 488, "forced": false, "think_chars": 2301}
+{"task": "mnli", "idx": 410, "label": 1, "probs": [1.1861120086109622e-08, 1.0, 1.8189616479702408e-09], "tokens_in": 129, "tokens_out": 423, "forced": false, "think_chars": 1839}
+{"task": "yelp", "idx": 600, "label": 3, "probs": [2.539839727422333e-10, 5.905304023556823e-10, 8.777450988262103e-11, 6.348800152267131e-09, 1.0], "tokens_in": 139, "tokens_out": 305, "forced": false, "think_chars": 1249}
+{"task": "mnli", "idx": 395, "label": 2, "probs": [2.486225669784403e-09, 1.199735311097072e-10, 1.0], "tokens_in": 129, "tokens_out": 375, "forced": false, "think_chars": 1593}
+{"task": "yelp", "idx": 632, "label": 2, "probs": [1.8370862164829305e-08, 1.359478224438604e-10, 1.0, 1.0364131775020269e-09, 1.85818638254176e-10], "tokens_in": 145, "tokens_out": 407, "forced": false, "think_chars": 1732}
+{"task": "yelp", "idx": 739, "label": 3, "probs": [3.3982643365959575e-09, 4.3634575952467e-09, 3.850737950727989e-09, 1.0677028967620572e-06, 0.999998927116394], "tokens_in": 146, "tokens_out": 327, "forced": false, "think_chars": 1288}
+{"task": "mnli", "idx": 388, "label": 1, "probs": [5.602796449011294e-09, 1.0, 2.061153470123145e-09], "tokens_in": 131, "tokens_out": 442, "forced": false, "think_chars": 1949}
+{"task": "mnli", "idx": 440, "label": 0, "probs": [4.993718150103632e-08, 1.0, 9.23744991609965e-09], "tokens_in": 144, "tokens_out": 509, "forced": false, "think_chars": 2258}
+{"task": "coherence", "idx": 892, "label": 3, "probs": [2.020683967374204e-11, 5.1599970823934527e-11, 1.1878988244451438e-11, 1.0], "tokens_in": 247, "tokens_out": 472, "forced": false, "think_chars": 2051}
+{"task": "coherence", "idx": 839, "label": 3, "probs": [3.917274490894407e-12, 1.6752058074054332e-11, 3.8127509482954736e-10, 1.0], "tokens_in": 244, "tokens_out": 401, "forced": false, "think_chars": 1884}
+{"task": "coherence", "idx": 862, "label": 1, "probs": [2.9110711237401166e-12, 1.0, 1.5252922189179507e-11, 1.6918980105806725e-10], "tokens_in": 242, "tokens_out": 452, "forced": false, "think_chars": 2023}
+{"task": "coherence", "idx": 762, "label": 0, "probs": [1.0, 5.905304023556823e-10, 1.199735311097072e-10, 3.2612185174585306e-10], "tokens_in": 247, "tokens_out": 520, "forced": false, "think_chars": 2259}
+{"task": "mnli", "idx": 391, "label": 0, "probs": [1.0, 9.23744991609965e-09, 5.602796449011294e-09], "tokens_in": 128, "tokens_out": 343, "forced": false, "think_chars": 1568}
+{"task": "coherence", "idx": 765, "label": 3, "probs": [9.056077415747765e-11, 1.0923714710564525e-10, 4.2777878461741636e-11, 1.0], "tokens_in": 242, "tokens_out": 561, "forced": false, "think_chars": 2473}
+{"task": "coherence", "idx": 877, "label": 2, "probs": [5.964145621817352e-09, 4.6448813684207835e-09, 1.0, 4.302284223323127e-12], "tokens_in": 245, "tokens_out": 481, "forced": false, "think_chars": 2104}
+{"task": "mnli", "idx": 368, "label": 2, "probs": [3.364740708278191e-10, 1.6398438162923412e-10, 1.0], "tokens_in": 129, "tokens_out": 362, "forced": false, "think_chars": 1413}
+{"task": "boolq", "idx": 124, "label": 0, "probs": [0.9999985694885254, 1.370957193103095e-06], "tokens_in": 117, "tokens_out": 259, "forced": false, "think_chars": 977}
+{"task": "coherence", "idx": 874, "label": 2, "probs": [5.964145621817352e-09, 4.895668870297243e-10, 1.0, 7.507751365043447e-11], "tokens_in": 244, "tokens_out": 605, "forced": false, "think_chars": 2453}
+{"task": "mnli", "idx": 354, "label": 2, "probs": [5.36874949830235e-07, 0.9999994039535522, 3.1923752530360616e-09], "tokens_in": 129, "tokens_out": 456, "forced": false, "think_chars": 2043}
+{"task": "boolq", "idx": 114, "label": 0, "probs": [0.9999995231628418, 5.043474402555148e-07], "tokens_in": 127, "tokens_out": 394, "forced": false, "think_chars": 1605}
+{"task": "mnli", "idx": 434, "label": 0, "probs": [1.0, 6.904000149354772e-10, 8.071593948777434e-10], "tokens_in": 118, "tokens_out": 321, "forced": false, "think_chars": 1480}
+{"task": "mnli", "idx": 421, "label": 0, "probs": [1.0, 4.1874875789105204e-10, 2.9693733583080473e-10], "tokens_in": 131, "tokens_out": 436, "forced": false, "think_chars": 1709}
+{"task": "coherence", "idx": 837, "label": 3, "probs": [2.2380262976184895e-07, 6.893606041558087e-07, 3.6898813959851395e-07, 0.9999986886978149], "tokens_in": 246, "tokens_out": 965, "forced": false, "think_chars": 4150}
+{"task": "yelp", "idx": 631, "label": 4, "probs": [2.9693733583080473e-10, 7.349269526280011e-10, 2.2414005373949664e-10, 1.9555681518568235e-08, 1.0], "tokens_in": 142, "tokens_out": 264, "forced": false, "think_chars": 984}
+{"task": "coherence", "idx": 784, "label": 1, "probs": [2.703645085588846e-10, 1.0, 1.811329211620638e-11, 5.547519665860534e-10], "tokens_in": 234, "tokens_out": 427, "forced": false, "think_chars": 1878}
+{"task": "coherence", "idx": 769, "label": 3, "probs": [4.745044912546348e-10, 4.406940945500537e-08, 1.1032560420787263e-09, 1.0], "tokens_in": 245, "tokens_out": 488, "forced": false, "think_chars": 1979}
+{"task": "mnli", "idx": 374, "label": 1, "probs": [1.0, 1.8370862164829305e-08, 5.6586241470313325e-08], "tokens_in": 124, "tokens_out": 630, "forced": false, "think_chars": 2896}
+{"task": "mnli", "idx": 443, "label": 0, "probs": [1.0, 3.581747953784742e-10, 9.056077415747765e-11], "tokens_in": 114, "tokens_out": 283, "forced": false, "think_chars": 1243}
+{"task": "yelp", "idx": 658, "label": 1, "probs": [0.9999979734420776, 1.9947297005273867e-06, 8.152003516670447e-09, 8.152003516670447e-09, 3.653474678344537e-08], "tokens_in": 134, "tokens_out": 337, "forced": false, "think_chars": 1347}
+{"task": "mnli", "idx": 418, "label": 0, "probs": [1.0, 1.1032560420787263e-09, 2.061153470123145e-09], "tokens_in": 121, "tokens_out": 410, "forced": false, "think_chars": 1819}
+{"task": "mnli", "idx": 432, "label": 1, "probs": [1.2626097500856304e-08, 1.0, 2.8453348122070565e-08], "tokens_in": 122, "tokens_out": 453, "forced": false, "think_chars": 2057}
+{"task": "yelp", "idx": 742, "label": 3, "probs": [4.6448813684207835e-09, 3.063631570654479e-10, 1.0, 4.457557378767518e-10, 4.745044912546348e-10], "tokens_in": 133, "tokens_out": 375, "forced": false, "think_chars": 1567}
+{"task": "mnli", "idx": 441, "label": 0, "probs": [5.715004363082699e-07, 0.9999994039535522, 4.3634598156927495e-09], "tokens_in": 123, "tokens_out": 566, "forced": false, "think_chars": 2490}
+{"task": "yelp", "idx": 679, "label": 0, "probs": [0.9999998807907104, 1.7429786680622783e-07, 8.864909362138462e-10, 1.0364130664797244e-09, 5.602795560832874e-09], "tokens_in": 137, "tokens_out": 330, "forced": false, "think_chars": 1334}
+{"task": "boolq", "idx": 105, "label": 0, "probs": [0.9999992847442627, 7.338210252783028e-07], "tokens_in": 110, "tokens_out": 299, "forced": false, "think_chars": 1247}
+{"task": "mnli", "idx": 335, "label": 0, "probs": [1.0, 2.620462735691831e-10, 1.2378190139550327e-10], "tokens_in": 130, "tokens_out": 455, "forced": false, "think_chars": 1764}
+{"task": "coherence", "idx": 870, "label": 3, "probs": [4.363462480228009e-09, 2.335593052293916e-09, 1.493094675675266e-10, 1.0], "tokens_in": 239, "tokens_out": 811, "forced": false, "think_chars": 3285}
+{"task": "mnli", "idx": 344, "label": 1, "probs": [1.855391076333035e-07, 0.9999997615814209, 2.2159484913686356e-08], "tokens_in": 125, "tokens_out": 469, "forced": false, "think_chars": 1858}
+{"task": "mnli", "idx": 349, "label": 1, "probs": [3.432128892200126e-08, 1.0, 2.2159490242756874e-08], "tokens_in": 137, "tokens_out": 459, "forced": false, "think_chars": 1748}
+{"task": "mnli", "idx": 431, "label": 0, "probs": [1.0, 2.539839727422333e-10, 6.835885330014335e-11], "tokens_in": 126, "tokens_out": 325, "forced": false, "think_chars": 1329}
+{"task": "mnli", "idx": 438, "label": 0, "probs": [2.3588654585182667e-08, 1.9362746961348876e-09, 1.0], "tokens_in": 124, "tokens_out": 523, "forced": false, "think_chars": 1655}
+{"task": "mnli", "idx": 331, "label": 2, "probs": [4.691163724146463e-08, 0.9999998807907104, 1.9555679742211396e-08], "tokens_in": 113, "tokens_out": 405, "forced": false, "think_chars": 1845}
+{"task": "mnli", "idx": 303, "label": 1, "probs": [3.192377251437506e-09, 1.0, 8.152020392060422e-09], "tokens_in": 122, "tokens_out": 419, "forced": false, "think_chars": 1818}
+{"task": "mnli", "idx": 356, "label": 0, "probs": [4.785072178492555e-06, 0.9999904632568359, 4.785072178492555e-06], "tokens_in": 120, "tokens_out": 611, "forced": false, "think_chars": 2462}
+{"task": "mnli", "idx": 405, "label": 0, "probs": [1.0, 2.335593052293916e-09, 2.1724398668876432e-10], "tokens_in": 132, "tokens_out": 355, "forced": false, "think_chars": 1346}
+{"task": "mnli", "idx": 396, "label": 0, "probs": [1.0, 4.895668870297243e-10, 4.895668870297243e-10], "tokens_in": 130, "tokens_out": 356, "forced": false, "think_chars": 1329}
+{"task": "mnli", "idx": 449, "label": 2, "probs": [1.0261879540562902e-10, 6.092758519926633e-10, 1.0], "tokens_in": 119, "tokens_out": 277, "forced": false, "think_chars": 1145}
+{"task": "mnli", "idx": 352, "label": 2, "probs": [1.8010158642223217e-10, 6.835885330014335e-11, 1.0], "tokens_in": 114, "tokens_out": 329, "forced": false, "think_chars": 1404}
+{"task": "yelp", "idx": 663, "label": 4, "probs": [5.964144733638932e-09, 2.998960413336249e-09, 2.335592830249311e-09, 1.6373769540223293e-07, 0.9999998807907104], "tokens_in": 129, "tokens_out": 226, "forced": false, "think_chars": 962}
+{"task": "yelp", "idx": 665, "label": 2, "probs": [0.9999994039535522, 6.083590733396704e-07, 3.398265890908192e-09, 4.944447073995661e-09, 1.6212219122735405e-08], "tokens_in": 132, "tokens_out": 376, "forced": false, "think_chars": 1526}
+{"task": "yelp", "idx": 733, "label": 0, "probs": [1.0, 3.6174372386454934e-09, 6.224144116773189e-11, 5.723617135799941e-10, 1.9362746961348876e-09], "tokens_in": 131, "tokens_out": 340, "forced": false, "think_chars": 1226}
+{"task": "yelp", "idx": 734, "label": 2, "probs": [8.152020392060422e-09, 3.9337808011019604e-10, 1.0, 9.736200734522527e-10, 4.099093509069007e-09], "tokens_in": 133, "tokens_out": 410, "forced": false, "think_chars": 1587}
+{"task": "mnli", "idx": 422, "label": 2, "probs": [3.16088155649652e-10, 2.3859586528729437e-10, 1.0], "tokens_in": 121, "tokens_out": 399, "forced": false, "think_chars": 1535}
+{"task": "yelp", "idx": 691, "label": 4, "probs": [1.507971969516575e-09, 2.06115324807854e-09, 1.5893909799391537e-10, 1.6373769540223293e-07, 0.9999998807907104], "tokens_in": 131, "tokens_out": 248, "forced": false, "think_chars": 975}
+{"task": "mnli", "idx": 329, "label": 2, "probs": [5.051074558615198e-10, 3.8127509482954736e-10, 1.0], "tokens_in": 112, "tokens_out": 295, "forced": false, "think_chars": 1281}
+{"task": "csqa", "idx": 502, "label": 1, "probs": [9.833214242860322e-09, 1.0, 1.0467402056235642e-08, 2.0816912638110807e-08, 8.152020392060422e-09], "tokens_in": 103, "tokens_out": 357, "forced": false, "think_chars": 1658}
+{"task": "mnli", "idx": 370, "label": 0, "probs": [1.4593756532121915e-06, 0.9999980926513672, 4.1811810547187633e-07], "tokens_in": 123, "tokens_out": 672, "forced": false, "think_chars": 2922}
+{"task": "mnli", "idx": 373, "label": 0, "probs": [1.0, 2.061153470123145e-09, 6.691586174056852e-10], "tokens_in": 115, "tokens_out": 336, "forced": false, "think_chars": 1378}
+{"task": "mnli", "idx": 398, "label": 2, "probs": [1.8189616479702408e-09, 1.9780291293791663e-10, 1.0], "tokens_in": 110, "tokens_out": 392, "forced": false, "think_chars": 1689}
+{"task": "mnli", "idx": 330, "label": 2, "probs": [1.2501528701136522e-09, 1.7087563586315468e-09, 1.0], "tokens_in": 116, "tokens_out": 359, "forced": false, "think_chars": 1504}
+{"task": "boolq", "idx": 88, "label": 1, "probs": [8.315280410897685e-07, 0.9999991655349731], "tokens_in": 89, "tokens_out": 637, "forced": false, "think_chars": 2602}
+{"task": "coherence", "idx": 755, "label": 1, "probs": [2.8496210599526783e-11, 1.0, 3.129696501957824e-11, 4.146174029107108e-11], "tokens_in": 231, "tokens_out": 420, "forced": false, "think_chars": 1726}
+{"task": "mnli", "idx": 399, "label": 1, "probs": [2.8736849344568327e-07, 0.9999996423721313, 7.734418971949708e-08], "tokens_in": 117, "tokens_out": 516, "forced": false, "think_chars": 2286}
+{"task": "mnli", "idx": 353, "label": 1, "probs": [1.8370860388472465e-08, 0.9999998807907104, 5.315784790127509e-08], "tokens_in": 114, "tokens_out": 427, "forced": false, "think_chars": 1686}
+{"task": "boolq", "idx": 30, "label": 0, "probs": [1.0, 3.028842954222455e-08], "tokens_in": 90, "tokens_out": 298, "forced": false, "think_chars": 1067}
+{"task": "mnli", "idx": 448, "label": 2, "probs": [4.895668870297243e-10, 4.1874875789105204e-10, 1.0], "tokens_in": 115, "tokens_out": 346, "forced": false, "think_chars": 1364}
+{"task": "coherence", "idx": 836, "label": 2, "probs": [4.993717439560896e-08, 8.764247638737288e-08, 0.9999998807907104, 1.0693123053684417e-09], "tokens_in": 237, "tokens_out": 561, "forced": false, "think_chars": 2202}
+{"task": "boolq", "idx": 66, "label": 0, "probs": [0.9999997615814209, 2.1024332852448424e-07], "tokens_in": 82, "tokens_out": 171, "forced": false, "think_chars": 682}
+{"task": "yelp", "idx": 713, "label": 4, "probs": [9.931166289334215e-08, 1.4449761920332094e-07, 2.406101202723221e-06, 0.9999971389770508, 2.5360120048389945e-07], "tokens_in": 122, "tokens_out": 340, "forced": false, "think_chars": 1497}
+{"task": "yelp", "idx": 737, "label": 4, "probs": [2.061153470123145e-09, 2.646573848963385e-09, 1.6052279505629485e-09, 1.6212228004519602e-08, 1.0], "tokens_in": 128, "tokens_out": 317, "forced": false, "think_chars": 1185}
+{"task": "yelp", "idx": 711, "label": 4, "probs": [1.1744099026600452e-09, 7.823256487071717e-10, 6.5602007333354084e-12, 2.8453348122070565e-08, 1.0], "tokens_in": 121, "tokens_out": 261, "forced": false, "think_chars": 1000}
+{"task": "mnli", "idx": 437, "label": 1, "probs": [1.0, 2.646573848963385e-09, 2.8172628674383304e-09], "tokens_in": 114, "tokens_out": 429, "forced": false, "think_chars": 1729}
+{"task": "boolq", "idx": 8, "label": 0, "probs": [0.9999990463256836, 9.422445828022319e-07], "tokens_in": 76, "tokens_out": 182, "forced": false, "think_chars": 826}
+{"task": "mnli", "idx": 372, "label": 2, "probs": [1.1861120086109622e-08, 1.0, 3.224186784223093e-08], "tokens_in": 111, "tokens_out": 416, "forced": false, "think_chars": 1679}
+{"task": "csqa", "idx": 494, "label": 1, "probs": [2.5109939016942917e-08, 0.9999979734420776, 6.825590048720187e-08, 1.5381704088213155e-07, 1.760342797751946e-06], "tokens_in": 89, "tokens_out": 424, "forced": false, "think_chars": 1826}
+{"task": "yelp", "idx": 741, "label": 1, "probs": [7.194133289090132e-09, 1.1861120086109622e-08, 7.194133289090132e-09, 1.0, 8.67778116031559e-09], "tokens_in": 122, "tokens_out": 223, "forced": false, "think_chars": 891}
+{"task": "sst2", "idx": 271, "label": 1, "probs": [9.23744991609965e-09, 1.0], "tokens_in": 81, "tokens_out": 237, "forced": false, "think_chars": 991}
+{"task": "mnli", "idx": 402, "label": 1, "probs": [1.0, 3.432128892200126e-08, 4.94445018262013e-09], "tokens_in": 106, "tokens_out": 593, "forced": false, "think_chars": 2739}
+{"task": "boolq", "idx": 55, "label": 1, "probs": [2.1724398668876432e-10, 1.0], "tokens_in": 83, "tokens_out": 296, "forced": false, "think_chars": 1121}
+{"task": "mnli", "idx": 313, "label": 1, "probs": [6.758262394157555e-09, 1.0, 5.602796449011294e-09], "tokens_in": 110, "tokens_out": 366, "forced": false, "think_chars": 1518}
+{"task": "sst2", "idx": 172, "label": 0, "probs": [0.9999998807907104, 1.7429786680622783e-07], "tokens_in": 79, "tokens_out": 185, "forced": false, "think_chars": 795}
+{"task": "sst2", "idx": 239, "label": 1, "probs": [3.192377251437506e-09, 1.0], "tokens_in": 76, "tokens_out": 252, "forced": false, "think_chars": 1079}
+{"task": "mnli", "idx": 416, "label": 1, "probs": [3.2563119134465524e-07, 0.9999995231628418, 1.197930146190629e-07], "tokens_in": 114, "tokens_out": 336, "forced": false, "think_chars": 1458}
+{"task": "csqa", "idx": 521, "label": 0, "probs": [3.16088155649652e-10, 4.099093509069007e-09, 1.2626097500856304e-08, 1.0, 4.94445018262013e-09], "tokens_in": 101, "tokens_out": 401, "forced": false, "think_chars": 1651}
+{"task": "sst2", "idx": 275, "label": 0, "probs": [9.931193289958173e-08, 0.9999998807907104], "tokens_in": 69, "tokens_out": 294, "forced": false, "think_chars": 1359}
+{"task": "csqa", "idx": 529, "label": 1, "probs": [3.850741947530878e-09, 1.0, 1.1861120086109622e-08, 1.8370862164829305e-08, 6.758262394157555e-09], "tokens_in": 88, "tokens_out": 315, "forced": false, "think_chars": 1407}
+{"task": "yelp", "idx": 634, "label": 4, "probs": [9.146313151298102e-10, 2.998960857425459e-09, 2.8172628674383304e-09, 3.432128892200126e-08, 1.0], "tokens_in": 115, "tokens_out": 243, "forced": false, "think_chars": 943}
+{"task": "boolq", "idx": 61, "label": 1, "probs": [3.2612185174585306e-10, 1.0], "tokens_in": 83, "tokens_out": 353, "forced": false, "think_chars": 1469}
+{"task": "mnli", "idx": 302, "label": 2, "probs": [3.689884806590271e-07, 1.1142486933124474e-08, 0.9999996423721313], "tokens_in": 104, "tokens_out": 361, "forced": false, "think_chars": 1606}
+{"task": "mnli", "idx": 363, "label": 2, "probs": [5.547519665860534e-10, 1.359478224438604e-10, 1.0], "tokens_in": 105, "tokens_out": 411, "forced": false, "think_chars": 1594}
+{"task": "boolq", "idx": 68, "label": 1, "probs": [3.028842954222455e-08, 1.0], "tokens_in": 76, "tokens_out": 241, "forced": false, "think_chars": 1000}
+{"task": "mnli", "idx": 321, "label": 0, "probs": [1.0, 9.833214242860322e-09, 7.658115031006218e-09], "tokens_in": 105, "tokens_out": 422, "forced": false, "think_chars": 1863}
+{"task": "csqa", "idx": 500, "label": 3, "probs": [1.507971969516575e-09, 5.263339986072424e-09, 4.9444497385309205e-09, 0.9999998807907104, 5.315784790127509e-08], "tokens_in": 88, "tokens_out": 255, "forced": false, "think_chars": 1051}
+{"task": "csqa", "idx": 535, "label": 3, "probs": [3.850741947530878e-09, 4.6448813684207835e-09, 1.8189616479702408e-09, 1.0, 3.850741947530878e-09], "tokens_in": 86, "tokens_out": 350, "forced": false, "think_chars": 1496}
+{"task": "sst2", "idx": 202, "label": 1, "probs": [0.9999988079071045, 1.2098656725356705e-06], "tokens_in": 72, "tokens_out": 182, "forced": false, "think_chars": 763}
+{"task": "mnli", "idx": 439, "label": 0, "probs": [5.71500379464851e-07, 0.9999992847442627, 1.855390223681752e-07], "tokens_in": 103, "tokens_out": 928, "forced": false, "think_chars": 3762}
+{"task": "csqa", "idx": 590, "label": 3, "probs": [5.263340430161634e-09, 2.8453348122070565e-08, 3.6174372386454934e-09, 1.0, 1.1142490485838152e-08], "tokens_in": 112, "tokens_out": 303, "forced": false, "think_chars": 1297}
+{"task": "mnli", "idx": 364, "label": 0, "probs": [1.5381733931008057e-07, 0.9999998807907104, 1.3440407897746809e-08], "tokens_in": 111, "tokens_out": 546, "forced": false, "think_chars": 2269}
+{"task": "yelp", "idx": 664, "label": 3, "probs": [1.837084973033143e-08, 1.4307230955523664e-08, 3.0288408225942476e-08, 7.338210252783028e-07, 0.9999992847442627], "tokens_in": 110, "tokens_out": 266, "forced": false, "think_chars": 1114}
+{"task": "csqa", "idx": 570, "label": 4, "probs": [3.6174372386454934e-09, 4.94445018262013e-09, 9.736200734522527e-10, 2.646573848963385e-09, 1.0], "tokens_in": 87, "tokens_out": 237, "forced": false, "think_chars": 906}
+{"task": "csqa", "idx": 467, "label": 3, "probs": [1.7429778154109954e-07, 7.734417550864237e-08, 6.825599285775752e-08, 0.9999994039535522, 2.2380280029210553e-07], "tokens_in": 81, "tokens_out": 368, "forced": false, "think_chars": 1595}
+{"task": "yelp", "idx": 698, "label": 4, "probs": [8.071593948777434e-10, 1.3307807078533074e-09, 2.9693733583080473e-10, 1.1861120086109622e-08, 1.0], "tokens_in": 106, "tokens_out": 250, "forced": false, "think_chars": 987}
+{"task": "csqa", "idx": 568, "label": 2, "probs": [1.8370862164829305e-08, 3.028842954222455e-08, 1.0, 3.9337808011019604e-10, 2.8172628674383304e-09], "tokens_in": 81, "tokens_out": 322, "forced": false, "think_chars": 1424}
+{"task": "mnli", "idx": 377, "label": 1, "probs": [7.734421103577915e-08, 0.9999998807907104, 1.3440407897746809e-08], "tokens_in": 102, "tokens_out": 601, "forced": false, "think_chars": 2744}
+{"task": "csqa", "idx": 579, "label": 1, "probs": [2.672940269121682e-08, 1.2878947472927393e-06, 1.1861100546184389e-08, 0.9999983310699463, 2.873681239634607e-07], "tokens_in": 86, "tokens_out": 328, "forced": false, "think_chars": 1354}
+{"task": "yelp", "idx": 628, "label": 3, "probs": [3.3982678893096363e-09, 1.5229980832032197e-08, 6.348800152267131e-09, 1.1861120086109622e-08, 1.0], "tokens_in": 105, "tokens_out": 289, "forced": false, "think_chars": 1175}
+{"task": "csqa", "idx": 555, "label": 3, "probs": [4.1874875789105204e-10, 1.8189616479702408e-09, 1.0364131775020269e-09, 1.0, 1.5558403454463132e-09], "tokens_in": 82, "tokens_out": 313, "forced": false, "think_chars": 1389}
+{"task": "csqa", "idx": 563, "label": 0, "probs": [1.0, 6.348800152267131e-09, 4.94445018262013e-09, 1.4166087192180044e-09, 2.2159490242756874e-08], "tokens_in": 83, "tokens_out": 299, "forced": false, "think_chars": 1333}
+{"task": "sst2", "idx": 175, "label": 0, "probs": [0.9999995231628418, 4.1811870232777437e-07], "tokens_in": 69, "tokens_out": 196, "forced": false, "think_chars": 777}
+{"task": "csqa", "idx": 524, "label": 0, "probs": [0.9999988079071045, 3.466323335032939e-07, 1.3440393686892094e-08, 6.348792602750564e-09, 7.811480600139475e-07], "tokens_in": 78, "tokens_out": 328, "forced": false, "think_chars": 1466}
+{"task": "csqa", "idx": 576, "label": 2, "probs": [2.3588654585182667e-08, 2.335593052293916e-09, 1.0, 5.723617135799941e-10, 9.43664812957934e-10], "tokens_in": 80, "tokens_out": 311, "forced": false, "think_chars": 1340}
+{"task": "csqa", "idx": 486, "label": 2, "probs": [6.41206057139243e-08, 7.658114142827799e-09, 0.9999998807907104, 3.812750393183961e-10, 1.5558401234017083e-09], "tokens_in": 83, "tokens_out": 395, "forced": false, "think_chars": 1735}
+{"task": "sst2", "idx": 263, "label": 1, "probs": [1.4166087192180044e-09, 1.0], "tokens_in": 73, "tokens_out": 150, "forced": false, "think_chars": 582}
+{"task": "csqa", "idx": 528, "label": 4, "probs": [2.940075613522275e-11, 5.211408526939465e-10, 8.77744474325759e-11, 7.338210252783028e-07, 0.9999992847442627], "tokens_in": 83, "tokens_out": 292, "forced": false, "think_chars": 1197}
+{"task": "csqa", "idx": 549, "label": 4, "probs": [3.471549159250742e-10, 2.998960857425459e-09, 5.602796449011294e-09, 1.8370862164829305e-08, 1.0], "tokens_in": 77, "tokens_out": 310, "forced": false, "think_chars": 1304}
+{"task": "csqa", "idx": 577, "label": 1, "probs": [5.658587554080441e-08, 0.9999935626983643, 7.265769852438098e-08, 7.734372076129148e-08, 6.144172857602825e-06], "tokens_in": 80, "tokens_out": 508, "forced": false, "think_chars": 2320}
+{"task": "sst2", "idx": 156, "label": 1, "probs": [4.139937814784389e-08, 1.0], "tokens_in": 68, "tokens_out": 315, "forced": false, "think_chars": 1342}
+{"task": "sst2", "idx": 232, "label": 0, "probs": [0.9999983310699463, 1.6536896509933285e-06], "tokens_in": 66, "tokens_out": 205, "forced": false, "think_chars": 832}
+{"task": "sst2", "idx": 242, "label": 1, "probs": [2.2159490242756874e-08, 1.0], "tokens_in": 71, "tokens_out": 472, "forced": false, "think_chars": 1979}
+{"task": "mnli", "idx": 386, "label": 0, "probs": [1.0, 7.194133289090132e-09, 5.547519665860534e-10], "tokens_in": 97, "tokens_out": 271, "forced": false, "think_chars": 1166}
+{"task": "csqa", "idx": 578, "label": 3, "probs": [2.335593052293916e-09, 8.327813993957989e-10, 9.94615431682e-11, 1.0, 9.833214242860322e-09], "tokens_in": 84, "tokens_out": 289, "forced": false, "think_chars": 1302}
+{"task": "sst2", "idx": 166, "label": 0, "probs": [0.9999982118606567, 1.760343138812459e-06], "tokens_in": 68, "tokens_out": 431, "forced": false, "think_chars": 1838}
+{"task": "sst2", "idx": 230, "label": 0, "probs": [0.9999994039535522, 6.475948453044111e-07], "tokens_in": 68, "tokens_out": 209, "forced": false, "think_chars": 876}
+{"task": "sst2", "idx": 243, "label": 0, "probs": [0.9999997615814209, 2.238028713463791e-07], "tokens_in": 70, "tokens_out": 229, "forced": false, "think_chars": 1034}
+{"task": "sst2", "idx": 292, "label": 1, "probs": [0.9999985694885254, 1.370957193103095e-06], "tokens_in": 64, "tokens_out": 199, "forced": false, "think_chars": 858}
+{"task": "csqa", "idx": 491, "label": 4, "probs": [3.850741947530878e-09, 1.211689748537026e-09, 1.0, 1.12704706678457e-10, 4.94445018262013e-09], "tokens_in": 82, "tokens_out": 485, "forced": false, "think_chars": 2320}
+{"task": "csqa", "idx": 514, "label": 1, "probs": [8.67778116031559e-09, 1.0, 6.286163256596922e-10, 1.6052279505629485e-09, 5.964145621817352e-09], "tokens_in": 77, "tokens_out": 346, "forced": false, "think_chars": 1491}
+{"task": "csqa", "idx": 484, "label": 0, "probs": [0.9999998807907104, 2.335592830249311e-09, 8.327812883734964e-10, 3.364740430722435e-10, 1.3574332058396976e-07], "tokens_in": 81, "tokens_out": 301, "forced": false, "think_chars": 1265}
+{"task": "csqa", "idx": 586, "label": 0, "probs": [1.1142490485838152e-08, 1.1142490485838152e-08, 3.6174372386454934e-09, 1.0, 7.194133289090132e-09], "tokens_in": 80, "tokens_out": 308, "forced": false, "think_chars": 1299}
+{"task": "csqa", "idx": 475, "label": 1, "probs": [1.3440409674103648e-08, 1.0, 3.6174372386454934e-09, 2.646573848963385e-09, 1.1861120086109622e-08], "tokens_in": 82, "tokens_out": 278, "forced": false, "think_chars": 1191}
+{"task": "csqa", "idx": 554, "label": 1, "probs": [2.3823682226975507e-07, 0.9999994039535522, 1.6373761013710464e-07, 7.265812485002243e-08, 8.764243375480874e-08], "tokens_in": 82, "tokens_out": 394, "forced": false, "think_chars": 1713}
+{"task": "sst2", "idx": 159, "label": 1, "probs": [5.315785500670245e-08, 1.0], "tokens_in": 66, "tokens_out": 153, "forced": false, "think_chars": 655}
+{"task": "csqa", "idx": 511, "label": 3, "probs": [6.485707526593387e-10, 1.7087563586315468e-09, 2.539839727422333e-10, 1.0, 7.194133289090132e-09], "tokens_in": 80, "tokens_out": 263, "forced": false, "think_chars": 1042}
+{"task": "sst2", "idx": 155, "label": 0, "probs": [0.999995231628418, 4.7850949158601e-06], "tokens_in": 63, "tokens_out": 294, "forced": false, "think_chars": 1313}
+{"task": "csqa", "idx": 588, "label": 3, "probs": [1.9555676189497717e-08, 3.43212818165739e-08, 1.1861117421574363e-08, 0.9999997615814209, 1.9750534363538463e-07], "tokens_in": 78, "tokens_out": 308, "forced": false, "think_chars": 1224}
+{"task": "mnli", "idx": 357, "label": 0, "probs": [0.999998927116394, 8.315278137160931e-07, 2.8736829449371726e-07], "tokens_in": 96, "tokens_out": 1042, "forced": true, "think_chars": 4361}
+{"task": "csqa", "idx": 571, "label": 4, "probs": [1.43072416136647e-08, 7.194133289090132e-09, 1.0, 7.507751365043447e-11, 4.94445018262013e-09], "tokens_in": 73, "tokens_out": 203, "forced": false, "think_chars": 857}
+{"task": "csqa", "idx": 507, "label": 2, "probs": [2.2159490242756874e-08, 1.43072416136647e-08, 1.0, 1.7087563586315468e-09, 8.67778116031559e-09], "tokens_in": 85, "tokens_out": 331, "forced": false, "think_chars": 1370}
+{"task": "mnli", "idx": 426, "label": 0, "probs": [1.3440409674103648e-08, 1.0, 7.194133289090132e-09], "tokens_in": 94, "tokens_out": 502, "forced": false, "think_chars": 1891}
+{"task": "csqa", "idx": 472, "label": 4, "probs": [2.1940846917090084e-09, 1.1032550428780041e-09, 3.581744623115668e-10, 9.422445828022319e-07, 0.9999990463256836], "tokens_in": 79, "tokens_out": 337, "forced": false, "think_chars": 1403}
+{"task": "sst2", "idx": 219, "label": 0, "probs": [0.999998927116394, 1.0677028967620572e-06], "tokens_in": 62, "tokens_out": 143, "forced": false, "think_chars": 578}
+{"task": "mnli", "idx": 339, "label": 2, "probs": [1.4166087192180044e-09, 9.146313151298102e-10, 1.0], "tokens_in": 94, "tokens_out": 306, "forced": false, "think_chars": 1272}
+{"task": "csqa", "idx": 512, "label": 1, "probs": [7.734421103577915e-08, 0.9999998807907104, 1.6052277285183436e-09, 5.263339986072424e-09, 4.363462036138799e-09], "tokens_in": 74, "tokens_out": 272, "forced": false, "think_chars": 1121}
+{"task": "sst2", "idx": 233, "label": 0, "probs": [0.9999958276748657, 4.2228334677929524e-06], "tokens_in": 63, "tokens_out": 166, "forced": false, "think_chars": 694}
+{"task": "mnli", "idx": 433, "label": 2, "probs": [2.8172628674383304e-09, 4.745044912546348e-10, 1.0], "tokens_in": 92, "tokens_out": 277, "forced": false, "think_chars": 1090}
+{"task": "csqa", "idx": 464, "label": 4, "probs": [1.9171712828391918e-10, 1.3574332058396976e-07, 1.1861118309752783e-08, 3.028842598951087e-08, 0.9999998807907104], "tokens_in": 79, "tokens_out": 238, "forced": false, "think_chars": 997}
+{"task": "csqa", "idx": 477, "label": 0, "probs": [1.0, 3.432128892200126e-08, 1.50797219156118e-09, 3.3982678893096363e-09, 9.23744991609965e-09], "tokens_in": 83, "tokens_out": 341, "forced": false, "think_chars": 1399}
+{"task": "csqa", "idx": 531, "label": 4, "probs": [3.933780245990448e-10, 1.2501527590913497e-09, 1.8581861049860038e-10, 1.5381733931008057e-07, 0.9999998807907104], "tokens_in": 77, "tokens_out": 277, "forced": false, "think_chars": 1189}
+{"task": "boolq", "idx": 144, "label": 0, "probs": [0.9999980926513672, 1.8738753624347737e-06], "tokens_in": 72, "tokens_out": 128, "forced": false, "think_chars": 458}
+{"task": "sst2", "idx": 176, "label": 0, "probs": [0.9999997615814209, 2.3823690753488336e-07], "tokens_in": 62, "tokens_out": 153, "forced": false, "think_chars": 605}
+{"task": "csqa", "idx": 575, "label": 3, "probs": [6.286163256596922e-10, 4.1874875789105204e-10, 5.323793142442135e-11, 1.0, 6.758262394157555e-09], "tokens_in": 75, "tokens_out": 205, "forced": false, "think_chars": 828}
+{"task": "csqa", "idx": 462, "label": 1, "probs": [0.9999996423721313, 8.233246262534522e-08, 1.3307802637640975e-09, 2.9989597472024343e-09, 2.8736849344568327e-07], "tokens_in": 75, "tokens_out": 599, "forced": false, "think_chars": 2502}
+{"task": "mnli", "idx": 371, "label": 0, "probs": [4.139937459513021e-08, 0.9999998807907104, 1.9555679742211396e-08], "tokens_in": 92, "tokens_out": 501, "forced": false, "think_chars": 2148}
+{"task": "csqa", "idx": 451, "label": 4, "probs": [6.485707526593387e-10, 2.1940866901104528e-09, 1.4166087192180044e-09, 9.146313151298102e-10, 1.0], "tokens_in": 72, "tokens_out": 215, "forced": false, "think_chars": 949}
+{"task": "csqa", "idx": 526, "label": 4, "probs": [3.726423983607674e-06, 1.287817667616764e-06, 0.9999384880065918, 5.144169699633494e-05, 5.09341771248728e-06], "tokens_in": 74, "tokens_out": 493, "forced": false, "think_chars": 2159}
+{"task": "csqa", "idx": 530, "label": 0, "probs": [7.658099931973084e-09, 1.5229952410322767e-08, 1.5229952410322767e-08, 9.237432152531255e-09, 1.0], "tokens_in": 70, "tokens_out": 367, "forced": false, "think_chars": 1656}
+{"task": "csqa", "idx": 532, "label": 3, "probs": [1.2626097500856304e-08, 4.94445018262013e-09, 3.581747953784742e-10, 1.0, 2.8453348122070565e-08], "tokens_in": 74, "tokens_out": 327, "forced": false, "think_chars": 1267}
+{"task": "sst2", "idx": 295, "label": 1, "probs": [1.1142490485838152e-08, 1.0], "tokens_in": 60, "tokens_out": 231, "forced": false, "think_chars": 917}
+{"task": "csqa", "idx": 510, "label": 1, "probs": [2.0816910861753968e-08, 1.4449801710725296e-07, 1.5229979055675358e-08, 8.152019503882002e-09, 0.9999998807907104], "tokens_in": 73, "tokens_out": 390, "forced": false, "think_chars": 1695}
+{"task": "csqa", "idx": 572, "label": 0, "probs": [0.9999998807907104, 6.758261505979135e-09, 6.286162701485409e-10, 7.823255376848692e-10, 1.7429786680622783e-07], "tokens_in": 70, "tokens_out": 227, "forced": false, "think_chars": 965}
+{"task": "sst2", "idx": 240, "label": 1, "probs": [7.658115031006218e-09, 1.0], "tokens_in": 61, "tokens_out": 189, "forced": false, "think_chars": 710}
+{"task": "mnli", "idx": 316, "label": 0, "probs": [1.0, 1.0364131775020269e-09, 1.359478224438604e-10], "tokens_in": 94, "tokens_out": 295, "forced": false, "think_chars": 1130}
+{"task": "csqa", "idx": 474, "label": 0, "probs": [0.9999997615814209, 1.0571698538797136e-07, 4.644880480242364e-09, 1.708755914542337e-09, 1.4449800289639825e-07], "tokens_in": 71, "tokens_out": 330, "forced": false, "think_chars": 1412}
+{"task": "csqa", "idx": 536, "label": 4, "probs": [1.8189616479702408e-09, 5.211412412720051e-10, 5.211412412720051e-10, 4.94445018262013e-09, 1.0], "tokens_in": 73, "tokens_out": 226, "forced": false, "think_chars": 948}
+{"task": "csqa", "idx": 596, "label": 0, "probs": [0.9999784231185913, 1.4449491914092505e-07, 1.9555258745640458e-08, 8.677593754669033e-09, 2.1444946469273418e-05], "tokens_in": 77, "tokens_out": 453, "forced": false, "think_chars": 1822}
+{"task": "csqa", "idx": 538, "label": 0, "probs": [0.9999992847442627, 3.432126405300551e-08, 1.1861111204325425e-08, 3.2563110607952694e-07, 3.689883669721894e-07], "tokens_in": 70, "tokens_out": 391, "forced": false, "think_chars": 1564}
+{"task": "sst2", "idx": 170, "label": 1, "probs": [7.734421103577915e-08, 0.9999998807907104], "tokens_in": 60, "tokens_out": 175, "forced": false, "think_chars": 709}
+{"task": "csqa", "idx": 480, "label": 4, "probs": [4.457557378767518e-10, 5.905304023556823e-10, 1.2501528701136522e-09, 8.592166977905435e-10, 1.0], "tokens_in": 79, "tokens_out": 286, "forced": false, "think_chars": 1271}
+{"task": "sst2", "idx": 200, "label": 0, "probs": [0.999998927116394, 1.0677028967620572e-06], "tokens_in": 61, "tokens_out": 172, "forced": false, "think_chars": 688}
+{"task": "sst2", "idx": 259, "label": 0, "probs": [0.9999990463256836, 9.422445828022319e-07], "tokens_in": 60, "tokens_out": 187, "forced": false, "think_chars": 726}
+{"task": "csqa", "idx": 551, "label": 4, "probs": [6.023572751701067e-08, 3.43212818165739e-08, 4.363461592049589e-09, 0.9999997615814209, 1.742978383845184e-07], "tokens_in": 78, "tokens_out": 384, "forced": false, "think_chars": 1671}
+{"task": "sst2", "idx": 178, "label": 0, "probs": [0.9999991655349731, 8.315280410897685e-07], "tokens_in": 58, "tokens_out": 234, "forced": false, "think_chars": 949}
+{"task": "csqa", "idx": 459, "label": 3, "probs": [8.327813993957989e-10, 9.146313151298102e-10, 1.447156977585351e-10, 1.0, 1.7087563586315468e-09], "tokens_in": 75, "tokens_out": 364, "forced": false, "think_chars": 1492}
+{"task": "csqa", "idx": 499, "label": 4, "probs": [1.7087563586315468e-09, 1.2626097500856304e-08, 2.1940866901104528e-09, 2.6729447100137804e-08, 1.0], "tokens_in": 76, "tokens_out": 438, "forced": false, "think_chars": 1793}
+{"task": "csqa", "idx": 519, "label": 3, "probs": [1.50797219156118e-09, 1.50797219156118e-09, 7.823256487071717e-10, 1.0, 7.194133289090132e-09], "tokens_in": 73, "tokens_out": 257, "forced": false, "think_chars": 1091}
+{"task": "sst2", "idx": 246, "label": 1, "probs": [7.734421103577915e-08, 0.9999998807907104], "tokens_in": 62, "tokens_out": 198, "forced": false, "think_chars": 841}
+{"task": "sst2", "idx": 283, "label": 0, "probs": [0.9999995231628418, 4.1811870232777437e-07], "tokens_in": 60, "tokens_out": 130, "forced": false, "think_chars": 518}
+{"task": "csqa", "idx": 548, "label": 4, "probs": [3.432127826386022e-08, 1.5381729667751642e-07, 8.764245507109081e-08, 4.993716373746793e-08, 0.9999996423721313], "tokens_in": 73, "tokens_out": 362, "forced": false, "think_chars": 1560}
+{"task": "sst2", "idx": 278, "label": 1, "probs": [1.1253527532062435e-07, 0.9999998807907104], "tokens_in": 61, "tokens_out": 191, "forced": false, "think_chars": 737}
+{"task": "csqa", "idx": 454, "label": 3, "probs": [2.646573848963385e-09, 2.8172628674383304e-09, 4.457557378767518e-10, 1.0, 4.139937814784389e-08], "tokens_in": 76, "tokens_out": 241, "forced": false, "think_chars": 1046}
+{"task": "csqa", "idx": 460, "label": 1, "probs": [1.3176514046531196e-10, 1.0, 1.0986268318691206e-11, 2.789468100949932e-10, 1.12704706678457e-10], "tokens_in": 76, "tokens_out": 252, "forced": false, "think_chars": 1002}
+{"task": "csqa", "idx": 594, "label": 4, "probs": [1.0467402056235642e-08, 2.998960857425459e-09, 1.9555681518568235e-08, 6.348800152267131e-09, 1.0], "tokens_in": 75, "tokens_out": 269, "forced": false, "think_chars": 1055}
+{"task": "csqa", "idx": 558, "label": 2, "probs": [6.412059860849695e-08, 6.412059860849695e-08, 0.9999997615814209, 2.6465731828295702e-09, 2.2159484913686356e-08], "tokens_in": 68, "tokens_out": 546, "forced": false, "think_chars": 2422}
+{"task": "csqa", "idx": 509, "label": 4, "probs": [9.833213354681902e-09, 6.758261505979135e-09, 2.06115324807854e-09, 0.9999998807907104, 1.0571699959882608e-07], "tokens_in": 73, "tokens_out": 591, "forced": false, "think_chars": 2380}
+{"task": "csqa", "idx": 495, "label": 3, "probs": [3.2563121976636467e-07, 2.6729438218353607e-08, 4.363460703871169e-09, 0.9999996423721313, 4.4069395244150655e-08], "tokens_in": 70, "tokens_out": 400, "forced": false, "think_chars": 1695}
+{"task": "csqa", "idx": 479, "label": 4, "probs": [5.602796449011294e-09, 3.3982678893096363e-09, 2.335593052293916e-09, 6.348800152267131e-09, 1.0], "tokens_in": 68, "tokens_out": 321, "forced": false, "think_chars": 1264}
+{"task": "csqa", "idx": 527, "label": 0, "probs": [1.0, 1.447156977585351e-10, 1.6752058074054332e-11, 1.2256066821147993e-11, 7.194133289090132e-09], "tokens_in": 69, "tokens_out": 280, "forced": false, "think_chars": 1146}
+{"task": "csqa", "idx": 503, "label": 4, "probs": [7.123155398858216e-10, 2.06115324807854e-09, 3.5817473986732296e-10, 7.734421103577915e-08, 0.9999998807907104], "tokens_in": 69, "tokens_out": 241, "forced": false, "think_chars": 1014}
+{"task": "csqa", "idx": 552, "label": 4, "probs": [1.3440409674103648e-08, 3.224186784223093e-08, 2.998960857425459e-09, 9.43664812957934e-10, 1.0], "tokens_in": 72, "tokens_out": 597, "forced": false, "think_chars": 2558}
+{"task": "csqa", "idx": 595, "label": 1, "probs": [1.2501528701136522e-09, 1.0, 4.3204126387585973e-10, 1.9362746961348876e-09, 1.7257828943684217e-08], "tokens_in": 72, "tokens_out": 235, "forced": false, "think_chars": 977}
+{"task": "csqa", "idx": 580, "label": 0, "probs": [1.067699713530601e-06, 0.9999959468841553, 9.329455963325017e-08, 4.406923181932143e-08, 2.9023087790847057e-06], "tokens_in": 66, "tokens_out": 475, "forced": false, "think_chars": 2059}
+{"task": "sst2", "idx": 268, "label": 0, "probs": [0.9999990463256836, 9.422445828022319e-07], "tokens_in": 57, "tokens_out": 175, "forced": false, "think_chars": 697}
+{"task": "sst2", "idx": 217, "label": 1, "probs": [7.194133289090132e-09, 1.0], "tokens_in": 59, "tokens_out": 219, "forced": false, "think_chars": 843}
+{"task": "sst2", "idx": 270, "label": 1, "probs": [0.9999946355819702, 5.422219146566931e-06], "tokens_in": 55, "tokens_out": 170, "forced": false, "think_chars": 683}
+{"task": "csqa", "idx": 496, "label": 3, "probs": [4.099093509069007e-09, 4.099093509069007e-09, 1.1744099026600452e-09, 1.0, 1.3440409674103648e-08], "tokens_in": 76, "tokens_out": 384, "forced": false, "think_chars": 1426}
+{"task": "sst2", "idx": 181, "label": 1, "probs": [3.028842954222455e-08, 1.0], "tokens_in": 57, "tokens_out": 179, "forced": false, "think_chars": 730}
+{"task": "mnli", "idx": 393, "label": 0, "probs": [1.0, 1.5229980832032197e-08, 1.1142490485838152e-08], "tokens_in": 87, "tokens_out": 269, "forced": false, "think_chars": 1124}
+{"task": "csqa", "idx": 465, "label": 3, "probs": [2.510998697857758e-08, 1.7257827167327378e-08, 2.3588651032468988e-08, 0.9999998807907104, 1.2751904421293148e-07], "tokens_in": 70, "tokens_out": 322, "forced": false, "think_chars": 1387}
+{"task": "csqa", "idx": 567, "label": 3, "probs": [1.0, 6.758262394157555e-09, 1.0364131775020269e-09, 3.16088155649652e-10, 2.2159490242756874e-08], "tokens_in": 69, "tokens_out": 417, "forced": false, "think_chars": 1620}
+{"task": "csqa", "idx": 450, "label": 3, "probs": [1.0467402056235642e-08, 8.67778116031559e-09, 7.658115031006218e-09, 1.0, 2.8453348122070565e-08], "tokens_in": 71, "tokens_out": 310, "forced": false, "think_chars": 1225}
+{"task": "sst2", "idx": 238, "label": 0, "probs": [0.9999992847442627, 7.338210252783028e-07], "tokens_in": 57, "tokens_out": 188, "forced": false, "think_chars": 758}
+{"task": "sst2", "idx": 290, "label": 0, "probs": [6.825602838489431e-08, 0.9999998807907104], "tokens_in": 56, "tokens_out": 231, "forced": false, "think_chars": 976}
+{"task": "sst2", "idx": 221, "label": 0, "probs": [0.9797040224075317, 0.020295925438404083], "tokens_in": 56, "tokens_out": 4, "forced": true, "think_chars": 1}
+{"task": "sst2", "idx": 293, "label": 0, "probs": [0.9999978542327881, 2.1233784082141938e-06], "tokens_in": 55, "tokens_out": 129, "forced": false, "think_chars": 558}
+{"task": "sst2", "idx": 257, "label": 0, "probs": [3.2563121976636467e-07, 0.9999996423721313], "tokens_in": 56, "tokens_out": 423, "forced": false, "think_chars": 1868}
+{"task": "sst2", "idx": 252, "label": 0, "probs": [0.9999978542327881, 2.1233784082141938e-06], "tokens_in": 56, "tokens_out": 163, "forced": false, "think_chars": 641}
+{"task": "sst2", "idx": 264, "label": 1, "probs": [7.194133289090132e-09, 1.0], "tokens_in": 54, "tokens_out": 163, "forced": false, "think_chars": 658}
+{"task": "sst2", "idx": 152, "label": 0, "probs": [0.9999910593032837, 8.939696272136644e-06], "tokens_in": 54, "tokens_out": 176, "forced": false, "think_chars": 746}
+{"task": "sst2", "idx": 211, "label": 0, "probs": [0.9999992847442627, 7.338210252783028e-07], "tokens_in": 54, "tokens_out": 168, "forced": false, "think_chars": 625}
+{"task": "sst2", "idx": 251, "label": 0, "probs": [8.315280410897685e-07, 0.9999991655349731], "tokens_in": 57, "tokens_out": 280, "forced": false, "think_chars": 1184}
+{"task": "sst2", "idx": 214, "label": 0, "probs": [0.9999785423278809, 2.1444948288262822e-05], "tokens_in": 52, "tokens_out": 333, "forced": false, "think_chars": 1398}
+{"task": "sst2", "idx": 260, "label": 0, "probs": [0.9999978542327881, 2.1233784082141938e-06], "tokens_in": 54, "tokens_out": 193, "forced": false, "think_chars": 859}
+{"task": "sst2", "idx": 180, "label": 0, "probs": [9.931193289958173e-08, 0.9999998807907104], "tokens_in": 53, "tokens_out": 323, "forced": false, "think_chars": 1389}
+{"task": "sst2", "idx": 187, "label": 0, "probs": [1.7429786680622783e-07, 0.9999998807907104], "tokens_in": 52, "tokens_out": 335, "forced": false, "think_chars": 1484}
+{"task": "sst2", "idx": 190, "label": 0, "probs": [0.9999852180480957, 1.4738980098627508e-05], "tokens_in": 55, "tokens_out": 269, "forced": false, "think_chars": 1104}
+{"task": "sst2", "idx": 177, "label": 1, "probs": [4.737905499041517e-07, 0.9999995231628418], "tokens_in": 54, "tokens_out": 259, "forced": false, "think_chars": 1070}
+{"task": "sst2", "idx": 267, "label": 0, "probs": [1.1979305725162703e-07, 0.9999998807907104], "tokens_in": 54, "tokens_out": 339, "forced": false, "think_chars": 1434}
+{"task": "sst2", "idx": 151, "label": 0, "probs": [0.9999971389770508, 2.9023121896898374e-06], "tokens_in": 53, "tokens_out": 138, "forced": false, "think_chars": 574}
+{"task": "sst2", "idx": 222, "label": 0, "probs": [0.9999985694885254, 1.370957193103095e-06], "tokens_in": 52, "tokens_out": 162, "forced": false, "think_chars": 648}
+{"task": "sst2", "idx": 272, "label": 1, "probs": [6.475948453044111e-07, 0.9999994039535522], "tokens_in": 52, "tokens_out": 205, "forced": false, "think_chars": 806}
+{"task": "sst2", "idx": 160, "label": 0, "probs": [8.233248394162729e-08, 0.9999998807907104], "tokens_in": 52, "tokens_out": 275, "forced": false, "think_chars": 1086}
+{"task": "sst2", "idx": 236, "label": 0, "probs": [7.811483442310418e-07, 0.9999991655349731], "tokens_in": 51, "tokens_out": 200, "forced": false, "think_chars": 836}
+{"task": "sst2", "idx": 206, "label": 0, "probs": [0.9999991655349731, 8.851569646139978e-07], "tokens_in": 52, "tokens_out": 179, "forced": false, "think_chars": 662}
+{"task": "sst2", "idx": 235, "label": 0, "probs": [0.9986749291419983, 0.0013250218471512198], "tokens_in": 51, "tokens_out": 600, "forced": true, "think_chars": 2613}
+{"task": "sst2", "idx": 258, "label": 0, "probs": [0.06754667311906815, 0.9324532747268677], "tokens_in": 51, "tokens_out": 701, "forced": true, "think_chars": 3114}
+{"task": "sst2", "idx": 273, "label": 1, "probs": [6.41206057139243e-08, 0.9999998807907104], "tokens_in": 52, "tokens_out": 294, "forced": false, "think_chars": 1177}
+{"task": "sst2", "idx": 168, "label": 0, "probs": [8.764247638737288e-08, 0.9999998807907104], "tokens_in": 51, "tokens_out": 276, "forced": false, "think_chars": 1113}
+{"task": "sst2", "idx": 205, "label": 1, "probs": [1.0571699959882608e-07, 0.9999998807907104], "tokens_in": 52, "tokens_out": 102, "forced": false, "think_chars": 407}
+{"task": "sst2", "idx": 291, "label": 0, "probs": [0.9999971389770508, 2.9023121896898374e-06], "tokens_in": 51, "tokens_out": 138, "forced": false, "think_chars": 540}
+{"task": "sst2", "idx": 237, "label": 0, "probs": [1.1979305725162703e-07, 0.9999998807907104], "tokens_in": 52, "tokens_out": 393, "forced": false, "think_chars": 1598}
+{"task": "sst2", "idx": 261, "label": 1, "probs": [8.233248394162729e-08, 0.9999998807907104], "tokens_in": 51, "tokens_out": 102, "forced": false, "think_chars": 390}
+{"task": "sst2", "idx": 274, "label": 1, "probs": [1.855391076333035e-07, 0.9999997615814209], "tokens_in": 51, "tokens_out": 115, "forced": false, "think_chars": 468}
+{"task": "sst2", "idx": 198, "label": 0, "probs": [0.9999898672103882, 1.012999018712435e-05], "tokens_in": 51, "tokens_out": 163, "forced": false, "think_chars": 622}
+{"task": "yelp", "idx": 609, "label": 4, "probs": [0.9821999073028564, 0.001673295395448804, 0.014913917519152164, 0.0011500378604978323, 6.28845882602036e-05], "tokens_in": 87, "tokens_out": 457, "forced": false, "think_chars": 2048}
+{"task": "yelp", "idx": 668, "label": 4, "probs": [4.363462480228009e-09, 1.43072416136647e-08, 2.6729447100137804e-08, 1.1861120086109622e-08, 1.0], "tokens_in": 87, "tokens_out": 291, "forced": false, "think_chars": 1065}
+{"task": "sst2", "idx": 213, "label": 0, "probs": [2.2603242086915998e-06, 0.9999977350234985], "tokens_in": 50, "tokens_out": 319, "forced": false, "think_chars": 1277}
+{"task": "sst2", "idx": 280, "label": 0, "probs": [0.9999958276748657, 4.2228334677929524e-06], "tokens_in": 50, "tokens_out": 118, "forced": false, "think_chars": 440}

@@ -1,0 +1,225 @@
+{
+  "n_items": 1900,
+  "arms": {
+    "head": {
+      "acc": 0.772,
+      "brier": 0.34360105316506273,
+      "tokens": 205.2425,
+      "tokens_shared_prefix": 93.096
+    },
+    "direct_e4b_it": {
+      "acc": 0.774,
+      "brier": 0.38488814561584006,
+      "tokens": 120.128,
+      "n": 1900,
+      "forced_rate": 0.0010526315789473684,
+      "tokens_out": 1.016842105263158
+    },
+    "think_e4b_it": {
+      "acc": 0.808,
+      "brier": 0.3861914606399616,
+      "tokens": 521.1229999999999,
+      "n": 1900,
+      "forced_rate": 0.019473684210526317,
+      "tokens_out": 402.63631578947366
+    }
+  },
+  "per_task": {
+    "imdb": {
+      "head": 0.975,
+      "direct_e4b_it": 0.905,
+      "think_e4b_it": 0.93
+    },
+    "rte": {
+      "head": 0.835,
+      "direct_e4b_it": 0.83,
+      "think_e4b_it": 0.905
+    },
+    "hellaswag": {
+      "head": 0.85,
+      "direct_e4b_it": 0.775,
+      "think_e4b_it": 0.725
+    },
+    "arc_easy": {
+      "head": 0.93,
+      "direct_e4b_it": 0.97,
+      "think_e4b_it": 0.96
+    },
+    "openbookqa": {
+      "head": 0.725,
+      "direct_e4b_it": 0.845,
+      "think_e4b_it": 0.94
+    },
+    "mrpc": {
+      "head": 0.71,
+      "direct_e4b_it": 0.655,
+      "think_e4b_it": 0.64
+    },
+    "wic": {
+      "head": 0.61,
+      "direct_e4b_it": 0.67,
+      "think_e4b_it": 0.73
+    },
+    "winogrande": {
+      "head": 0.685,
+      "direct_e4b_it": 0.66,
+      "think_e4b_it": 0.79
+    },
+    "copa": {
+      "head": 0.97,
+      "direct_e4b_it": 0.95,
+      "think_e4b_it": 0.98
+    },
+    "stsb": {
+      "head": 0.43,
+      "direct_e4b_it": 0.48,
+      "think_e4b_it": 0.48
+    }
+  },
+  "cascade": {
+    "direct_e4b_it": [
+      {
+        "acc": 0.772,
+        "brier": 0.34360105316506273,
+        "tokens": 93.096,
+        "threshold": 0.0,
+        "escalated": 0.0
+      },
+      {
+        "acc": 0.783,
+        "brier": 0.3414393479824879,
+        "tokens": 98.8255,
+        "threshold": 0.5,
+        "escalated": 0.04631578947368421
+      },
+      {
+        "acc": 0.7945,
+        "brier": 0.3398282138212396,
+        "tokens": 105.27550000000001,
+        "threshold": 0.6,
+        "escalated": 0.11263157894736842
+      },
+      {
+        "acc": 0.7969999999999999,
+        "brier": 0.3487986603020381,
+        "tokens": 111.275,
+        "threshold": 0.7,
+        "escalated": 0.16894736842105262
+      },
+      {
+        "acc": 0.8025,
+        "brier": 0.34870986517542774,
+        "tokens": 118.36200000000001,
+        "threshold": 0.8,
+        "escalated": 0.23789473684210527
+      },
+      {
+        "acc": 0.8029999999999999,
+        "brier": 0.34875375161161204,
+        "tokens": 121.77850000000001,
+        "threshold": 0.85,
+        "escalated": 0.27157894736842103
+      },
+      {
+        "acc": 0.8009999999999999,
+        "brier": 0.35315744321050635,
+        "tokens": 126.67,
+        "threshold": 0.9,
+        "escalated": 0.32052631578947366
+      },
+      {
+        "acc": 0.8065,
+        "brier": 0.3453525077986691,
+        "tokens": 133.4045,
+        "threshold": 0.95,
+        "escalated": 0.38263157894736843
+      },
+      {
+        "acc": 0.7995,
+        "brier": 0.3546825947995672,
+        "tokens": 141.519,
+        "threshold": 0.98,
+        "escalated": 0.45631578947368423
+      },
+      {
+        "acc": 0.774,
+        "brier": 0.38488814561584006,
+        "tokens": 213.224,
+        "threshold": 1.01,
+        "escalated": 1.0
+      }
+    ],
+    "think_e4b_it": [
+      {
+        "acc": 0.772,
+        "brier": 0.34360105316506273,
+        "tokens": 93.096,
+        "threshold": 0.0,
+        "escalated": 0.0
+      },
+      {
+        "acc": 0.787,
+        "brier": 0.3401175273704697,
+        "tokens": 123.09,
+        "threshold": 0.5,
+        "escalated": 0.04631578947368421
+      },
+      {
+        "acc": 0.8029999999999999,
+        "brier": 0.339901302685626,
+        "tokens": 157.72,
+        "threshold": 0.6,
+        "escalated": 0.11263157894736842
+      },
+      {
+        "acc": 0.8089999999999999,
+        "brier": 0.34645629024078317,
+        "tokens": 189.3845,
+        "threshold": 0.7,
+        "escalated": 0.16894736842105262
+      },
+      {
+        "acc": 0.8195,
+        "brier": 0.3441693035057397,
+        "tokens": 225.349,
+        "threshold": 0.8,
+        "escalated": 0.23789473684210527
+      },
+      {
+        "acc": 0.82,
+        "brier": 0.3475914114240697,
+        "tokens": 243.196,
+        "threshold": 0.85,
+        "escalated": 0.27157894736842103
+      },
+      {
+        "acc": 0.8195,
+        "brier": 0.35457992062866944,
+        "tokens": 268.2445,
+        "threshold": 0.9,
+        "escalated": 0.32052631578947366
+      },
+      {
+        "acc": 0.8234999999999999,
+        "brier": 0.3508112955665893,
+        "tokens": 299.6025,
+        "threshold": 0.95,
+        "escalated": 0.38263157894736843
+      },
+      {
+        "acc": 0.8185,
+        "brier": 0.3622947035386256,
+        "tokens": 338.3175,
+        "threshold": 0.98,
+        "escalated": 0.45631578947368423
+      },
+      {
+        "acc": 0.808,
+        "brier": 0.3861914606399616,
+        "tokens": 614.2189999999999,
+        "threshold": 1.01,
+        "escalated": 1.0
+      }
+    ]
+  }
+}
